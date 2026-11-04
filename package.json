@@ -1,0 +1,32 @@
+{
+  "name": "examen-civique",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Préparation à l'examen civique (naturalisation) : entraînement, examens blancs, fiches de révision",
+  "scripts": {
+    "data": "node scripts/build-data.mjs",
+    "validate": "node scripts/validate-data.mjs",
+    "predev": "node scripts/build-data.mjs",
+    "dev": "next dev",
+    "prebuild": "node scripts/build-data.mjs",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "dependencies": {
+    "next": "16.4.5",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.4",
+    "@types/node": "24.19.2",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "tailwindcss": "4.3.4",
+    "typescript": "5.9.3"
+  }
+}

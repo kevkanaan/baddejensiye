@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --color-france-blue: #1f3a93;
+  --color-france-red: #d62839;
+}
+
+:root {
+  color-scheme: light dark;
+}
+
+html {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  @apply bg-slate-50 text-slate-900 antialiased dark:bg-slate-950 dark:text-slate-100;
+}
+
+/* Boutons et cartes réutilisables */
+@utility card {
+  @apply rounded-2xl border border-slate-200 bg-white shadow-sm dark:border-slate-800 dark:bg-slate-900;
+}
+
+@utility btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition active:scale-[0.98] disabled:cursor-not-allowed disabled:opacity-50;
+}
+
+@utility btn-primary {
+  @apply bg-france-blue text-white hover:bg-blue-900 dark:bg-blue-600 dark:hover:bg-blue-500;
+}
+
+@utility btn-ghost {
+  @apply border border-slate-300 bg-white text-slate-800 hover:bg-slate-100 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100 dark:hover:bg-slate-800;
+}
+
+@utility chip {
+  @apply inline-flex items-center gap-1.5 rounded-full border px-3 py-1.5 text-sm font-medium transition select-none;
+}
+
+/* hauteur de la barre de navigation du bas (téléphone) */
+:root {
+  --nav-h: 3.75rem;
+}
+
+.pb-safe {
+  padding-bottom: calc(env(safe-area-inset-bottom) + var(--nav-h) + 1rem);
+}
+
+@media (min-width: 768px) {
+  :root {
+    --nav-h: 0px;
+  }
+  .pb-safe {
+    padding-bottom: 2rem;
+  }
+}

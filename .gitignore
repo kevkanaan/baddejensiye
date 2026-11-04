@@ -1,0 +1,17 @@
+# dépendances
+/node_modules
+
+# next.js
+/.next/
+/out/
+next-env.d.ts
+*.tsbuildinfo
+
+# données fusionnées (régénérées par `npm run data` avant dev/build)
+/generated/
+
+# divers
+.DS_Store
+*.log
+.env*.local
+.vercel
