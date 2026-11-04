@@ -1,0 +1,1124 @@
+[
+  {
+    "id": "pri-s-001",
+    "theme": "principes",
+    "subtheme": "Laïcité",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Leïla, qui porte un foulard, se présente au guichet de la préfecture pour déposer son dossier. L'agent hésite à la recevoir. Que doit faire l'agent ?",
+    "choices": [
+      "Lui demander d'enlever son foulard avant de la recevoir",
+      "La recevoir normalement, comme tout autre usager",
+      "Lui demander de revenir sans signe religieux",
+      "La faire passer après les autres usagers"
+    ],
+    "answer": 1,
+    "explanation": "La neutralité religieuse s'impose aux agents du service public, pas aux usagers : Leïla peut garder son foulard. Seule exception ponctuelle : découvrir son visage le temps d'une vérification d'identité. Retenir : l'agent est neutre, l'usager est libre.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/la-laicite-dans-les-services-publics/"
+  },
+  {
+    "id": "pri-s-002",
+    "theme": "principes",
+    "subtheme": "Laïcité",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Au guichet de l'état civil de la mairie, un agent porte une grande croix bien visible et conseille aux usagers de venir à son église. Ce comportement est-il conforme à la loi ?",
+    "choices": [
+      "Oui, c'est sa liberté de religion",
+      "Oui, si aucun usager ne s'en plaint",
+      "Non, un agent public doit rester neutre",
+      "Oui, car la mairie est un lieu ouvert à tous"
+    ],
+    "answer": 2,
+    "explanation": "Dans l'exercice de ses fonctions, l'agent public est soumis au principe de neutralité : il ne peut ni porter de signe religieux ni faire de prosélytisme. L'usager peut le signaler au responsable du service.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/la-laicite-au-travail/"
+  },
+  {
+    "id": "pri-s-003",
+    "theme": "principes",
+    "subtheme": "Laïcité",
+    "type": "situation",
+    "origin": "complement",
+    "question": "À la CAF, Marc refuse d'être reçu par une conseillère et exige un conseiller homme « pour des raisons religieuses ». Quelle réaction est correcte ?",
+    "choices": [
+      "Il est reçu par la conseillère disponible",
+      "La CAF doit lui trouver un conseiller homme",
+      "La conseillère doit céder sa place à un collègue",
+      "Il passe devant les autres pour voir un homme"
+    ],
+    "answer": 0,
+    "explanation": "Un usager ne peut ni choisir ni récuser un agent, ni exiger une adaptation du service public au nom de sa religion (Charte de la laïcité dans les services publics). L'égalité femmes-hommes s'applique aussi aux agents.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/la-laicite-dans-les-services-publics/"
+  },
+  {
+    "id": "pri-s-004",
+    "theme": "principes",
+    "subtheme": "Laïcité à l'école",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Sofia, 13 ans, veut porter son voile en classe, au collège public de son quartier. Que prévoit la loi ?",
+    "choices": [
+      "C'est autorisé avec l'accord des parents",
+      "C'est autorisé au nom de la liberté religieuse",
+      "C'est autorisé seulement pendant la récréation",
+      "C'est interdit, car c'est un signe ostensible"
+    ],
+    "answer": 3,
+    "explanation": "La loi du 15 mars 2004 interdit les signes religieux ostensibles (voile, kippa, grande croix) dans les écoles, collèges et lycées publics. Les signes discrets restent autorisés, et un dialogue avec l'élève et sa famille précède toute sanction.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/la-laicite-a-ecole-2/"
+  },
+  {
+    "id": "pri-s-005",
+    "theme": "principes",
+    "subtheme": "Laïcité à l'école",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Lucas porte une petite médaille religieuse discrète autour du cou au lycée public. Un camarade lui dit qu'il va être exclu. Qu'en est-il ?",
+    "choices": [
+      "Il doit l'enlever dès l'entrée du lycée",
+      "Il doit demander une autorisation écrite",
+      "Il peut la garder, car elle est discrète",
+      "Il sera exclu sans aucun dialogue"
+    ],
+    "answer": 2,
+    "explanation": "La loi de 2004 n'interdit à l'école publique que les signes ou tenues par lesquels les élèves manifestent ostensiblement une appartenance religieuse. Une petite croix, une petite médaille, une petite main de Fatma ou une petite étoile de David sont autorisées.",
+    "source": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000417977"
+  },
+  {
+    "id": "pri-s-006",
+    "theme": "principes",
+    "subtheme": "Laïcité à l'école",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Le père de Nadia, 10 ans, demande à l'école publique de la dispenser des cours de natation, qui sont mixtes, pour des raisons religieuses. Quelle réponse est conforme à la loi ?",
+    "choices": [
+      "L'école doit accepter par respect de sa religion",
+      "Nadia doit suivre ce cours obligatoire",
+      "Nadia peut suivre un cours réservé aux filles",
+      "Le père peut la garder à la maison ces jours-là"
+    ],
+    "answer": 1,
+    "explanation": "Aucun élève ne peut refuser un enseignement obligatoire pour des raisons religieuses (Charte de la laïcité à l'école). Seul un certificat médical peut justifier une dispense de sport ou de natation.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/la-laicite-a-ecole-2/"
+  },
+  {
+    "id": "pri-s-007",
+    "theme": "principes",
+    "subtheme": "Laïcité à l'école",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Yanis raconte à sa mère qu'en cours d'histoire, à l'école publique, son professeur a présenté les grandes religions et leur histoire. Sa mère se demande si c'est permis. Que lui répondre ?",
+    "choices": [
+      "C'est normal : le fait religieux est enseigné de façon neutre",
+      "C'est interdit : la laïcité exclut toute religion à l'école",
+      "C'est permis seulement si les parents ont donné leur accord",
+      "C'est interdit : il faut porter plainte contre le professeur"
+    ],
+    "answer": 0,
+    "explanation": "La laïcité n'interdit pas de parler des religions : l'école publique enseigne le fait religieux (histoire, arts, littérature) de façon neutre et sans prosélytisme. Ce qui est interdit, c'est de promouvoir une croyance.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/la-laicite-a-ecole-2/"
+  },
+  {
+    "id": "pri-s-008",
+    "theme": "principes",
+    "subtheme": "Laïcité à l'école",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Dans une école publique, une enseignante fait prier ses élèves en classe et leur explique que sa religion est la seule vraie. Que peuvent faire les parents ?",
+    "choices": [
+      "Rien, c'est sa liberté d'expression",
+      "Accepter si la majorité des parents est d'accord",
+      "Retirer leur enfant de l'école sans prévenir",
+      "Le signaler au directeur ou à l'inspection"
+    ],
+    "answer": 3,
+    "explanation": "Les enseignants de l'école publique sont soumis à la neutralité et ne doivent faire aucun prosélytisme (Charte de la laïcité à l'école). Les parents le signalent au directeur de l'école, puis si besoin à l'inspection académique.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/le-proselytisme/"
+  },
+  {
+    "id": "pri-s-009",
+    "theme": "principes",
+    "subtheme": "Laïcité",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Des parents exigent que la cantine de l'école publique de leur commune serve chaque jour des repas conformes à leur religion. Que prévoit la règle ?",
+    "choices": [
+      "La commune est obligée de servir ces repas",
+      "La commune peut en proposer, sans y être obligée",
+      "La laïcité interdit tout menu de remplacement",
+      "Les parents peuvent fixer eux-mêmes le menu"
+    ],
+    "answer": 1,
+    "explanation": "On ne peut pas exiger une adaptation du service public au nom d'une religion. Le Conseil d'État (11 décembre 2020) a jugé que les menus de substitution ne sont ni obligatoires ni interdits : c'est un choix de la commune.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/la-laicite-dans-les-services-publics/"
+  },
+  {
+    "id": "pri-s-010",
+    "theme": "principes",
+    "subtheme": "Laïcité à l'hôpital",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Aux urgences d'un hôpital public, le mari de Fatou refuse que le médecin de garde, un homme, examine sa femme. Aucune femme médecin n'est disponible. Quelle affirmation est correcte ?",
+    "choices": [
+      "Le mari peut exiger d'attendre une femme médecin",
+      "Le mari donne son accord aux soins à la place de sa femme",
+      "Le mari ne peut pas imposer le choix du médecin",
+      "L'hôpital doit adapter le service à sa religion"
+    ],
+    "answer": 2,
+    "explanation": "À l'hôpital public, on ne peut pas imposer le choix d'un soignant pour des raisons religieuses, surtout en urgence : la patiente est soignée par le médecin disponible. Et c'est la patiente elle-même, pas son mari, qui consent aux soins.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/vivre-dans-la-societe-fran%C3%A7aise/sante/sante-les-droits-du-patient/"
+  },
+  {
+    "id": "pri-s-011",
+    "theme": "principes",
+    "subtheme": "Laïcité à l'hôpital",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Inès, infirmière dans un hôpital public, souhaite porter son voile pendant son service. Peut-elle le faire ?",
+    "choices": [
+      "Oui, si les patients ne s'y opposent pas",
+      "Oui, c'est sa liberté religieuse",
+      "Oui, si son chef de service l'accepte",
+      "Non, elle est soumise à la neutralité"
+    ],
+    "answer": 3,
+    "explanation": "Une infirmière d'un hôpital public est une agente publique : pendant son service, elle ne peut porter aucun signe religieux (principe de neutralité). En dehors du travail, elle reste libre de pratiquer sa religion.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/la-laicite-au-travail/"
+  },
+  {
+    "id": "pri-s-012",
+    "theme": "principes",
+    "subtheme": "Laïcité",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Le week-end, Thomas, agent d'accueil dans une préfecture, va à la synagogue en portant une kippa. Un voisin affirme qu'en tant qu'agent public, il n'en a pas le droit. Qui a raison ?",
+    "choices": [
+      "Thomas : la neutralité s'applique seulement pendant le service",
+      "Le voisin : un agent public ne peut jamais montrer sa religion",
+      "Le voisin : Thomas doit d'abord demander l'accord du préfet",
+      "Thomas, mais seulement s'il ne croise aucun usager du service"
+    ],
+    "answer": 0,
+    "explanation": "L'obligation de neutralité ne s'impose à l'agent public que dans l'exercice de ses fonctions. En dehors du travail, il est un citoyen libre de croire et de pratiquer sa religion, y compris en portant un signe religieux dans la rue.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/la-laicite-au-travail/"
+  },
+  {
+    "id": "pri-s-013",
+    "theme": "principes",
+    "subtheme": "Laïcité",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Amel, étudiante dans une université publique, assiste aux cours avec un foulard. Un autre étudiant affirme que c'est interdit, comme au lycée. A-t-il raison ?",
+    "choices": [
+      "Oui, la loi de 2004 s'applique aussi à l'université",
+      "Oui, tous les établissements publics sont concernés",
+      "Non, les étudiants peuvent porter un signe religieux",
+      "Non, mais elle doit l'enlever pendant les cours"
+    ],
+    "answer": 2,
+    "explanation": "L'interdiction des signes religieux ostensibles (loi du 15 mars 2004) concerne seulement les élèves des écoles, collèges et lycées publics. À l'université, les étudiants sont libres de porter un signe religieux, dans le respect de l'ordre public et des règles de sécurité (en laboratoire par exemple).",
+    "source": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000417977"
+  },
+  {
+    "id": "pri-s-014",
+    "theme": "principes",
+    "subtheme": "Laïcité",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Mariam, qui porte un foulard, doit fournir une photo pour sa nouvelle carte d'identité. Que prévoit la règle ?",
+    "choices": [
+      "Elle peut garder son foulard sur la photo",
+      "Elle doit être tête nue sur la photo officielle",
+      "Elle doit renoncer à son foulard en public",
+      "Elle doit fournir un certificat de sa religion"
+    ],
+    "answer": 1,
+    "explanation": "Les photos des titres d'identité doivent être prises tête nue, visage dégagé, pour permettre l'identification ; de même, on peut devoir découvrir son visage le temps d'un contrôle d'identité. C'est une contrainte ponctuelle : dans la rue ou au guichet, Mariam reste libre de porter son foulard.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/la-laicite-dans-les-services-publics/"
+  },
+  {
+    "id": "pri-s-015",
+    "theme": "principes",
+    "subtheme": "Financement des cultes",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Une association religieuse demande au conseil municipal une subvention pour construire son nouveau lieu de culte. Que doit répondre la commune ?",
+    "choices": [
+      "Elle doit accepter si cette religion est majoritaire",
+      "Elle doit financer tous les cultes de la même façon",
+      "Elle peut accepter si le maire partage cette religion",
+      "Elle ne peut pas financer cette construction"
+    ],
+    "answer": 3,
+    "explanation": "Selon la loi du 9 décembre 1905 (art. 2), la République « ne reconnaît, ne salarie ni ne subventionne aucun culte ». Une commune ne peut donc pas payer la construction d'un lieu de culte (l'Alsace-Moselle a un régime particulier).",
+    "source": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070169"
+  },
+  {
+    "id": "pri-s-016",
+    "theme": "principes",
+    "subtheme": "Financement des cultes",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Le toit de l'église du village, construite en 1850 et propriété de la commune, menace de s'effondrer. Le conseil municipal vote les réparations. Un habitant dit que la laïcité l'interdit. Que faut-il retenir ?",
+    "choices": [
+      "La commune peut entretenir cet édifice qui lui appartient",
+      "Il a raison : aucun argent public pour un bâtiment religieux",
+      "Seuls les fidèles de cette église ont le droit de payer",
+      "La commune doit d'abord organiser un référendum local"
+    ],
+    "answer": 0,
+    "explanation": "Les églises construites avant 1905 appartiennent souvent aux communes, qui peuvent payer leur entretien et leur conservation (loi de 1905, art. 13). Ce qui est interdit, c'est de subventionner un culte : construire un nouveau lieu de culte ou payer les ministres du culte.",
+    "source": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070169"
+  },
+  {
+    "id": "pri-s-017",
+    "theme": "principes",
+    "subtheme": "Laïcité dans l'espace public",
+    "type": "situation",
+    "origin": "complement",
+    "question": "David porte une kippa et son amie Claire une croix en pendentif lorsqu'ils se promènent dans un parc public. Une passante leur dit que la laïcité interdit les signes religieux dans la rue. A-t-elle raison ?",
+    "choices": [
+      "Oui, la laïcité s'applique à tous dans la rue",
+      "Non, ces signes sont permis dans l'espace public",
+      "Oui, sauf les jours de fête religieuse",
+      "Non, mais seulement pour les Français"
+    ],
+    "answer": 1,
+    "explanation": "Dans la rue, les parcs ou les transports, chacun peut porter un signe religieux dans le respect de l'ordre public. La laïcité impose la neutralité à l'État et à ses agents, pas aux citoyens. Seule la dissimulation du visage est interdite (loi du 11 octobre 2010).",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/la-laicite-dans-espace-public/"
+  },
+  {
+    "id": "pri-s-018",
+    "theme": "principes",
+    "subtheme": "Laïcité dans l'espace public",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Dans la rue, une personne se promène le visage entièrement caché par un voile intégral. Que dit la loi ?",
+    "choices": [
+      "C'est autorisé au nom de la liberté religieuse",
+      "C'est autorisé si la personne est majeure",
+      "C'est interdit seulement dans les transports",
+      "C'est interdit dans tout l'espace public"
+    ],
+    "answer": 3,
+    "explanation": "Depuis la loi du 11 octobre 2010, nul ne peut porter dans l'espace public une tenue destinée à dissimuler son visage (voile intégral, cagoule, masque), sauf exceptions prévues (santé, fêtes, sport). Forcer quelqu'un à cacher son visage est un délit.",
+    "source": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022911670"
+  },
+  {
+    "id": "pri-s-019",
+    "theme": "principes",
+    "subtheme": "Liberté de religion",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Un samedi, des membres d'un groupe religieux distribuent calmement des tracts sur leur foi dans une rue piétonne, sans obliger personne à les prendre. Est-ce permis ?",
+    "choices": [
+      "Non, toute propagande religieuse est interdite",
+      "Non, seuls les cultes reconnus par l'État le peuvent",
+      "Oui, tant que l'ordre public n'est pas troublé",
+      "Oui, et les passants sont obligés de les écouter"
+    ],
+    "answer": 2,
+    "explanation": "Faire connaître sa religion dans la rue est permis, sans contrainte et sans trouble à l'ordre public (livret du citoyen). Le prosélytisme est en revanche interdit dans les services publics. Et la République ne « reconnaît » aucun culte (loi de 1905).",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/le-proselytisme/"
+  },
+  {
+    "id": "pri-s-020",
+    "theme": "principes",
+    "subtheme": "Liberté de conscience",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Julien, 22 ans, annonce à sa famille qu'il ne croit plus en Dieu et quitte sa religion. Ses oncles le menacent de représailles. Que peut faire Julien ?",
+    "choices": [
+      "Porter plainte, car il est libre de ne pas croire",
+      "Demander l'accord écrit de ses parents",
+      "Déclarer son changement de religion à la mairie",
+      "Rien, la famille décide de ses croyances"
+    ],
+    "answer": 0,
+    "explanation": "En France, la liberté de conscience permet de croire, de ne pas croire ou de changer de religion (art. 10 de la DDHC, loi de 1905). Les menaces sont un délit : Julien peut porter plainte auprès de la police ou de la gendarmerie.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/la-definition-de-la-laicite-1/"
+  },
+  {
+    "id": "pri-s-021",
+    "theme": "principes",
+    "subtheme": "Liberté d'expression",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Un journal publie une caricature qui se moque d'une religion. Choqué, votre voisin veut retrouver le dessinateur pour « lui donner une leçon ». Quelle attitude est conforme à la loi ?",
+    "choices": [
+      "Le menacer, car le blasphème est un délit",
+      "Publier son adresse pour que d'autres réagissent",
+      "Exiger du préfet la fermeture du journal",
+      "Respecter cette liberté, ou saisir la justice"
+    ],
+    "answer": 3,
+    "explanation": "Le blasphème n'est pas un délit en France : critiquer ou caricaturer une religion relève de la liberté d'expression. Seules l'injure ou la provocation à la haine visant des personnes sont punies, et c'est au juge d'en décider ; menacer l'auteur est un délit.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/le-blaspheme/"
+  },
+  {
+    "id": "pri-s-022",
+    "theme": "principes",
+    "subtheme": "Laïcité au travail",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Aïcha est comptable dans une entreprise privée et porte un foulard. Le règlement intérieur ne prévoit aucune règle de neutralité et son poste ne pose aucun problème de sécurité. Son nouveau chef veut le lui interdire. Que dit la loi ?",
+    "choices": [
+      "Le chef peut l'interdire au nom de la laïcité",
+      "Aïcha peut le garder : elle travaille dans le privé",
+      "Aïcha doit choisir entre son foulard et son poste",
+      "Le chef peut la licencier pour ce seul motif"
+    ],
+    "answer": 1,
+    "explanation": "Dans une entreprise privée, la neutralité ne s'impose pas aux salariés : ils peuvent porter un signe religieux. Une restriction n'est possible que si elle est justifiée (hygiène, sécurité, règle de neutralité du règlement intérieur) et proportionnée ; sinon, c'est une discrimination.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/la-laicite-au-travail/"
+  },
+  {
+    "id": "pri-s-023",
+    "theme": "principes",
+    "subtheme": "Laïcité au travail",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Dans son entreprise privée, Moussa demande à son employeur d'aménager une salle de prière pour les salariés. Que prévoit la loi ?",
+    "choices": [
+      "L'employeur doit en créer une sur chaque site",
+      "L'employeur commet une faute s'il refuse",
+      "L'employeur n'est pas obligé d'en créer une",
+      "L'employeur doit accepter si deux salariés le demandent"
+    ],
+    "answer": 2,
+    "explanation": "Aucune loi n'oblige un employeur privé à fournir un lieu de prière. Le salarié est libre de croire, mais la pratique religieuse ne doit pas perturber l'organisation de l'entreprise.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/la-laicite-au-travail/"
+  },
+  {
+    "id": "pri-s-024",
+    "theme": "principes",
+    "subtheme": "Laïcité au travail",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Rachel, salariée d'un magasin, souhaite s'absenter pour une fête religieuse qui tombe un jour de travail. Que doit-elle faire ?",
+    "choices": [
+      "Demander l'autorisation à son employeur",
+      "S'absenter sans prévenir, car c'est un droit",
+      "Présenter un certificat de son lieu de culte",
+      "Démissionner si l'employeur refuse"
+    ],
+    "answer": 0,
+    "explanation": "Un salarié peut demander un congé pour une fête religieuse, mais il doit obtenir l'accord de son employeur. Celui-ci peut refuser pour les besoins du service, à condition que son refus ne soit pas discriminatoire.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/la-laicite-au-travail/"
+  },
+  {
+    "id": "pri-s-025",
+    "theme": "principes",
+    "subtheme": "Liberté de conscience",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Depuis des semaines, un collègue de Paul insiste chaque jour pour qu'il se convertisse à sa religion, malgré ses refus répétés. Que peut faire Paul ?",
+    "choices": [
+      "Céder pour avoir la paix",
+      "Menacer son collègue pour qu'il arrête",
+      "Ne rien faire, c'est la liberté du collègue",
+      "Signaler ces pressions à sa hiérarchie"
+    ],
+    "answer": 3,
+    "explanation": "Chacun est libre de croire ou de ne pas croire : faire pression avec insistance pour convertir quelqu'un au travail n'est pas acceptable et peut constituer un harcèlement. Paul dit clairement non, puis alerte sa hiérarchie ou les ressources humaines.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/le-proselytisme/"
+  },
+  {
+    "id": "pri-s-026",
+    "theme": "principes",
+    "subtheme": "Laïcité",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Kevin est chauffeur dans une entreprise privée qui exploite le réseau de bus public de sa ville. Il veut porter un signe religieux bien visible pendant son service. A-t-il le droit ?",
+    "choices": [
+      "Oui, car son employeur est une entreprise privée",
+      "Non, il doit respecter la neutralité du service public",
+      "Oui, si aucun passager ne s'en plaint auprès de la société",
+      "Non, sauf pendant les trajets de nuit"
+    ],
+    "answer": 1,
+    "explanation": "Depuis la loi du 24 août 2021, les salariés des organismes privés chargés d'un service public (comme les transports en commun) doivent, comme les agents publics, respecter la neutralité religieuse lorsqu'ils exécutent ce service.",
+    "source": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043964778"
+  },
+  {
+    "id": "pri-s-027",
+    "theme": "principes",
+    "subtheme": "Égalité",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Un maire décide que les habitants d'une certaine religion seront reçus à la mairie à des horaires différents des autres. Cette décision est-elle conforme aux principes de la République ?",
+    "choices": [
+      "Oui, le maire organise librement les services de sa mairie",
+      "Oui, c'est une application de la laïcité",
+      "Non, elle viole l'égalité devant le service public",
+      "Oui, si le conseil municipal l'a votée"
+    ],
+    "answer": 2,
+    "explanation": "L'article 1er de la Constitution assure l'égalité de tous les citoyens devant la loi « sans distinction d'origine, de race ou de religion ». Un service public doit traiter tous les usagers de la même façon ; une telle décision peut être annulée par le tribunal administratif.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "pri-s-028",
+    "theme": "principes",
+    "subtheme": "Liberté de religion",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Hospitalisé pour plusieurs semaines dans un hôpital public, Joseph souhaite recevoir la visite d'un représentant de son culte. Est-ce possible ?",
+    "choices": [
+      "Oui, le patient garde sa liberté de culte",
+      "Non, la laïcité interdit la religion à l'hôpital",
+      "Non, sauf s'il quitte l'hôpital contre avis médical",
+      "Oui, mais seulement pour la religion majoritaire"
+    ],
+    "answer": 0,
+    "explanation": "Le patient hospitalisé garde sa liberté de culte : il peut recevoir la visite d'un aumônier ou d'un représentant de sa religion, dans le respect du fonctionnement du service. La loi de 1905 (art. 2) autorise justement le financement public d'aumôneries dans des établissements comme les hôpitaux ou les prisons.",
+    "source": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070169"
+  },
+  {
+    "id": "pri-s-029",
+    "theme": "principes",
+    "subtheme": "Laïcité",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Lina et Samuel veulent se marier uniquement lors d'une cérémonie religieuse, sans passer par la mairie. Quelle affirmation est exacte ?",
+    "choices": [
+      "Le mariage religieux a la même valeur légale",
+      "L'ordre des deux cérémonies n'a aucune importance",
+      "Le mariage religieux suffit s'il y a des témoins",
+      "Seul le mariage civil en mairie a une valeur légale"
+    ],
+    "answer": 3,
+    "explanation": "En France, seul le mariage civil, célébré à la mairie par l'officier d'état civil, est reconnu par la loi. Il doit avoir lieu avant toute cérémonie religieuse : un ministre du culte ne doit pas célébrer de mariage religieux sans mariage civil préalable (Code pénal, art. 433-21).",
+    "source": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719"
+  },
+  {
+    "id": "pri-s-030",
+    "theme": "principes",
+    "subtheme": "Homophobie",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Camille et Sarah, deux femmes, veulent se marier dans leur mairie. L'adjoint au maire chargé de célébrer le mariage refuse, au nom de ses convictions religieuses. A-t-il le droit ?",
+    "choices": [
+      "Oui, au nom de sa liberté de conscience",
+      "Non, la mairie doit célébrer ce mariage",
+      "Oui, ce type de mariage est interdit en France",
+      "Non, mais le couple doit changer de commune"
+    ],
+    "answer": 1,
+    "explanation": "Le mariage est ouvert aux couples de même sexe depuis la loi du 17 mai 2013. Le Conseil constitutionnel (2013) a refusé toute « clause de conscience » : un officier d'état civil ne peut pas refuser ce mariage pour ses convictions, ce serait une discrimination.",
+    "source": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000027414540"
+  },
+  {
+    "id": "pri-s-031",
+    "theme": "principes",
+    "subtheme": "Égalité femmes-hommes",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Élodie et Antoine ont été embauchés le même jour, au même poste, avec la même expérience. Élodie découvre qu'elle est payée 300 € de moins par mois. Que peut-elle faire ?",
+    "choices": [
+      "Rien, l'employeur fixe librement les salaires",
+      "Accepter, car elle a signé son contrat",
+      "Faire valoir son droit à l'égalité de salaire",
+      "Demander à Antoine de lui reverser la différence"
+    ],
+    "answer": 2,
+    "explanation": "À travail égal ou de valeur égale, l'employeur doit assurer l'égalité de rémunération entre femmes et hommes (Code du travail, art. L3221-2). Élodie peut s'adresser aux représentants du personnel, à l'inspection du travail, au Défenseur des droits, puis au conseil de prud'hommes.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/devise-et-symboles-de-la-republique/egalite-2/"
+  },
+  {
+    "id": "pri-s-032",
+    "theme": "principes",
+    "subtheme": "Égalité femmes-hommes",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Le mari de Zeynep refuse qu'elle ouvre un compte bancaire à son nom et qu'elle prenne un emploi. Zeynep demande conseil. Que lui répondre ?",
+    "choices": [
+      "Elle peut le faire seule, sans l'accord de son mari",
+      "Elle a besoin de l'accord écrit de son mari",
+      "Elle peut travailler, mais pas ouvrir de compte",
+      "Elle doit d'abord divorcer"
+    ],
+    "answer": 0,
+    "explanation": "Depuis la loi du 13 juillet 1965, une femme mariée peut exercer une profession et ouvrir un compte bancaire sans l'autorisation de son mari. Les époux sont égaux en droits ; empêcher son conjoint de travailler ou contrôler son argent peut constituer une violence économique.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/droits-et-devoirs/droits-fondamentaux/les-libertes-au-sein-du-couple/"
+  },
+  {
+    "id": "pri-s-033",
+    "theme": "principes",
+    "subtheme": "Violences conjugales",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Le mari d'Ana lui a confisqué son passeport et son titre de séjour, contrôle tout son argent et l'empêche de voir ses amies. Ana a peur. Que peut-elle faire ?",
+    "choices": [
+      "Attendre, car c'est une affaire de couple",
+      "Demander l'avis de la famille de son mari",
+      "Accepter, car le mari est le chef de famille",
+      "Appeler le 3919 et porter plainte"
+    ],
+    "answer": 3,
+    "explanation": "Confisquer les papiers, contrôler l'argent et isoler sa conjointe sont des violences psychologiques et économiques punies par la loi. Ana peut appeler le 3919 (Violences Femmes Info, écoute gratuite et anonyme) et porter plainte ; en cas de danger immédiat, elle appelle le 17.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12544"
+  },
+  {
+    "id": "pri-s-034",
+    "theme": "principes",
+    "subtheme": "Violences conjugales",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Une nuit, Hugo entend sa voisine crier et appeler à l'aide pendant que son compagnon la frappe. Que doit-il faire ?",
+    "choices": [
+      "Ne rien faire, car c'est leur vie privée",
+      "Appeler immédiatement le 17 (police)",
+      "Attendre le lendemain pour en parler au couple",
+      "Monter frapper le compagnon"
+    ],
+    "answer": 1,
+    "explanation": "Face à des violences en cours, il faut appeler le 17 ou le 112 (ou envoyer un SMS au 114). Ne pas agir alors qu'on peut le faire sans danger peut être puni comme non-assistance à personne en danger. Le 3919 est un numéro d'écoute, pas un numéro d'urgence.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/droits-et-devoirs/obligations-et-devoirs-des-personnes-residant-en-france/le-role-des-temoins-en-cas-de-violences/"
+  },
+  {
+    "id": "pri-s-035",
+    "theme": "principes",
+    "subtheme": "Mariage forcé",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Les parents de Mélissa, 17 ans, veulent la marier cet été, à l'étranger, à un homme qu'elle n'a pas choisi. Elle s'y oppose. Que peut-elle faire ?",
+    "choices": [
+      "Accepter, car ses parents ont autorité sur elle",
+      "Accepter, car le mariage aura lieu à l'étranger",
+      "Demander de l'aide, par exemple au 119",
+      "Se marier puis demander le divorce"
+    ],
+    "answer": 2,
+    "explanation": "En France, le mariage exige l'âge de 18 ans et le libre consentement de chaque époux (Code civil, art. 144 et 146). Contraindre quelqu'un à se marier, même à l'étranger, est puni. Mélissa peut se confier à un adulte de l'école, appeler le 119 (enfance en danger) ou le 17 en cas de danger.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/droits-et-devoirs/obligations-et-devoirs-des-personnes-residant-en-france/la-protection-des-victimes-de-violences/"
+  },
+  {
+    "id": "pri-s-036",
+    "theme": "principes",
+    "subtheme": "Polygamie",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Alain, déjà marié en France, veut épouser une deuxième femme lors d'un voyage à l'étranger, puis vivre en France avec ses deux épouses. Que dit la loi française ?",
+    "choices": [
+      "C'est interdit : la polygamie est un délit",
+      "C'est permis si la loi du pays l'autorise",
+      "C'est permis si sa première épouse est d'accord",
+      "C'est permis si le second mariage est religieux"
+    ],
+    "answer": 0,
+    "explanation": "On ne peut pas se marier une seconde fois avant la dissolution du premier mariage (Code civil, art. 147) ; la bigamie est punie d'un an de prison et de 45 000 € d'amende (Code pénal, art. 433-20). La polygamie fait aussi obstacle à l'acquisition de la nationalité française.",
+    "source": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
+  },
+  {
+    "id": "pri-s-037",
+    "theme": "principes",
+    "subtheme": "Égalité femmes-hommes",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Le père de Yasmine et de ses deux frères, qui vivait en France, est décédé sans laisser de testament. Un oncle affirme que, selon la coutume, les garçons doivent recevoir une part plus grande. Que prévoit la loi française ?",
+    "choices": [
+      "Les fils reçoivent le double de la part des filles",
+      "L'aîné des garçons décide seul du partage",
+      "La coutume familiale s'applique en priorité",
+      "Les enfants héritent tous à parts égales"
+    ],
+    "answer": 3,
+    "explanation": "Selon le Code civil (art. 735), les enfants héritent de leurs parents « sans distinction de sexe, ni de primogéniture » : filles et garçons reçoivent la même part. Une coutume ne peut pas l'emporter sur la loi.",
+    "source": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430956"
+  },
+  {
+    "id": "pri-s-038",
+    "theme": "principes",
+    "subtheme": "Égalité femmes-hommes",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Avant un mariage, la famille du futur époux demande à un médecin un « certificat de virginité » pour la future mariée. Que doit faire le médecin ?",
+    "choices": [
+      "Le délivrer si la jeune femme est majeure",
+      "Refuser, car ce certificat est interdit",
+      "Le délivrer, c'est un document médical courant",
+      "Le remettre seulement à la famille du futur époux"
+    ],
+    "answer": 1,
+    "explanation": "Depuis la loi du 24 août 2021 confortant le respect des principes de la République, il est interdit à un professionnel de santé d'établir un certificat de virginité, et c'est puni par la loi. Cette pratique est contraire à la dignité et à l'égalité femmes-hommes.",
+    "source": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043964778"
+  },
+  {
+    "id": "pri-s-039",
+    "theme": "principes",
+    "subtheme": "Mutilations sexuelles",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Les parents d'Awa, 8 ans, qui vivent en France, prévoient de la faire exciser pendant les vacances dans leur pays d'origine. Une voisine l'apprend. Que doit-elle faire ?",
+    "choices": [
+      "Alerter les autorités, par exemple au 119",
+      "Se taire, car cela se passe à l'étranger",
+      "En parler seulement après les vacances",
+      "Laisser faire, car c'est une tradition"
+    ],
+    "answer": 0,
+    "explanation": "L'excision est une mutilation interdite et sévèrement punie en France, même lorsqu'elle est commise à l'étranger sur une enfant qui vit en France. Il faut alerter sans attendre : 119 (enfance en danger), 17, ou l'école de l'enfant.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/droits-et-devoirs/obligations-et-devoirs-des-personnes-residant-en-france/linterdiction-des-mutilations-sexuelles-f%C3%A9minines/"
+  },
+  {
+    "id": "pri-s-040",
+    "theme": "principes",
+    "subtheme": "Égalité femmes-hommes",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Romain refuse d'appliquer les consignes de sa nouvelle responsable au motif qu'« un homme n'a pas d'ordres à recevoir d'une femme ». Comment qualifier ce comportement ?",
+    "choices": [
+      "Une opinion personnelle qu'il faut respecter",
+      "Un droit, s'il le justifie par sa culture",
+      "Un comportement sexiste, contraire à l'égalité",
+      "Une simple question d'organisation interne"
+    ],
+    "answer": 2,
+    "explanation": "Les femmes et les hommes ont les mêmes droits, y compris pour diriger (Constitution, art. 1er). Refuser l'autorité d'une supérieure en raison de son sexe est un agissement sexiste interdit par le Code du travail (art. L1142-2-1), que l'employeur peut sanctionner.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/devise-et-symboles-de-la-republique/egalite-3/"
+  },
+  {
+    "id": "pri-s-041",
+    "theme": "principes",
+    "subtheme": "Égalité femmes-hommes",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Après la naissance de leur fils, Malik annonce à son épouse Julie qu'en tant que père, il décidera seul de l'école et de la religion de l'enfant. A-t-il raison ?",
+    "choices": [
+      "Oui, le père est le chef de famille",
+      "Oui, si la famille du père le souhaite",
+      "Non, c'est la mère seule qui décide",
+      "Non, les deux parents décident ensemble"
+    ],
+    "answer": 3,
+    "explanation": "L'autorité parentale appartient au père et à la mère, à égalité : les décisions importantes sur l'enfant (école, santé, religion) se prennent ensemble (Code civil, art. 371-1 et 372). La notion de « chef de famille » a disparu de la loi en 1970.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/droits-et-devoirs/droits-fondamentaux/les-libertes-au-sein-du-couple/"
+  },
+  {
+    "id": "pri-s-042",
+    "theme": "principes",
+    "subtheme": "Égalité femmes-hommes",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Clara, mariée et enceinte de quelques semaines, souhaite recourir à une interruption volontaire de grossesse (IVG). Son mari s'y oppose. Que prévoit la loi ?",
+    "choices": [
+      "Il faut l'accord écrit des deux époux",
+      "Clara décide seule de recourir à l'IVG",
+      "Le médecin doit d'abord obtenir l'avis du mari",
+      "Le mari peut saisir le juge pour l'en empêcher"
+    ],
+    "answer": 1,
+    "explanation": "En France, c'est la femme qui décide seule de recourir à une IVG : l'accord du conjoint n'est pas nécessaire. Depuis la révision du 8 mars 2024, la Constitution garantit la liberté des femmes de recourir à l'IVG (art. 34).",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/droits-et-devoirs/droits-fondamentaux/un-droit-fondamental-le-droit-de-disposer-de-son-corps/"
+  },
+  {
+    "id": "pri-s-043",
+    "theme": "principes",
+    "subtheme": "Égalité femmes-hommes",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Un club de football refuse d'inscrire Lou, 9 ans, au seul motif que « le foot, c'est pour les garçons ». Que peuvent faire ses parents ?",
+    "choices": [
+      "Contester ce refus, qui est une discrimination",
+      "Rien, le club choisit librement ses membres",
+      "Accepter, car c'est la tradition de ce sport",
+      "Rien, ce refus est légal pour les mineurs"
+    ],
+    "answer": 0,
+    "explanation": "Refuser une activité à une personne en raison de son sexe est une discrimination interdite par la loi (Code pénal, art. 225-1 et 225-2). Les parents peuvent contester auprès du club et saisir le Défenseur des droits (3928).",
+    "source": "https://www.defenseurdesdroits.fr"
+  },
+  {
+    "id": "pri-s-044",
+    "theme": "principes",
+    "subtheme": "Égalité femmes-hommes",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Dans le bus, un homme fait des remarques sexuelles à une jeune femme et la suit malgré ses refus. Quelle réaction est correcte pour un témoin ?",
+    "choices": [
+      "Rire avec lui pour éviter les ennuis",
+      "Ne rien faire, la victime n'a qu'à changer de place",
+      "Soutenir la victime et appeler le 3117 ou le 17",
+      "Frapper l'homme pour le faire partir"
+    ],
+    "answer": 2,
+    "explanation": "Les remarques sexistes ou sexuelles imposées sont punies (outrage sexiste) et le harcèlement est un délit. Le témoin peut soutenir la victime sans se mettre en danger et alerter : 3117 dans les transports en commun, 17 en cas de danger.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/droits-et-devoirs/obligations-et-devoirs-des-personnes-residant-en-france/le-role-des-temoins-en-cas-de-violences/"
+  },
+  {
+    "id": "pri-s-045",
+    "theme": "principes",
+    "subtheme": "Discriminations",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Lors d'un entretien d'embauche, le recruteur demande à Sarah si elle est enceinte, si elle compte avoir des enfants et quelle est sa religion. Que doit-elle savoir ?",
+    "choices": [
+      "Elle doit répondre honnêtement à tout",
+      "Seule la question sur la religion est interdite",
+      "Ces questions sont permises dans une petite entreprise",
+      "Ces questions sont interdites par la loi"
+    ],
+    "answer": 3,
+    "explanation": "Un recruteur ne peut poser que des questions en lien direct avec le poste (compétences, expérience, diplômes) ; la grossesse, les projets familiaux et la religion sont des sujets interdits (Code du travail, art. L1221-6 et L1225-2). Sarah n'a pas à y répondre et peut saisir le Défenseur des droits.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/vivre-dans-la-societe-fran%C3%A7aise/emploi/recrutement-1/"
+  },
+  {
+    "id": "pri-s-046",
+    "theme": "principes",
+    "subtheme": "Discriminations",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Mehdi apprend qu'une entreprise a écarté sa candidature à cause de son nom à consonance étrangère, alors que son profil correspondait au poste. Que peut-il faire ?",
+    "choices": [
+      "Rien, l'employeur choisit qui il veut",
+      "Saisir le Défenseur des droits ou porter plainte",
+      "Changer de nom avant de postuler ailleurs",
+      "Rien, c'est interdit seulement dans le public"
+    ],
+    "answer": 1,
+    "explanation": "Écarter un candidat en raison de son origine ou de son nom est une discrimination punie par la loi (Code pénal, art. 225-1 et 225-2 ; Code du travail, art. L1132-1). Mehdi peut saisir le Défenseur des droits (3928, antidiscriminations.fr), porter plainte ou saisir le conseil de prud'hommes.",
+    "source": "https://www.antidiscriminations.fr"
+  },
+  {
+    "id": "pri-s-047",
+    "theme": "principes",
+    "subtheme": "Discriminations",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Un propriétaire refuse de louer son appartement à la famille Diallo en expliquant qu'il « ne loue pas aux étrangers », alors que la famille a fourni tous les justificatifs demandés. Comment qualifier ce refus ?",
+    "choices": [
+      "Une discrimination punie par la loi",
+      "Un droit, car le logement lui appartient",
+      "Un refus légal s'il l'a écrit dans l'annonce",
+      "Une simple précaution de propriétaire"
+    ],
+    "answer": 0,
+    "explanation": "Refuser un logement en raison de l'origine est une discrimination (Code pénal, art. 225-1 et 225-2 ; loi du 6 juillet 1989). Le propriétaire peut seulement demander les justificatifs prévus par la loi (identité, ressources) ; la famille peut saisir le Défenseur des droits ou porter plainte.",
+    "source": "https://www.defenseurdesdroits.fr"
+  },
+  {
+    "id": "pri-s-048",
+    "theme": "principes",
+    "subtheme": "Homophobie",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Pierre et Lucas, en couple, visitent un appartement. L'agent immobilier leur dit que le propriétaire « ne veut pas de couple homosexuel ». Que peuvent-ils faire ?",
+    "choices": [
+      "Accepter, car le propriétaire est libre de choisir",
+      "Faire croire qu'ils ne sont pas en couple",
+      "Signaler ce refus, qui est une discrimination",
+      "Rien, ce motif n'est pas interdit par la loi"
+    ],
+    "answer": 2,
+    "explanation": "L'orientation sexuelle fait partie des motifs de discrimination interdits par la loi (Code pénal, art. 225-1). Le couple peut saisir le Défenseur des droits ou porter plainte ; l'agence ne doit pas appliquer une consigne discriminatoire.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/devise-et-symboles-de-la-republique/egalite-3/"
+  },
+  {
+    "id": "pri-s-049",
+    "theme": "principes",
+    "subtheme": "Homophobie",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Dans un restaurant, deux femmes qui se tiennent la main se font insulter par un client en raison de leur homosexualité. Que peut faire le couple ?",
+    "choices": [
+      "Partir, car le client est dans son droit",
+      "Répondre par des coups pour se défendre",
+      "Rien, c'est sa liberté d'expression",
+      "Porter plainte, car ces insultes sont punies"
+    ],
+    "answer": 3,
+    "explanation": "Insulter une personne en raison de son orientation sexuelle est puni par la loi, plus sévèrement qu'une injure ordinaire (loi du 29 juillet 1881). Le couple peut porter plainte, et les témoins peuvent témoigner. Le mariage est d'ailleurs ouvert aux couples de même sexe depuis 2013.",
+    "source": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070722"
+  },
+  {
+    "id": "pri-s-050",
+    "theme": "principes",
+    "subtheme": "Handicap",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Un chauffeur de taxi refuse de prendre Gérard, malvoyant, parce qu'il est accompagné de son chien guide. Ce refus est-il légal ?",
+    "choices": [
+      "Oui, le chauffeur choisit ses clients",
+      "Non, c'est une discrimination liée au handicap",
+      "Oui, les animaux peuvent toujours être refusés",
+      "Non, sauf si le taxi vient d'être nettoyé"
+    ],
+    "answer": 1,
+    "explanation": "Les chiens guides doivent être acceptés dans les transports et les lieux ouverts au public (loi du 11 février 2005 sur l'égalité des droits des personnes handicapées). Refuser une personne en raison de son handicap est une discrimination ; Gérard peut saisir le Défenseur des droits.",
+    "source": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000809647"
+  },
+  {
+    "id": "pri-s-051",
+    "theme": "principes",
+    "subtheme": "Racisme et antisémitisme",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Le vigile d'une discothèque laisse entrer un groupe d'amis mais refuse l'entrée à Yohan et Kofi en raison de leur couleur de peau. Que peuvent-ils faire ?",
+    "choices": [
+      "Porter plainte pour discrimination",
+      "Forcer l'entrée pour faire valoir leurs droits",
+      "Rien, une discothèque choisit sa clientèle",
+      "Accepter, c'est la règle de l'établissement"
+    ],
+    "answer": 0,
+    "explanation": "Refuser l'accès à un lieu ou à un service en raison de l'origine ou de la couleur de peau est une discrimination punie par le Code pénal (art. 225-2). Les victimes peuvent porter plainte, réunir des témoignages et saisir le Défenseur des droits.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/devise-et-symboles-de-la-republique/egalite-3/"
+  },
+  {
+    "id": "pri-s-052",
+    "theme": "principes",
+    "subtheme": "Discriminations",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Une boulangère refuse de servir une cliente parce qu'elle porte un foulard, en invoquant « la laïcité ». A-t-elle raison ?",
+    "choices": [
+      "Oui, la laïcité s'applique dans tous les commerces",
+      "Oui, si une affiche l'indique à l'entrée",
+      "Non, c'est une discrimination religieuse",
+      "Non, sauf aux heures d'affluence"
+    ],
+    "answer": 2,
+    "explanation": "La laïcité impose la neutralité à l'État et aux services publics, pas aux clients d'un commerce. Refuser de vendre à une personne en raison de sa religion est une discrimination punie par la loi (Code pénal, art. 225-2).",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/devise-et-symboles-de-la-republique/egalite-3/"
+  },
+  {
+    "id": "pri-s-053",
+    "theme": "principes",
+    "subtheme": "Racisme et antisémitisme",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Au travail, un collègue de Nathan fait régulièrement des « blagues » racistes et antisémites devant toute l'équipe. Nathan est choqué. Que doit-il faire ?",
+    "choices": [
+      "Rire avec les autres pour rester bien vu",
+      "Ne rien dire, car c'est de l'humour",
+      "Répondre par des insultes du même genre",
+      "Alerter sa hiérarchie, qui doit agir"
+    ],
+    "answer": 3,
+    "explanation": "Les propos racistes ou antisémites ne sont pas un humour protégé : ils peuvent constituer une injure ou une provocation à la haine punies par la loi du 29 juillet 1881. Nathan alerte sa hiérarchie ou les représentants du personnel ; l'employeur doit agir, et les victimes peuvent porter plainte.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/devise-et-symboles-de-la-republique/egalite-3/"
+  },
+  {
+    "id": "pri-s-054",
+    "theme": "principes",
+    "subtheme": "Racisme et antisémitisme",
+    "type": "situation",
+    "origin": "complement",
+    "question": "En passant devant une synagogue, Inès découvre qu'une croix gammée et des insultes antisémites viennent d'y être taguées. Quelle est la bonne réaction ?",
+    "choices": [
+      "Ignorer, car ce n'est qu'un dessin",
+      "Prévenir la police ou la gendarmerie",
+      "Partager une photo du tag pour s'amuser",
+      "Taguer une insulte en réponse"
+    ],
+    "answer": 1,
+    "explanation": "Dégrader un lieu de culte avec des inscriptions antisémites est un délit, plus sévèrement puni quand il est commis pour un motif raciste ou antisémite (Code pénal, art. 132-76). Il faut prévenir la police ou la gendarmerie pour que les auteurs soient recherchés.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/devise-et-symboles-de-la-republique/egalite-3/"
+  },
+  {
+    "id": "pri-s-055",
+    "theme": "principes",
+    "subtheme": "Haine en ligne",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Sur un réseau social, Léa voit une publication qui appelle à la violence contre les musulmans. Que doit-elle faire ?",
+    "choices": [
+      "La signaler à la plateforme et sur PHAROS",
+      "La partager pour dénoncer son auteur",
+      "Répondre en insultant l'auteur",
+      "Rien, internet n'est pas soumis à la loi"
+    ],
+    "answer": 0,
+    "explanation": "Provoquer à la haine ou à la violence contre des personnes en raison de leur religion ou de leur origine est un délit, y compris sur internet (loi du 29 juillet 1881). On signale le contenu à la plateforme et sur PHAROS (internet-signalement.gouv.fr), sans le relayer.",
+    "source": "https://www.internet-signalement.gouv.fr"
+  },
+  {
+    "id": "pri-s-056",
+    "theme": "principes",
+    "subtheme": "Racisme et antisémitisme",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Lors d'une réunion publique, un orateur affirme que la Shoah n'a jamais existé. Que dit la loi française ?",
+    "choices": [
+      "C'est une opinion protégée par la liberté d'expression",
+      "C'est autorisé dans le cadre d'un débat historique",
+      "C'est un délit : contester la Shoah est puni",
+      "C'est interdit seulement à la télévision"
+    ],
+    "answer": 2,
+    "explanation": "Contester l'existence des crimes contre l'humanité commis pendant la Seconde Guerre mondiale, comme la Shoah, est un délit (loi Gayssot du 13 juillet 1990, qui a créé l'article 24 bis de la loi de 1881). La liberté d'expression a des limites fixées par la loi.",
+    "source": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070722"
+  },
+  {
+    "id": "pri-s-057",
+    "theme": "principes",
+    "subtheme": "Liberté d'expression",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Sur son compte Facebook, Marco critique sévèrement la politique du gouvernement et du Président de la République, sans insulte ni menace. Un ami lui dit qu'il risque la prison. Qu'en est-il ?",
+    "choices": [
+      "Il risque la prison pour atteinte à l'État",
+      "Il doit d'abord obtenir l'accord du préfet",
+      "C'est permis seulement aux citoyens français",
+      "C'est permis : c'est sa liberté d'expression"
+    ],
+    "answer": 3,
+    "explanation": "La liberté d'opinion et d'expression est garantie par les articles 10 et 11 de la Déclaration des droits de l'homme et du citoyen : critiquer le pouvoir est permis. Ses limites sont l'injure, la diffamation, les menaces et la provocation à la haine ou à la violence.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/droits-et-devoirs/obligations-et-devoirs-des-personnes-residant-en-france/la-limite-des-libertes-individuelles/"
+  },
+  {
+    "id": "pri-s-058",
+    "theme": "principes",
+    "subtheme": "Liberté d'expression",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Après une dispute, Bastien publie sur le groupe en ligne de son quartier que son voisin est « un voleur », sans aucune preuve. Comment qualifier ce message ?",
+    "choices": [
+      "Un abus qui peut être puni (diffamation)",
+      "Une opinion protégée par la liberté d'expression",
+      "Un message permis, car le groupe est privé",
+      "Un simple avertissement aux autres habitants"
+    ],
+    "answer": 0,
+    "explanation": "Accuser quelqu'un d'un fait précis qui porte atteinte à son honneur, comme un vol, est une diffamation punie par la loi du 29 juillet 1881. Le voisin peut demander le retrait du message et porter plainte.",
+    "source": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070722"
+  },
+  {
+    "id": "pri-s-059",
+    "theme": "principes",
+    "subtheme": "Liberté d'expression",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Le lendemain d'un attentat, une connaissance de Samia publie un message qui se réjouit de l'attaque et félicite ses auteurs. Que doit faire Samia ?",
+    "choices": [
+      "Le partager pour montrer qu'elle est choquée",
+      "Le signaler sur PHAROS ou à la police",
+      "Rien, c'est une opinion comme une autre",
+      "Répondre à l'auteur par des menaces"
+    ],
+    "answer": 1,
+    "explanation": "Faire publiquement l'apologie du terrorisme est un délit grave, puni plus sévèrement lorsqu'il est commis en ligne (Code pénal, art. 421-2-5). On ne relaie pas ce type de message : on le signale sur PHAROS (internet-signalement.gouv.fr) ou à la police.",
+    "source": "https://www.internet-signalement.gouv.fr"
+  },
+  {
+    "id": "pri-s-060",
+    "theme": "principes",
+    "subtheme": "Symboles",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Pendant la cérémonie officielle du 11 Novembre organisée par la mairie, des personnes sifflent et insultent La Marseillaise. Que dit la loi ?",
+    "choices": [
+      "C'est une liberté d'expression sans limite",
+      "C'est permis si l'on n'est pas de nationalité française",
+      "C'est un délit puni par le Code pénal",
+      "C'est interdit seulement le 14 Juillet"
+    ],
+    "answer": 2,
+    "explanation": "Outrager publiquement l'hymne national ou le drapeau lors d'une manifestation organisée ou réglementée par les autorités publiques est un délit puni de 7 500 € d'amende (Code pénal, art. 433-5-1). La Marseillaise et le drapeau tricolore sont des symboles de la République (Constitution, art. 2).",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/les-symboles-de-la-republique/hymne-francais/"
+  },
+  {
+    "id": "pri-s-061",
+    "theme": "principes",
+    "subtheme": "Symboles",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Lors d'une manifestation, un participant veut brûler un drapeau français sur la place publique pour exprimer sa colère contre le gouvernement. Que dit la loi ?",
+    "choices": [
+      "C'est autorisé au nom de la liberté de manifester",
+      "C'est autorisé si le drapeau lui appartient",
+      "C'est autorisé en dehors des jours fériés",
+      "C'est puni : on ne peut pas outrager le drapeau"
+    ],
+    "answer": 3,
+    "explanation": "Détruire ou dégrader publiquement le drapeau tricolore pour l'outrager est puni d'une amende (Code pénal, art. R645-15), même si le drapeau vous appartient. On peut exprimer son désaccord autrement : manifester pacifiquement, écrire, voter.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/les-symboles-de-la-republique/le-drapeau-fran%C3%A7ais/"
+  },
+  {
+    "id": "pri-s-062",
+    "theme": "principes",
+    "subtheme": "Fraternité et solidarité",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Pendant une canicule, Sylvie remarque que son voisin de 85 ans, qui vit seul, ne sort plus de chez lui depuis plusieurs jours. Quelle attitude correspond à la fraternité ?",
+    "choices": [
+      "Prendre de ses nouvelles et prévenir la mairie",
+      "Attendre que sa famille vienne un jour s'occuper de lui",
+      "Lui reprocher de ne jamais sortir",
+      "Ne rien faire, ce n'est pas son rôle"
+    ],
+    "answer": 0,
+    "explanation": "La fraternité, troisième mot de la devise, se traduit par la solidarité entre voisins : prendre des nouvelles, proposer de l'aide (eau, courses). La mairie tient un registre des personnes âgées ou fragiles pour les périodes de canicule ; en cas de malaise, on appelle le 15.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/devise-et-symboles-de-la-republique/fraternite-1/"
+  },
+  {
+    "id": "pri-s-063",
+    "theme": "principes",
+    "subtheme": "Fraternité et solidarité",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Un soir d'hiver glacial, Bilal voit un homme dormir dehors sur un carton, sans couverture. L'homme est conscient et lui répond normalement. Que peut faire Bilal ?",
+    "choices": [
+      "Appeler le 18 pour le faire déplacer",
+      "Le réveiller pour lui demander de partir",
+      "Appeler le 115, le SAMU social",
+      "Ne rien faire, ce n'est pas son problème"
+    ],
+    "answer": 2,
+    "explanation": "Le 115 est le numéro du SAMU social, qui propose un hébergement d'urgence aux personnes sans abri. Si la personne semble en danger vital (inconsciente, en hypothermie), on appelle le 15. C'est une forme concrète de fraternité.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954"
+  },
+  {
+    "id": "pri-s-064",
+    "theme": "principes",
+    "subtheme": "Liberté d'association",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Nour, Marc et Jade, voisins, veulent créer une association pour organiser des activités pour les enfants du quartier. Nour n'a pas la nationalité française. Que doivent-ils savoir ?",
+    "choices": [
+      "Ils doivent obtenir l'autorisation du maire",
+      "Ils sont libres de la créer, sans autorisation",
+      "Nour n'a pas le droit d'en être membre",
+      "Il faut au moins dix membres français"
+    ],
+    "answer": 1,
+    "explanation": "La liberté d'association est garantie par la loi du 1er juillet 1901 : deux personnes suffisent, sans autorisation ni condition de nationalité. Une simple déclaration en préfecture donne à l'association une existence juridique (compte bancaire, subventions).",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/devise-et-symboles-de-la-republique/fraternite-2/"
+  },
+  {
+    "id": "pri-s-065",
+    "theme": "principes",
+    "subtheme": "Discriminations",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Une association sportive qui reçoit une subvention de la mairie refuse d'inscrire des enfants en raison de leur religion. Que peut faire la mairie ?",
+    "choices": [
+      "Rien, une association est totalement libre",
+      "Dissoudre elle-même l'association",
+      "Rien, si les statuts prévoient ce refus",
+      "Lui retirer sa subvention"
+    ],
+    "answer": 3,
+    "explanation": "Depuis la loi du 24 août 2021, une association qui demande une subvention publique signe un contrat d'engagement républicain : elle s'engage notamment à respecter l'égalité et à ne pas discriminer. Si elle ne le respecte pas, la subvention peut lui être retirée ; la discrimination reste en outre punie par la loi.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/le-contrat-dengagement-%C3%A0-respecter-les-principes-de-la-republique/le-contrat-engagement-republicain/"
+  },
+  {
+    "id": "pri-s-066",
+    "theme": "principes",
+    "subtheme": "Laïcité",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Gabriel explique à un ami qu'il n'a pas à respecter certaines lois françaises, car les règles de sa religion passent avant. Que répond le principe de laïcité ?",
+    "choices": [
+      "Les règles religieuses passent avant la loi",
+      "Chacun choisit les lois qu'il veut respecter",
+      "Nul ne peut invoquer sa religion contre la loi",
+      "Les croyants pratiquants en sont dispensés"
+    ],
+    "answer": 2,
+    "explanation": "La laïcité garantit la liberté de croire, mais elle interdit à quiconque de se prévaloir de ses croyances religieuses pour s'affranchir des règles communes (Conseil constitutionnel, 2004). La loi de la République s'applique à tous, quelle que soit leur religion.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/la-definition-de-la-laicite-1/"
+  }
+]

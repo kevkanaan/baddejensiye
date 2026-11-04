@@ -1,0 +1,1328 @@
+[
+  {
+    "id": "dro-s-001",
+    "theme": "droits",
+    "subtheme": "Violences conjugales",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Un soir, Clara entend sa voisine hurler et des bruits de coups à travers le mur. Les cris continuent. Que doit faire Clara ?",
+    "choices": [
+      "Appeler tout de suite le 17 ou le 112",
+      "Ne rien faire, car c'est une affaire privée",
+      "Attendre le lendemain pour parler à sa voisine",
+      "Aller frapper le conjoint pour défendre sa voisine"
+    ],
+    "answer": 0,
+    "explanation": "Face à un danger immédiat, on alerte la police ou la gendarmerie (17 ou 112, SMS au 114) sans se mettre soi-même en danger. Ne rien faire peut être puni comme une non-assistance à personne en danger (art. 223-6 du Code pénal). Le 3919 sert à l'écoute, pas aux urgences.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12544"
+  },
+  {
+    "id": "dro-s-002",
+    "theme": "droits",
+    "subtheme": "Violences conjugales",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Nadia est régulièrement frappée par son mari. Il lui répète qu'entre époux, la police n'a pas à s'en mêler. Que peut faire Nadia ?",
+    "choices": [
+      "Rien, car la loi ne punit pas les violences entre époux",
+      "Porter plainte au commissariat ou à la gendarmerie",
+      "Demander d'abord l'autorisation de sa belle-famille",
+      "Attendre que son mari accepte de changer"
+    ],
+    "answer": 1,
+    "explanation": "Les violences conjugales sont un délit, puni plus sévèrement quand l'auteur est le conjoint ou l'ex-conjoint (circonstance aggravante). La victime peut porter plainte, faire constater ses blessures par un médecin et appeler le 3919 (gratuit, anonyme) pour être écoutée et conseillée.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12544"
+  },
+  {
+    "id": "dro-s-003",
+    "theme": "droits",
+    "subtheme": "Violences conjugales",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Sophie vit avec un compagnon violent et craint pour sa sécurité et celle de ses enfants. Elle n'a pas encore porté plainte. Peut-elle demander au juge une ordonnance de protection ?",
+    "choices": [
+      "Non, il faut d'abord que son compagnon soit condamné",
+      "Oui, même sans plainte, auprès du juge aux affaires familiales",
+      "Non, seule la police peut décider de mesures de protection",
+      "Oui, mais uniquement si elle est mariée avec ce compagnon"
+    ],
+    "answer": 1,
+    "explanation": "Le juge aux affaires familiales peut délivrer en urgence une ordonnance de protection (éviction du conjoint violent, interdiction de contact…) ; elle n'exige pas de plainte préalable (art. 515-10 du Code civil). Elle vaut pour les époux, partenaires de Pacs et concubins, actuels ou anciens.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12544"
+  },
+  {
+    "id": "dro-s-004",
+    "theme": "droits",
+    "subtheme": "Mariage forcé",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Les parents d'Aïcha, 19 ans, veulent la marier à un cousin qu'elle ne veut pas épouser. Ils affirment que la décision leur revient. Quelle affirmation est exacte ?",
+    "choices": [
+      "Le mariage est valable si les deux familles sont d'accord",
+      "Aïcha doit obéir, car elle vit encore chez ses parents",
+      "Le mariage exige le libre consentement de chaque époux",
+      "Le maire peut célébrer le mariage sans demander son avis"
+    ],
+    "answer": 2,
+    "explanation": "« Il n'y a pas de mariage lorsqu'il n'y a point de consentement » (art. 146 du Code civil) : un mariage forcé peut être annulé et la contrainte est punie. Aïcha peut demander de l'aide au 3919, à une association ou à la police.",
+    "source": "https://arretonslesviolences.gouv.fr/"
+  },
+  {
+    "id": "dro-s-005",
+    "theme": "droits",
+    "subtheme": "Protection de l'enfance",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Fatou apprend que sa sœur veut faire exciser sa fille de 6 ans pendant des vacances dans leur pays d'origine. Sa sœur dit que c'est la tradition. Que doit faire Fatou ?",
+    "choices": [
+      "Ne rien dire, car l'acte aura lieu hors de France",
+      "Alerter le 119 ou la police pour protéger l'enfant",
+      "Accepter si l'acte est pratiqué par un médecin",
+      "Respecter le choix de la famille et sa tradition"
+    ],
+    "answer": 1,
+    "explanation": "Les mutilations sexuelles féminines sont des crimes en France, punis même lorsqu'elles sont commises à l'étranger sur une enfant qui vit en France. Toute personne informée doit alerter (119, 17, médecin, école) ; le juge peut interdire la sortie du territoire de l'enfant.",
+    "source": "https://www.allo119.gouv.fr/"
+  },
+  {
+    "id": "dro-s-006",
+    "theme": "droits",
+    "subtheme": "Protection de l'enfance",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Lucas, 9 ans, a souvent des bleus sur les bras. Un jour, il confie à sa voisine, Mme Diallo, que son père le frappe. Que doit faire Mme Diallo ?",
+    "choices": [
+      "Appeler le 119, le numéro de l'enfance en danger",
+      "Se taire, car les parents éduquent comme ils veulent",
+      "Aller seule menacer le père de Lucas",
+      "Attendre que Lucas en parle à son maître d'école"
+    ],
+    "answer": 0,
+    "explanation": "Le 119 (Allô Enfance en danger) est gratuit et joignable 24 h/24 ; en cas de danger immédiat, on appelle le 17. Ne pas signaler des mauvais traitements infligés à un mineur dont on a connaissance est puni (art. 434-3 du Code pénal).",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/droits-et-devoirs/obligations-et-devoirs-des-personnes-residant-en-france/l-interdiction-des-violences-faites-aux-enfants/"
+  },
+  {
+    "id": "dro-s-007",
+    "theme": "droits",
+    "subtheme": "Protection de l'enfance",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Paul, père de deux enfants, pense qu'une gifle ou une fessée est normale pour bien les éduquer. Que dit la loi ?",
+    "choices": [
+      "C'est autorisé si le geste reste léger",
+      "C'est autorisé uniquement à la maison",
+      "C'est interdit : l'éducation se fait sans violence",
+      "C'est autorisé si la culture familiale l'accepte"
+    ],
+    "answer": 2,
+    "explanation": "Depuis la loi du 10 juillet 2019, l'autorité parentale s'exerce « sans violences physiques ou psychologiques » (art. 371-1 du Code civil) : gifles et fessées sont interdites. Les parents en difficulté peuvent demander conseil, par exemple au 119 ou à la PMI.",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/droits-et-devoirs/obligations-et-devoirs-des-personnes-residant-en-france/l-interdiction-des-violences-faites-aux-enfants/"
+  },
+  {
+    "id": "dro-s-008",
+    "theme": "droits",
+    "subtheme": "Harcèlement scolaire",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Yanis, 12 ans, est insulté chaque jour par des élèves de sa classe, qui publient aussi des moqueries sur lui sur les réseaux sociaux. Que doivent faire ses parents ?",
+    "choices": [
+      "Considérer que ce sont des histoires d'enfants",
+      "Aller menacer ces élèves à la sortie du collège",
+      "Garder Yanis à la maison sans prévenir le collège",
+      "Prévenir le collège et contacter le 3018"
+    ],
+    "answer": 3,
+    "explanation": "Le harcèlement scolaire est un délit depuis la loi du 2 mars 2022. Les parents alertent l'établissement, appellent le 3018 (gratuit, anonyme, aussi pour le cyberharcèlement), conservent les preuves et peuvent porter plainte.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954"
+  },
+  {
+    "id": "dro-s-009",
+    "theme": "droits",
+    "subtheme": "Harcèlement au travail",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Depuis des mois, le chef de Marie l'humilie devant ses collègues et lui fixe des objectifs impossibles. Elle a peur de perdre son emploi. Que peut-elle faire ?",
+    "choices": [
+      "Se taire, car le chef a tous les droits au travail",
+      "Démissionner : c'est la seule solution possible",
+      "Signaler les faits et, si besoin, porter plainte",
+      "Abîmer le bureau de son chef pour se venger"
+    ],
+    "answer": 2,
+    "explanation": "Le harcèlement moral est interdit par le Code du travail (art. L1152-1) et puni par le Code pénal (jusqu'à 2 ans de prison et 30 000 € d'amende). La victime peut alerter l'employeur, les représentants du personnel, le médecin ou l'inspection du travail, saisir les prud'hommes et porter plainte.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2354"
+  },
+  {
+    "id": "dro-s-010",
+    "theme": "droits",
+    "subtheme": "Harcèlement au travail",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Le responsable d'Inès lui fait des remarques sexuelles répétées et lui promet une promotion si elle accepte un rendez-vous intime. Quelle affirmation est exacte ?",
+    "choices": [
+      "C'est de la séduction, sans conséquence juridique",
+      "C'est du harcèlement sexuel, puni par la loi",
+      "C'est autorisé tant qu'il ne la touche pas",
+      "Elle doit accepter pour garder son emploi"
+    ],
+    "answer": 1,
+    "explanation": "Les propos sexuels répétés et toute pression pour obtenir un acte sexuel constituent un harcèlement sexuel, délit puni de 2 ans de prison et 30 000 € d'amende (art. 222-33 du Code pénal). L'employeur doit protéger la salariée ; elle peut alerter l'inspection du travail, le Défenseur des droits et porter plainte.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1043"
+  },
+  {
+    "id": "dro-s-011",
+    "theme": "droits",
+    "subtheme": "Harcèlement de rue",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Dans le bus, un homme fait à une jeune femme des commentaires sexuels insistants. Elle est très mal à l'aise. Cette attitude est-elle permise ?",
+    "choices": [
+      "Oui, ce ne sont que des compliments",
+      "Oui, tant qu'il ne la touche pas",
+      "Non, c'est une infraction punie par la loi",
+      "Oui, car le bus est un lieu public"
+    ],
+    "answer": 2,
+    "explanation": "Imposer à quelqu'un des propos ou comportements à connotation sexuelle ou sexiste est un outrage sexiste et sexuel, puni d'une amende, et plus lourdement dans les transports en commun (art. 222-33-1-1 du Code pénal). La victime ou les témoins peuvent prévenir le conducteur, appeler le 17 ou envoyer un SMS au 114.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1043"
+  },
+  {
+    "id": "dro-s-012",
+    "theme": "droits",
+    "subtheme": "Cyberharcèlement",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Après leur rupture, l'ex-compagnon de Léna publie sur internet des photos intimes d'elle, sans son accord. Que peut faire Léna ?",
+    "choices": [
+      "Rien, car elle avait accepté d'être photographiée",
+      "Porter plainte et signaler les contenus en ligne",
+      "Publier à son tour des photos de lui pour se venger",
+      "Fermer ses comptes et ne plus en parler à personne"
+    ],
+    "answer": 1,
+    "explanation": "Diffuser sans accord une image à caractère sexuel est un délit, même si la personne avait accepté la photo (art. 226-2-1 du Code pénal : 2 ans de prison et 60 000 € d'amende). La victime peut porter plainte et signaler le contenu sur PHAROS (internet-signalement.gouv.fr) pour obtenir son retrait.",
+    "source": "https://www.internet-signalement.gouv.fr/"
+  },
+  {
+    "id": "dro-s-013",
+    "theme": "droits",
+    "subtheme": "Liberté d'expression",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Sur un réseau social, Mathieu découvre qu'un internaute publie chaque jour des messages appelant à la haine contre les fidèles d'une religion. Que peut faire Mathieu ?",
+    "choices": [
+      "Rien, car la liberté d'expression permet de tout dire",
+      "Signaler ces messages sur la plateforme PHAROS",
+      "Retrouver l'adresse de l'auteur et la publier",
+      "Lui répondre par des menaces de mort"
+    ],
+    "answer": 1,
+    "explanation": "La liberté d'expression a des limites : provoquer à la haine ou à la violence en raison de l'origine ou de la religion est un délit (loi du 29 juillet 1881). Tout internaute peut signaler ces contenus sur PHAROS (internet-signalement.gouv.fr) ; les victimes peuvent porter plainte.",
+    "source": "https://www.internet-signalement.gouv.fr/"
+  },
+  {
+    "id": "dro-s-014",
+    "theme": "droits",
+    "subtheme": "Vie privée et données",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Un collègue de Samia publie sur internet une photo d'elle prise au bureau, sans lui demander son accord. Elle veut qu'elle soit retirée. Que peut-elle faire ?",
+    "choices": [
+      "Rien, car une photo prise au travail est publique",
+      "Exiger le retrait au nom de son droit à l'image",
+      "Pirater le compte de son collègue pour l'effacer",
+      "Rien, sauf si son collègue a vendu la photo"
+    ],
+    "answer": 1,
+    "explanation": "Chacun a droit au respect de sa vie privée et de son image (art. 9 du Code civil) : on ne peut pas diffuser la photo d'une personne reconnaissable sans son accord. Samia demande d'abord le retrait à l'auteur, puis peut saisir la CNIL, le juge ou porter plainte.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F32103"
+  },
+  {
+    "id": "dro-s-015",
+    "theme": "droits",
+    "subtheme": "Vie privée et données",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Karim pense qu'un site de vente en ligne conserve beaucoup d'informations personnelles sur lui. Il veut savoir lesquelles. Que peut-il faire ?",
+    "choices": [
+      "Rien, car ces données appartiennent à l'entreprise",
+      "Écrire au Conseil constitutionnel pour les obtenir",
+      "Demander ses données au site, puis saisir la CNIL si besoin",
+      "Demander à sa mairie de contacter l'entreprise"
+    ],
+    "answer": 2,
+    "explanation": "Le règlement européen sur la protection des données (RGPD) donne à chacun un droit d'accès à ses données personnelles, ainsi qu'un droit de rectification et d'effacement. Si l'organisme ne répond pas (en principe sous un mois), on peut adresser une plainte à la CNIL.",
+    "source": "https://www.cnil.fr/fr/le-droit-dacces-connaitre-les-donnees-quun-organisme-detient-sur-vous"
+  },
+  {
+    "id": "dro-s-016",
+    "theme": "droits",
+    "subtheme": "Juré d'assises",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Ahmed, naturalisé français il y a quelques années, reçoit une convocation pour être juré à la cour d'assises. Il a beaucoup de travail en ce moment. Que doit-il faire ?",
+    "choices": [
+      "Ignorer la convocation, car être juré est facultatif",
+      "Envoyer un membre de sa famille le remplacer",
+      "Se présenter, car c'est un devoir civique obligatoire",
+      "Refuser par courrier en expliquant qu'il est occupé"
+    ],
+    "answer": 2,
+    "explanation": "Un citoyen tiré au sort comme juré doit siéger : seul un motif grave (par exemple de santé) permet une dispense, et il est impossible de se faire remplacer par un proche. Ne pas se présenter est puni d'une amende pouvant aller jusqu'à 3 750 €.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1044"
+  },
+  {
+    "id": "dro-s-017",
+    "theme": "droits",
+    "subtheme": "Juré d'assises",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Claire, salariée dans une entreprise privée, est tirée au sort comme jurée d'assises. Son employeur la menace d'une sanction si elle s'absente. A-t-il le droit de s'y opposer ?",
+    "choices": [
+      "Oui, l'employeur peut refuser cette absence",
+      "Oui, si l'entreprise compte moins de 50 salariés",
+      "Non, il doit la libérer et ne peut pas la sanctionner",
+      "Non, mais elle doit d'abord trouver une remplaçante"
+    ],
+    "answer": 2,
+    "explanation": "L'employeur doit libérer le salarié convoqué comme juré ; s'y opposer peut constituer une entrave à la justice. Le salarié ne peut être ni sanctionné ni licencié pour cette absence, et l'État peut l'indemniser s'il perd son salaire.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1044"
+  },
+  {
+    "id": "dro-s-018",
+    "theme": "droits",
+    "subtheme": "Impôts",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Mme Benali, qui vit en France, a de petits revenus et pense ne pas être imposable. Sa voisine lui dit qu'elle n'a donc rien à déclarer. Que doit faire Mme Benali ?",
+    "choices": [
+      "Ne rien faire, car seuls les imposables déclarent",
+      "Déclarer ses revenus, comme chaque année",
+      "Déclarer seulement si l'administration le lui demande",
+      "Attendre d'avoir de plus gros revenus pour déclarer"
+    ],
+    "answer": 1,
+    "explanation": "La déclaration de revenus est obligatoire chaque année, même pour une personne non imposable. L'avis de non-imposition sert aussi à obtenir des aides (logement, bourses…). Chacun contribue aux charges publiques selon ses moyens (art. 13 de la Déclaration de 1789).",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F358"
+  },
+  {
+    "id": "dro-s-019",
+    "theme": "droits",
+    "subtheme": "Fraude sociale",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Julien touche une aide de la CAF. Il vient de retrouver un emploi bien payé, mais ne le signale pas : « Personne ne vérifiera. » Cette attitude est-elle conforme à la loi ?",
+    "choices": [
+      "Oui, s'il rembourse l'aide plus tard",
+      "Non, tout changement de situation doit être déclaré",
+      "Oui, on ne déclare que les baisses de revenus",
+      "Oui, car une aide accordée est acquise pour toujours"
+    ],
+    "answer": 1,
+    "explanation": "Tout changement de situation (revenus, vie en couple, déménagement…) doit être déclaré à la CAF. Le cacher est une fraude : il faudra rembourser les sommes perçues et des pénalités ou des poursuites sont possibles. Les aides reposent sur la solidarité nationale.",
+    "source": "https://www.caf.fr/"
+  },
+  {
+    "id": "dro-s-020",
+    "theme": "droits",
+    "subtheme": "Fraude sociale",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Le cousin de Moussa, qui n'a pas de couverture santé, lui demande sa carte Vitale pour se faire soigner. Que doit faire Moussa ?",
+    "choices": [
+      "Lui prêter sa carte, puisqu'ils sont de la même famille",
+      "Lui prêter sa carte pour une seule consultation",
+      "Refuser et l'orienter vers l'Assurance maladie ou l'hôpital",
+      "Lui donner son numéro de sécurité sociale à la place"
+    ],
+    "answer": 2,
+    "explanation": "La carte Vitale est strictement personnelle : la prêter, c'est participer à une fraude à l'Assurance maladie. Le cousin peut se renseigner auprès de l'Assurance maladie sur ses droits ou se rendre dans une permanence d'accès aux soins de santé (PASS) à l'hôpital.",
+    "source": "https://www.ameli.fr/"
+  },
+  {
+    "id": "dro-s-021",
+    "theme": "droits",
+    "subtheme": "Respect de la loi",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Antoine trouve injuste une loi qui vient d'être votée et annonce qu'il ne la respectera pas. Quelle attitude est conforme aux règles de la République ?",
+    "choices": [
+      "Ne pas l'appliquer, au nom de ses convictions",
+      "Respecter la loi et la contester par des moyens légaux",
+      "Empêcher son application par la force",
+      "L'ignorer tant qu'un juge ne l'a pas condamné"
+    ],
+    "answer": 1,
+    "explanation": "La loi, expression de la volonté générale (art. 6 de la Déclaration de 1789), s'impose à tous, même à ceux qui la désapprouvent. On peut la contester légalement : vote, pétition, manifestation déclarée, action associative ou syndicale, interpellation de ses élus."
+  },
+  {
+    "id": "dro-s-022",
+    "theme": "droits",
+    "subtheme": "Porter secours",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Dans la rue, un homme âgé tombe devant Léa et ne répond plus. Les passants continuent leur chemin. Que doit faire Léa ?",
+    "choices": [
+      "Continuer sa route, quelqu'un d'autre appellera",
+      "Filmer la scène pour alerter sur les réseaux sociaux",
+      "Appeler le 15 ou le 112 et suivre les consignes",
+      "Attendre qu'il se réveille avant d'agir"
+    ],
+    "answer": 2,
+    "explanation": "Chacun doit porter secours à une personne en danger sans se mettre lui-même en danger : protéger, alerter (15, 18 ou 112), secourir. S'abstenir est le délit de non-assistance à personne en danger (art. 223-6 du Code pénal : 5 ans de prison et 75 000 € d'amende).",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/droits-et-devoirs/obligations-et-devoirs-des-personnes-residant-en-france/le-role-des-temoins-en-cas-de-violences/"
+  },
+  {
+    "id": "dro-s-023",
+    "theme": "droits",
+    "subtheme": "Porter secours",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Sur une route de campagne, Hugo voit une voiture quitter la route. Le conducteur est blessé et reste coincé dans son véhicule. Quelle est la bonne conduite ?",
+    "choices": [
+      "S'arrêter, protéger les lieux et appeler les secours",
+      "Continuer sa route, car il n'est pas responsable",
+      "Photographier l'accident pour le publier en ligne",
+      "Attendre qu'un autre automobiliste s'arrête"
+    ],
+    "answer": 0,
+    "explanation": "Retenir « protéger, alerter, secourir » : feux de détresse, gilet et triangle, puis appel au 15, au 18 ou au 112 ; sans formation, on ne déplace pas un blessé, sauf danger immédiat (incendie). Passer son chemin peut constituer une non-assistance à personne en danger.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954"
+  },
+  {
+    "id": "dro-s-024",
+    "theme": "droits",
+    "subtheme": "Devoirs civiques",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Le fils de Mme Koné, de nationalité française, vient de fêter ses 16 ans. Quelle démarche doit-il accomplir ?",
+    "choices": [
+      "Se faire recenser à la mairie ou en ligne",
+      "S'engager dans l'armée pour dix mois",
+      "Attendre une convocation de la préfecture à 18 ans",
+      "Rien, car le recensement a été supprimé"
+    ],
+    "answer": 0,
+    "explanation": "Tout jeune Français doit se faire recenser dans les 3 mois qui suivent ses 16 ans. Le recensement permet d'être convoqué à la JDC (rebaptisée « journée de mobilisation » en 2026) et d'être inscrit automatiquement sur les listes électorales à 18 ans ; son attestation est demandée pour certains examens.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F871"
+  },
+  {
+    "id": "dro-s-025",
+    "theme": "droits",
+    "subtheme": "Police et gendarmerie",
+    "type": "situation",
+    "origin": "complement",
+    "question": "En sortant du métro, Omar, qui a une carte de séjour, est contrôlé par des policiers qui lui demandent ses papiers. Que doit-il faire ?",
+    "choices": [
+      "Partir en courant pour éviter le contrôle",
+      "Refuser, car il n'a rien fait de mal",
+      "Rester calme et présenter son titre de séjour",
+      "Insulter les policiers pour protester"
+    ],
+    "answer": 2,
+    "explanation": "La police peut contrôler l'identité d'une personne (art. 78-2 du Code de procédure pénale), et un étranger doit pouvoir présenter son titre de séjour. Fuir, résister (rébellion) ou insulter les agents (outrage) sont des délits ; un contrôle jugé abusif se conteste ensuite, par exemple auprès du Défenseur des droits."
+  },
+  {
+    "id": "dro-s-026",
+    "theme": "droits",
+    "subtheme": "Police et gendarmerie",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Lors d'un contrôle, un policier tutoie Sarah et lui parle de façon humiliante. Elle veut dénoncer ce comportement. Que peut-elle faire ?",
+    "choices": [
+      "Rien, car un policier ne peut jamais être sanctionné",
+      "Saisir le Défenseur des droits ou l'inspection de la police",
+      "Publier l'adresse personnelle du policier sur internet",
+      "Refuser désormais tout contrôle de police"
+    ],
+    "answer": 1,
+    "explanation": "Policiers et gendarmes doivent respecter un code de déontologie (respect de la personne, vouvoiement). Un manquement peut être signalé à l'inspection générale de la police (IGPN) ou de la gendarmerie (IGGN), ou au Défenseur des droits, autorité indépendante et gratuite.",
+    "source": "https://www.defenseurdesdroits.fr/"
+  },
+  {
+    "id": "dro-s-027",
+    "theme": "droits",
+    "subtheme": "Police et gendarmerie",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Le frère de Malik vient d'être placé en garde à vue. Malik se demande quels sont ses droits. Quelle affirmation est exacte ?",
+    "choices": [
+      "Il n'a aucun droit pendant la garde à vue",
+      "Il ne pourra voir un avocat qu'au procès",
+      "Il peut être assisté d'un avocat dès le début",
+      "Il doit répondre à toutes les questions posées"
+    ],
+    "answer": 2,
+    "explanation": "En garde à vue, on peut être assisté d'un avocat (commis d'office gratuitement si besoin), garder le silence, voir un médecin, faire prévenir un proche et bénéficier d'un interprète. La personne reste présumée innocente (art. 9 de la Déclaration de 1789).",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F14837"
+  },
+  {
+    "id": "dro-s-028",
+    "theme": "droits",
+    "subtheme": "Justice",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Nicolas s'est fait voler son téléphone. Il pense savoir qui est le voleur : un jeune de son quartier. Que doit-il faire ?",
+    "choices": [
+      "Porter plainte au commissariat ou à la gendarmerie",
+      "Aller récupérer son téléphone par la force",
+      "Publier la photo du jeune sur les réseaux sociaux",
+      "Demander à des amis d'aller le menacer"
+    ],
+    "answer": 0,
+    "explanation": "En France, il est interdit de se faire justice soi-même : seule la justice peut juger et sanctionner l'auteur d'un vol. Nicolas porte plainte et transmet aux enquêteurs les informations dont il dispose.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1435"
+  },
+  {
+    "id": "dro-s-029",
+    "theme": "droits",
+    "subtheme": "Justice",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Pendant un séjour à Marseille, on vole le sac d'Élodie, qui habite à Lille. Rentrée chez elle, elle veut porter plainte. Où peut-elle le faire ?",
+    "choices": [
+      "Uniquement dans la ville où le vol a eu lieu",
+      "À la mairie de son domicile",
+      "Dans le commissariat ou la gendarmerie de son choix",
+      "Seulement auprès de son assurance"
+    ],
+    "answer": 2,
+    "explanation": "On peut porter plainte dans le commissariat ou la brigade de gendarmerie de son choix, qui est tenu de l'enregistrer (art. 15-3 du Code de procédure pénale) ; on peut aussi écrire au procureur de la République. Porter plainte est gratuit.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1435"
+  },
+  {
+    "id": "dro-s-030",
+    "theme": "droits",
+    "subtheme": "Corruption",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Au guichet d'une administration, un agent propose à Elena d'accélérer son dossier si elle lui donne 200 €. Que doit-elle faire ?",
+    "choices": [
+      "Payer, car c'est l'usage pour aller plus vite",
+      "Proposer plutôt un cadeau de même valeur",
+      "Refuser et signaler les faits aux autorités",
+      "Payer, puis demander un reçu à l'agent"
+    ],
+    "answer": 2,
+    "explanation": "C'est de la corruption : l'agent qui demande et la personne qui paie commettent tous deux un délit puni jusqu'à 10 ans de prison (art. 432-11 et 433-1 du Code pénal). Le service public est égal pour tous ; Elena peut alerter la hiérarchie de l'agent, la police ou le procureur."
+  },
+  {
+    "id": "dro-s-031",
+    "theme": "droits",
+    "subtheme": "Droits du salarié",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Un restaurateur propose à Ibrahim de travailler sans contrat ni fiche de paie, payé en espèces. Que doit faire Ibrahim ?",
+    "choices": [
+      "Accepter, car c'est légal si les deux sont d'accord",
+      "Accepter, mais seulement pendant quelques mois",
+      "Refuser, car le travail non déclaré est illégal",
+      "Accepter s'il signale ses heures à la mairie"
+    ],
+    "answer": 2,
+    "explanation": "Le travail dissimulé (« au noir ») est interdit : l'employeur risque jusqu'à 3 ans de prison et 45 000 € d'amende. Sans déclaration, pas de cotisations, donc pas de droits à la retraite ou au chômage, ni de protection en cas d'accident du travail.",
+    "source": "https://code.travail.gouv.fr/code-du-travail/l8221-5"
+  },
+  {
+    "id": "dro-s-032",
+    "theme": "droits",
+    "subtheme": "Droits du salarié",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Depuis deux mois, Ana travaille dans une entreprise de nettoyage, mais elle n'a reçu aucune fiche de paie. Que peut-elle faire ?",
+    "choices": [
+      "Rien, car la fiche de paie est facultative",
+      "Attendre la fin de sa période d'essai",
+      "La réclamer, puis contacter l'inspection du travail",
+      "Arrêter de venir sans prévenir son employeur"
+    ],
+    "answer": 2,
+    "explanation": "L'employeur doit remettre un bulletin de paie au salarié à chaque versement du salaire (art. L3243-2 du Code du travail). À défaut, Ana le réclame par écrit, puis peut s'adresser à l'inspection du travail ou au conseil de prud'hommes.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F559"
+  },
+  {
+    "id": "dro-s-033",
+    "theme": "droits",
+    "subtheme": "Droits du salarié",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Depuis deux mois, l'employeur de Pierre ne lui verse plus son salaire malgré ses demandes. Que peut faire Pierre ?",
+    "choices": [
+      "Prendre l'argent dans la caisse du magasin",
+      "Saisir le conseil de prud'hommes",
+      "Porter l'affaire devant le Conseil d'État",
+      "Rien, car l'employeur décide quand il paie"
+    ],
+    "answer": 1,
+    "explanation": "Le conseil de prud'hommes juge les litiges entre salariés et employeurs du secteur privé (salaires, licenciements…), en référé en cas d'urgence. Pierre peut aussi se faire aider par un syndicat ou l'inspection du travail ; se servir dans la caisse serait un vol.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2360"
+  },
+  {
+    "id": "dro-s-034",
+    "theme": "droits",
+    "subtheme": "Droits du salarié",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Julie annonce à son employeur qu'elle est enceinte. La semaine suivante, il la licencie à cause de sa grossesse. Quelle affirmation est exacte ?",
+    "choices": [
+      "C'est légal dans une petite entreprise",
+      "C'est interdit : elle peut le contester aux prud'hommes",
+      "C'est légal si l'employeur lui verse une prime",
+      "C'est légal si elle travaille depuis moins d'un an"
+    ],
+    "answer": 1,
+    "explanation": "Il est interdit de licencier une salariée en raison de sa grossesse, et elle est protégée pendant son congé maternité (art. L1225-4 du Code du travail). C'est aussi une discrimination : le licenciement peut être annulé par le conseil de prud'hommes.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2873"
+  },
+  {
+    "id": "dro-s-035",
+    "theme": "droits",
+    "subtheme": "Droits du salarié",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Un matin, le patron de Samir, salarié en CDI, lui lance : « Tu es viré, ne reviens pas demain », sans aucune autre formalité. Que peut faire Samir ?",
+    "choices": [
+      "Rien, un licenciement oral est valable",
+      "S'adresser au tribunal administratif",
+      "Contester ce licenciement devant les prud'hommes",
+      "Casser du matériel de l'entreprise"
+    ],
+    "answer": 2,
+    "explanation": "Un licenciement suit une procédure : convocation à un entretien préalable, puis lettre de licenciement qui indique le motif. Un licenciement seulement oral est irrégulier ; le salarié peut le contester devant le conseil de prud'hommes (en principe dans les 12 mois).",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2360"
+  },
+  {
+    "id": "dro-s-036",
+    "theme": "droits",
+    "subtheme": "Droits du salarié",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Le chef de Fatima menace de ne pas renouveler son contrat si elle adhère à un syndicat. Quelle affirmation est exacte ?",
+    "choices": [
+      "Elle doit d'abord obtenir l'accord de son employeur",
+      "Elle est libre d'adhérer au syndicat de son choix",
+      "Seuls les salariés français peuvent se syndiquer",
+      "L'adhésion est réservée aux salariés en CDI"
+    ],
+    "answer": 1,
+    "explanation": "La liberté syndicale est garantie par le Préambule de la Constitution de 1946 : chacun peut adhérer au syndicat de son choix, ou à aucun. L'employeur ne peut pas en tenir compte dans ses décisions (art. L2141-5 du Code du travail) ; une telle menace est une discrimination.",
+    "source": "https://code.travail.gouv.fr/code-du-travail/l2141-5"
+  },
+  {
+    "id": "dro-s-037",
+    "theme": "droits",
+    "subtheme": "Droits du salarié",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Les syndicats appellent à la grève pour les salaires. Thomas, salarié d'une entreprise privée, veut y participer. Quelle affirmation est exacte ?",
+    "choices": [
+      "Son employeur peut le licencier pour cette raison",
+      "Il doit d'abord demander l'autorisation du maire",
+      "Il peut bloquer l'entrée de l'entreprise",
+      "Il peut faire grève, mais ces heures ne sont pas payées"
+    ],
+    "answer": 3,
+    "explanation": "Le droit de grève est garanti par la Constitution (Préambule de 1946) : un salarié ne peut pas être sanctionné ni licencié pour avoir fait grève, sauf faute lourde. En revanche, le salaire correspondant au temps de grève est retenu, et bloquer l'accès aux non-grévistes est interdit.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F117"
+  },
+  {
+    "id": "dro-s-038",
+    "theme": "droits",
+    "subtheme": "Droits du salarié",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Le chef d'Alain lui demande d'utiliser une machine dont la protection de sécurité est cassée. Alain risque de se blesser gravement. Que peut-il faire ?",
+    "choices": [
+      "Utiliser la machine pour ne pas perdre son emploi",
+      "Alerter l'employeur et exercer son droit de retrait",
+      "Réparer seul la machine sans prévenir personne",
+      "Démissionner immédiatement sans explication"
+    ],
+    "answer": 1,
+    "explanation": "Face à un danger grave et imminent pour sa vie ou sa santé, le salarié alerte l'employeur et peut se retirer de son poste (droit de retrait, art. L4131-1 du Code du travail). S'il avait un motif raisonnable, il ne peut subir ni sanction ni retenue de salaire.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1136"
+  },
+  {
+    "id": "dro-s-039",
+    "theme": "droits",
+    "subtheme": "Droits du salarié",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Lors d'un entretien d'embauche, le recruteur demande à Sarah si elle est enceinte. Quelle affirmation est exacte ?",
+    "choices": [
+      "Elle doit répondre, sinon sa candidature sera refusée",
+      "Elle n'a pas à répondre à cette question",
+      "Elle doit fournir un certificat médical",
+      "Elle doit répondre si l'entreprise est petite"
+    ],
+    "answer": 1,
+    "explanation": "Une candidate n'est pas tenue de révéler qu'elle est enceinte (art. L1225-1 du Code du travail) : les questions du recruteur doivent avoir un lien direct avec le poste. Écarter une candidate à cause de sa grossesse est une discrimination punie par la loi.",
+    "source": "https://code.travail.gouv.fr/code-du-travail/l1225-1"
+  },
+  {
+    "id": "dro-s-040",
+    "theme": "droits",
+    "subtheme": "Droits du salarié",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Wei travaille à temps plein depuis un an. Son employeur lui dit qu'il n'a pas droit aux congés payés parce qu'il est étranger. A-t-il raison ?",
+    "choices": [
+      "Oui, les congés payés sont réservés aux Français",
+      "Non, tout salarié acquiert 5 semaines de congés par an",
+      "Oui, sauf après dix ans dans l'entreprise",
+      "Non, mais Wei n'a droit qu'à une semaine par an"
+    ],
+    "answer": 1,
+    "explanation": "Tout salarié, quelle que soit sa nationalité, acquiert 2,5 jours ouvrables de congés payés par mois de travail, soit 30 jours ouvrables (5 semaines) par an. Lui refuser ce droit à cause de sa nationalité serait en plus une discrimination.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2258"
+  },
+  {
+    "id": "dro-s-041",
+    "theme": "droits",
+    "subtheme": "Droits du salarié",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Une entreprise propose à Ramona, 30 ans, un emploi à temps plein payé 8 € brut de l'heure. Ramona est prête à accepter. Ce salaire est-il légal ?",
+    "choices": [
+      "Oui, puisqu'elle accepte en signant le contrat",
+      "Oui, pendant la première année de travail",
+      "Non, il est inférieur au SMIC",
+      "Oui, si l'entreprise a des difficultés"
+    ],
+    "answer": 2,
+    "explanation": "Le SMIC est le salaire minimum légal : 12,31 € brut de l'heure depuis le 1er juin 2026 (environ 1 867 € brut par mois pour 35 heures). Un salarié majeur ne peut pas être payé moins, même s'il est d'accord (sauf cas particuliers comme l'apprentissage).",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2300"
+  },
+  {
+    "id": "dro-s-042",
+    "theme": "droits",
+    "subtheme": "Égalité femmes-hommes",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Émilie apprend que Marc, embauché en même temps qu'elle pour le même poste, gagne 300 € de plus par mois. Leur employeur explique : « C'est normal, c'est un homme. » Que dit la loi ?",
+    "choices": [
+      "C'est autorisé si l'employeur l'a décidé",
+      "C'est autorisé dans les petites entreprises",
+      "C'est interdit : à travail égal, salaire égal",
+      "C'est autorisé si Marc a des enfants"
+    ],
+    "answer": 2,
+    "explanation": "L'employeur doit assurer l'égalité de rémunération entre les femmes et les hommes pour un même travail ou un travail de valeur égale (art. L3221-2 du Code du travail). Émilie peut saisir le conseil de prud'hommes ou le Défenseur des droits.",
+    "source": "https://code.travail.gouv.fr/code-du-travail/l3221-2"
+  },
+  {
+    "id": "dro-s-043",
+    "theme": "droits",
+    "subtheme": "Droits du salarié",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Sonia est en arrêt maladie. Son employeur exige qu'elle lui dise de quelle maladie elle souffre. Que doit-elle faire ?",
+    "choices": [
+      "Lui transmettre son dossier médical complet",
+      "Demander à son médecin d'appeler l'employeur",
+      "Revenir travailler pour éviter les questions",
+      "Envoyer son arrêt, sans révéler sa maladie"
+    ],
+    "answer": 3,
+    "explanation": "Le secret médical protège le patient : l'employeur n'a pas à connaître le diagnostic, et le volet de l'arrêt qui lui est destiné ne mentionne pas la maladie. Sonia doit seulement envoyer son arrêt de travail dans les 48 heures à l'Assurance maladie et à son employeur.",
+    "source": "https://www.ameli.fr/"
+  },
+  {
+    "id": "dro-s-044",
+    "theme": "droits",
+    "subtheme": "Droits du locataire",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Pendant que Lina est au travail, le propriétaire de son appartement entre chez elle avec son double des clés pour « vérifier l'état du logement ». A-t-il le droit de le faire ?",
+    "choices": [
+      "Oui, car il est propriétaire du logement",
+      "Oui, une fois par mois au maximum",
+      "Oui, si un voisin l'accompagne",
+      "Non, il lui faut l'accord de la locataire"
+    ],
+    "answer": 3,
+    "explanation": "Le logement loué est le domicile du locataire : le propriétaire ne peut pas y entrer sans son accord, même s'il a les clés. Sinon, c'est une violation de domicile (art. 226-4 du Code pénal), et Lina peut porter plainte.",
+    "source": "https://www.service-public.gouv.fr/particuliers/actualites/A15459"
+  },
+  {
+    "id": "dro-s-045",
+    "theme": "droits",
+    "subtheme": "Droits du locataire",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Début novembre, M. Lambert, en retard de loyer, découvre que son propriétaire a changé les serrures et sorti ses affaires sur le palier. Cette action est-elle légale ?",
+    "choices": [
+      "Oui, car le loyer n'a pas été payé",
+      "Non, une expulsion exige une décision de justice",
+      "Oui, si le propriétaire a prévenu une semaine avant",
+      "Oui, si le propriétaire a besoin du logement"
+    ],
+    "answer": 1,
+    "explanation": "Un propriétaire ne peut jamais expulser lui-même son locataire : il faut un jugement, puis l'intervention d'un commissaire de justice ; l'expulsion « par la force » est un délit (art. 226-4-2 du Code pénal). De plus, la trêve hivernale (1er novembre - 31 mars) suspend en principe les expulsions.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34736"
+  },
+  {
+    "id": "dro-s-046",
+    "theme": "droits",
+    "subtheme": "Droits du locataire",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Aminata, locataire, veut repeindre en bleu les murs de son salon. Doit-elle demander l'autorisation de son propriétaire ?",
+    "choices": [
+      "Oui, toujours, par lettre recommandée",
+      "Oui, et la mairie doit aussi donner son accord",
+      "Non, elle peut faire ces travaux de décoration librement",
+      "Non, et elle peut aussi abattre une cloison sans accord"
+    ],
+    "answer": 2,
+    "explanation": "Le locataire peut aménager et décorer son logement (peinture, papier peint) sans autorisation. En revanche, les travaux qui transforment le logement, comme abattre une cloison, exigent l'accord écrit du propriétaire (art. 7 de la loi du 6 juillet 1989).",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1874"
+  },
+  {
+    "id": "dro-s-047",
+    "theme": "droits",
+    "subtheme": "Droits du locataire",
+    "type": "situation",
+    "origin": "complement",
+    "question": "En plein hiver, le chauffage de l'appartement de Kofi est en panne depuis deux semaines et son propriétaire ne fait rien. Kofi veut arrêter de payer son loyer. Que doit-il faire ?",
+    "choices": [
+      "Arrêter de payer jusqu'à la réparation",
+      "Retenir de lui-même la moitié du loyer",
+      "Continuer à payer et mettre le propriétaire en demeure par écrit",
+      "Partir sans prévenir le propriétaire"
+    ],
+    "answer": 2,
+    "explanation": "Le propriétaire doit louer un logement décent et en assurer les grosses réparations, mais le locataire ne peut pas cesser de payer de sa propre initiative. Kofi signale la panne par écrit, envoie une mise en demeure, puis peut saisir la commission de conciliation ou le juge (conseils gratuits à l'ADIL).",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2042"
+  },
+  {
+    "id": "dro-s-048",
+    "theme": "droits",
+    "subtheme": "Discriminations",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Une agence immobilière refuse de faire visiter un appartement à Youssef en lui disant que le propriétaire « ne veut pas de personnes d'origine étrangère ». Que peut faire Youssef ?",
+    "choices": [
+      "Rien, le propriétaire choisit ses locataires comme il veut",
+      "Rien, sauf s'il est de nationalité française",
+      "Saisir le Défenseur des droits ou porter plainte",
+      "Dégrader la vitrine de l'agence"
+    ],
+    "answer": 2,
+    "explanation": "Refuser une location en raison de l'origine est une discrimination punie jusqu'à 3 ans de prison et 45 000 € d'amende (art. 225-2 du Code pénal). Youssef peut saisir gratuitement le Défenseur des droits ou porter plainte.",
+    "source": "https://www.defenseurdesdroits.fr/"
+  },
+  {
+    "id": "dro-s-049",
+    "theme": "droits",
+    "subtheme": "Droits du locataire",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Jules emménage dans un appartement qu'il loue. Il pense que l'assurance habitation est facultative pour lui. A-t-il raison ?",
+    "choices": [
+      "Oui, c'est au propriétaire d'assurer le logement",
+      "Non, le locataire doit s'assurer contre les risques locatifs",
+      "Oui, sauf pour les logements de plus de 50 m²",
+      "Non, mais seulement s'il a des enfants"
+    ],
+    "answer": 1,
+    "explanation": "La loi du 6 juillet 1989 (art. 7) oblige le locataire à s'assurer au minimum contre les risques locatifs (incendie, dégât des eaux, explosion) et à en remettre l'attestation au propriétaire à l'entrée dans les lieux, puis chaque année à sa demande.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1349"
+  },
+  {
+    "id": "dro-s-050",
+    "theme": "droits",
+    "subtheme": "Voisinage",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Chaque nuit, le voisin de Chloé met de la musique très fort après minuit. Quelle est la première démarche à faire ?",
+    "choices": [
+      "Lui parler calmement pour trouver une solution",
+      "Mettre sa propre musique encore plus fort",
+      "Couper l'électricité de son appartement",
+      "Déposer des menaces dans sa boîte aux lettres"
+    ],
+    "answer": 0,
+    "explanation": "La liberté de chacun s'arrête là où commence celle des autres. On commence par le dialogue, puis un courrier, puis le conciliateur de justice (gratuit) ; en cas de tapage nocturne, la police peut aussi intervenir (amende forfaitaire de 68 €).",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F612"
+  },
+  {
+    "id": "dro-s-051",
+    "theme": "droits",
+    "subtheme": "Justice",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Un ami doit 500 € à Mehdi et refuse de le rembourser. Mehdi pense prendre la voiture de son ami en attendant d'être payé. Que doit-il faire ?",
+    "choices": [
+      "Recourir à un conciliateur de justice ou au juge",
+      "Prendre la voiture, puisque son ami lui doit de l'argent",
+      "Menacer son ami jusqu'à ce qu'il paie",
+      "Révéler les dettes de son ami à son employeur"
+    ],
+    "answer": 0,
+    "explanation": "Il est interdit de se faire justice soi-même : prendre la voiture serait un vol. Mehdi peut envoyer une mise en demeure, faire appel gratuitement à un conciliateur de justice, puis saisir le tribunal (par exemple par une injonction de payer).",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1736"
+  },
+  {
+    "id": "dro-s-052",
+    "theme": "droits",
+    "subtheme": "Civisme",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Rachid trouve dans la rue un portefeuille contenant 150 € et une carte d'identité. Que doit-il faire ?",
+    "choices": [
+      "Garder l'argent et jeter le reste",
+      "Publier la carte d'identité sur internet",
+      "Le garder chez lui jusqu'à ce qu'on le réclame",
+      "Le rapporter à la mairie, au commissariat ou à la gendarmerie"
+    ],
+    "answer": 3,
+    "explanation": "Un objet trouvé appartient toujours à son propriétaire : on le lui rend si possible, ou on le dépose au service des objets trouvés de la mairie, au commissariat ou à la gendarmerie. Garder l'argent pour soi est sanctionné comme un vol."
+  },
+  {
+    "id": "dro-s-053",
+    "theme": "droits",
+    "subtheme": "Droits civiques",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Thierry a été condamné à une privation de ses droits civiques pendant 5 ans. Une élection a lieu pendant cette période. Peut-il voter ?",
+    "choices": [
+      "Oui, il peut voter mais pas être candidat",
+      "Oui, à condition de voter par procuration",
+      "Non, il ne peut ni voter ni être élu",
+      "Non, et il perd définitivement la nationalité française"
+    ],
+    "answer": 2,
+    "explanation": "La privation des droits civiques (art. 131-26 du Code pénal) retire, pour la durée fixée par le juge, le droit de vote, l'éligibilité et la possibilité d'être juré. À la fin de cette période, la personne retrouve ses droits."
+  },
+  {
+    "id": "dro-s-054",
+    "theme": "droits",
+    "subtheme": "Infractions",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Pour l'aider à louer un appartement, un ami propose à Lina de lui fabriquer de fausses fiches de paie. Que doit-elle faire ?",
+    "choices": [
+      "Accepter, car beaucoup de gens le font",
+      "Accepter si elle paie bien son loyer ensuite",
+      "Accepter, mais pour une seule fiche de paie",
+      "Refuser, car faire ou utiliser un faux est un délit"
+    ],
+    "answer": 3,
+    "explanation": "Le faux et l'usage de faux sont des délits punis jusqu'à 3 ans de prison et 45 000 € d'amende (art. 441-1 du Code pénal). Pour rassurer un propriétaire, on peut plutôt demander une garantie gratuite comme Visale (Action Logement)."
+  },
+  {
+    "id": "dro-s-055",
+    "theme": "droits",
+    "subtheme": "Infractions",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Kevin reçoit un avis de contravention pour stationnement interdit. Il trouve cette amende injuste. Que doit-il faire ?",
+    "choices": [
+      "L'ignorer, l'amende finira par être annulée",
+      "La payer, ou la contester dans le délai indiqué",
+      "Déchirer l'avis et attendre une relance",
+      "Demander au maire de l'annuler"
+    ],
+    "answer": 1,
+    "explanation": "Une amende forfaitaire se paie ou se conteste dans le délai indiqué sur l'avis (45 jours en général), par exemple sur le site de l'ANTAI. Si on l'ignore, elle est majorée.",
+    "source": "https://www.antai.gouv.fr/"
+  },
+  {
+    "id": "dro-s-056",
+    "theme": "droits",
+    "subtheme": "Vote",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Myriam sera en voyage le jour de l'élection présidentielle. Elle veut quand même que sa voix compte. Que peut-elle faire ?",
+    "choices": [
+      "Envoyer son bulletin par la poste à la mairie",
+      "Donner procuration à un électeur de confiance",
+      "Prêter sa carte électorale à une amie",
+      "Demander à son mari de voter deux fois sans formalité"
+    ],
+    "answer": 1,
+    "explanation": "La procuration permet à un autre électeur (le mandataire) de voter à sa place, dans le bureau de vote de Myriam. Elle se fait en ligne (Maprocuration) ou au commissariat, à la gendarmerie, au tribunal ou au consulat ; le vote par courrier n'existe pas pour cette élection.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1604"
+  },
+  {
+    "id": "dro-s-057",
+    "theme": "droits",
+    "subtheme": "Vote",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Le jour du vote, le beau-frère de Mariam veut entrer avec elle dans l'isoloir pour vérifier son bulletin. Que doit-elle faire ?",
+    "choices": [
+      "Refuser, car le vote est personnel et secret",
+      "Accepter, car le chef de famille contrôle le vote",
+      "Accepter s'il ne touche pas le bulletin",
+      "Lui confier son bulletin pour qu'il vote à sa place"
+    ],
+    "answer": 0,
+    "explanation": "Le suffrage est universel, égal et secret (art. 3 de la Constitution) : chaque électeur passe seul dans l'isoloir et choisit librement. Seul un électeur handicapé peut se faire aider par un électeur de son choix."
+  },
+  {
+    "id": "dro-s-058",
+    "theme": "droits",
+    "subtheme": "Vote",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Paul, malvoyant, veut voter. Il souhaite que sa fille, elle aussi électrice, l'accompagne dans l'isoloir pour l'aider. Est-ce possible ?",
+    "choices": [
+      "Non, personne n'entre jamais dans l'isoloir à deux",
+      "Non, il doit obligatoirement voter par procuration",
+      "Oui, un électeur handicapé peut se faire aider",
+      "Oui, mais c'est le président du bureau qui vote"
+    ],
+    "answer": 2,
+    "explanation": "Un électeur dont le handicap l'empêche de voter seul peut se faire assister par l'électeur de son choix (art. L64 du Code électoral). C'est la seule exception au passage seul dans l'isoloir ; le vote reste le sien."
+  },
+  {
+    "id": "dro-s-059",
+    "theme": "droits",
+    "subtheme": "Vote",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Pendant une campagne électorale, un militant propose 50 € à Tarek pour qu'il vote pour son candidat. Que doit faire Tarek ?",
+    "choices": [
+      "Accepter, car le vote est secret de toute façon",
+      "Accepter, puis voter pour un autre candidat",
+      "Négocier une somme plus importante",
+      "Refuser et signaler les faits à la police ou au procureur"
+    ],
+    "answer": 3,
+    "explanation": "Acheter ou vendre un vote est un délit de corruption électorale (art. L106 du Code électoral : 2 ans de prison et 15 000 € d'amende), puni pour celui qui offre comme pour celui qui accepte. Le vote doit rester libre."
+  },
+  {
+    "id": "dro-s-060",
+    "theme": "droits",
+    "subtheme": "Vote",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Devenue française récemment, Mme Ngo veut être sûre de pouvoir voter à la présidentielle de 2027. Elle n'a pas accès à internet. Où peut-elle s'inscrire sur les listes électorales ?",
+    "choices": [
+      "À la mairie de sa commune",
+      "Uniquement à la préfecture",
+      "Au bureau de vote, le jour du scrutin",
+      "Au tribunal judiciaire"
+    ],
+    "answer": 0,
+    "explanation": "On s'inscrit à la mairie, par courrier ou en ligne, avec une pièce d'identité et un justificatif de domicile, au plus tard le 6e vendredi avant le scrutin (12 mars 2027 pour le 1er tour du 18 avril 2027). Une personne naturalisée est en principe inscrite automatiquement, mais il est prudent de le vérifier.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1367"
+  },
+  {
+    "id": "dro-s-061",
+    "theme": "droits",
+    "subtheme": "Vote",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Hassan vient d'être inscrit sur les listes électorales. Son voisin lui dit qu'il paiera une amende s'il ne vote pas. A-t-il raison ?",
+    "choices": [
+      "Oui, l'abstention est punie d'une amende",
+      "Oui, mais seulement pour l'élection présidentielle",
+      "Oui, Hassan sera rayé des listes électorales",
+      "Non, en France, voter n'est pas obligatoire"
+    ],
+    "answer": 3,
+    "explanation": "Voter est un droit et un devoir civique, mais ce n'est pas une obligation légale : l'abstention n'est pas sanctionnée en France. Retenir : le vote est libre, et c'est aussi la liberté de ne pas voter.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1367"
+  },
+  {
+    "id": "dro-s-062",
+    "theme": "droits",
+    "subtheme": "Vote",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Le jour de l'élection, Bilal, qui habite Lyon, arrive à son bureau de vote avec sa seule carte électorale. Que va-t-on lui demander ?",
+    "choices": [
+      "Rien d'autre, la carte électorale suffit",
+      "Un justificatif de domicile récent",
+      "Une pièce d'identité",
+      "Son dernier avis d'imposition"
+    ],
+    "answer": 2,
+    "explanation": "Dans les communes de 1 000 habitants et plus, l'électeur doit présenter une pièce d'identité (carte d'identité, passeport, permis de conduire…) ; la carte électorale, elle, n'est pas obligatoire. Sans pièce d'identité, il ne pourra pas voter."
+  },
+  {
+    "id": "dro-s-063",
+    "theme": "droits",
+    "subtheme": "Sécurité routière",
+    "type": "situation",
+    "origin": "complement",
+    "question": "À la fin d'une soirée, Romain, qui a bu plusieurs verres d'alcool, veut reprendre le volant pour rentrer chez lui. Que doivent faire ses amis ?",
+    "choices": [
+      "Le laisser partir s'il roule lentement",
+      "L'empêcher de conduire et trouver une autre solution",
+      "Le laisser partir si le trajet est court",
+      "Lui faire boire un café avant de partir"
+    ],
+    "answer": 1,
+    "explanation": "Il est interdit de conduire avec 0,5 g d'alcool par litre de sang ou plus (0,2 g/l pour un jeune conducteur) ; à partir de 0,8 g/l, c'est un délit puni de prison. On confie le volant à une personne sobre, on appelle un taxi ou on dort sur place : le café n'élimine pas l'alcool.",
+    "source": "https://www.securite-routiere.gouv.fr/"
+  },
+  {
+    "id": "dro-s-064",
+    "theme": "droits",
+    "subtheme": "Sécurité routière",
+    "type": "situation",
+    "origin": "complement",
+    "question": "En se garant, Thomas raye une voiture en stationnement. Le propriétaire est absent et personne n'a rien vu. Que doit faire Thomas ?",
+    "choices": [
+      "Partir, puisque personne ne l'a vu",
+      "Laisser ses coordonnées ou prévenir la police",
+      "Attendre la nuit pour partir discrètement",
+      "Effacer lui-même la rayure, puis partir"
+    ],
+    "answer": 1,
+    "explanation": "Le conducteur qui cause un accident, même avec de simples dégâts matériels, doit permettre d'être identifié (mot avec ses coordonnées, constat amiable, police). Partir pour échapper à sa responsabilité est un délit de fuite (art. 434-10 du Code pénal)."
+  },
+  {
+    "id": "dro-s-065",
+    "theme": "droits",
+    "subtheme": "Sécurité routière",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Pressée, Laura veut se garer « cinq minutes » sur une place réservée aux personnes handicapées. Elle n'a pas de carte de stationnement. Est-ce permis ?",
+    "choices": [
+      "Oui, si elle reste moins de cinq minutes",
+      "Non, c'est interdit et puni d'une amende de 135 €",
+      "Oui, le dimanche et les jours fériés",
+      "Oui, si elle allume ses feux de détresse"
+    ],
+    "answer": 1,
+    "explanation": "Ces places sont réservées aux titulaires de la carte mobilité inclusion (CMI) « stationnement ». S'y garer sans carte, même brièvement, est puni d'une amende de 135 € et le véhicule peut être mis en fourrière."
+  },
+  {
+    "id": "dro-s-066",
+    "theme": "droits",
+    "subtheme": "Environnement",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Leïla déménage. Elle veut laisser son vieux matelas et un réfrigérateur cassé sur le trottoir, au pied de son immeuble. Que doit-elle faire ?",
+    "choices": [
+      "Les poser sur le trottoir : la mairie les ramassera",
+      "Les apporter à la déchèterie ou utiliser la collecte des encombrants",
+      "Les abandonner discrètement en forêt",
+      "Les brûler dans la cour de l'immeuble"
+    ],
+    "answer": 1,
+    "explanation": "Laisser des déchets sur la voie publique est un dépôt sauvage, puni d'une amende (montants relevés en juin 2026). Les encombrants vont à la déchèterie ou au service de collecte de la mairie ; protéger l'environnement est un devoir (Charte de l'environnement, art. 2).",
+    "source": "https://www.service-public.gouv.fr/particuliers/actualites/A18955"
+  },
+  {
+    "id": "dro-s-067",
+    "theme": "environnement",
+    "subtheme": "Environnement",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Dans la rue, Victor jette son mégot par terre. Un passant lui fait une remarque. Que dit la loi ?",
+    "choices": [
+      "C'est permis, car des agents nettoient la rue",
+      "C'est interdit seulement devant les écoles",
+      "C'est permis en dehors du centre-ville",
+      "C'est interdit et puni d'une amende"
+    ],
+    "answer": 3,
+    "explanation": "Un mégot est un déchet : le jeter sur la voie publique est puni d'une amende forfaitaire. On utilise une poubelle ou un cendrier de poche.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36492"
+  },
+  {
+    "id": "dro-s-068",
+    "theme": "droits",
+    "subtheme": "Environnement",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Chaque automne, le voisin de Sylvie brûle dans son jardin les feuilles mortes et les branches coupées. Est-ce permis ?",
+    "choices": [
+      "Oui, car il est chez lui",
+      "Oui, s'il le fait le week-end",
+      "Non, il doit les composter ou les porter en déchèterie",
+      "Oui, si le feu dure moins d'une heure"
+    ],
+    "answer": 2,
+    "explanation": "Il est interdit de brûler ses déchets verts chez soi, à l'air libre comme dans un incinérateur de jardin (pollution, risque d'incendie) ; une amende est possible. On les composte, on les broie ou on les apporte en déchèterie.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31858"
+  },
+  {
+    "id": "dro-s-069",
+    "theme": "droits",
+    "subtheme": "Protection animale",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Le voisin de Hugo frappe régulièrement son chien et annonce qu'il va l'abandonner sur une aire d'autoroute avant les vacances. Que peut faire Hugo ?",
+    "choices": [
+      "Rien, car l'animal appartient à son voisin",
+      "Entrer chez le voisin pour emmener le chien",
+      "Alerter la police ou une association de protection animale",
+      "Frapper le voisin pour lui donner une leçon"
+    ],
+    "answer": 2,
+    "explanation": "Les sévices graves, les actes de cruauté et l'abandon d'un animal sont des délits punis jusqu'à 3 ans de prison et 45 000 € d'amende (art. 521-1 du Code pénal). On alerte les autorités au lieu de se faire justice soi-même."
+  },
+  {
+    "id": "dro-s-070",
+    "theme": "droits",
+    "subtheme": "Santé publique",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Dans un jardin public où jouent des enfants, Marc s'assoit sur un banc et allume une cigarette. Est-ce permis ?",
+    "choices": [
+      "Oui, car il est en plein air",
+      "Oui, si personne ne se plaint",
+      "Oui, à plus de deux mètres des enfants",
+      "Non, fumer y est interdit depuis juillet 2025"
+    ],
+    "answer": 3,
+    "explanation": "Depuis le 1er juillet 2025, il est interdit de fumer dans les parcs et jardins publics, sur les plages, sous les abribus et aux abords des écoles, sous peine d'une amende de 135 €. Les terrasses de café ne sont pas concernées.",
+    "source": "https://www.info.gouv.fr/actualite/interdiction-de-fumer-de-nouveaux-lieux-concernes-cet-ete"
+  },
+  {
+    "id": "dro-s-071",
+    "theme": "droits",
+    "subtheme": "Protection des mineurs",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Devant un supermarché, un adolescent de 16 ans demande à Olivier d'acheter des bières pour lui. Que doit faire Olivier ?",
+    "choices": [
+      "Accepter, car la bière est peu alcoolisée",
+      "Refuser, car on ne fournit pas d'alcool à un mineur",
+      "Accepter, car l'alcool est permis dès 16 ans",
+      "Accepter si les parents sont d'accord par téléphone"
+    ],
+    "answer": 1,
+    "explanation": "La vente d'alcool aux moins de 18 ans est interdite, tout comme le fait de leur en offrir dans les commerces et les lieux publics (art. L3342-1 du Code de la santé publique). Le vendeur peut exiger une pièce d'identité.",
+    "source": "https://www.drogues.gouv.fr/sites/default/files/2025-03/lessentiel_interdictions_vente_aux_mineurs.pdf"
+  },
+  {
+    "id": "dro-s-072",
+    "theme": "droits",
+    "subtheme": "Laïcité",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Amina, qui porte un foulard, vient à la mairie pour inscrire son fils à l'école. L'agent d'accueil refuse de la recevoir tant qu'elle ne l'a pas retiré. Qui a raison ?",
+    "choices": [
+      "L'agent, car la laïcité s'impose à tous en mairie",
+      "Amina, car un usager peut porter un signe religieux",
+      "L'agent, car les signes religieux sont interdits en public",
+      "Personne : il faut demander l'avis du préfet"
+    ],
+    "answer": 1,
+    "explanation": "La neutralité religieuse s'impose aux agents publics, pas aux usagers : Amina peut garder son foulard dans un service public, tant qu'elle respecte les règles du service et ne dissimule pas son visage. Refuser de la recevoir pour ce motif est une discrimination."
+  },
+  {
+    "id": "dro-s-073",
+    "theme": "droits",
+    "subtheme": "Droits des femmes",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Léa, 17 ans, enceinte de 8 semaines, souhaite interrompre sa grossesse. Ses parents s'y opposent. Peut-elle avoir recours à une IVG ?",
+    "choices": [
+      "Non, l'accord des parents est obligatoire",
+      "Non, l'IVG est réservée aux femmes majeures",
+      "Oui, mais seulement avec l'accord du père de l'enfant",
+      "Oui, accompagnée d'un adulte de son choix"
+    ],
+    "answer": 3,
+    "explanation": "L'IVG est possible jusqu'à 14 semaines de grossesse ; une mineure peut garder le secret vis-à-vis de ses parents en se faisant accompagner par une personne majeure de son choix. Depuis le 8 mars 2024, la liberté de recourir à l'IVG est inscrite dans la Constitution.",
+    "source": "https://ivg.gouv.fr/"
+  },
+  {
+    "id": "dro-s-074",
+    "theme": "droits",
+    "subtheme": "Égalité femmes-hommes",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Mariée depuis peu, Rokia veut ouvrir un compte bancaire à son nom et accepter un emploi. Son mari affirme qu'elle a besoin de son autorisation. Que dit la loi ?",
+    "choices": [
+      "Elle peut le faire librement, sans l'accord de son mari",
+      "Elle a besoin de l'accord écrit de son mari",
+      "Elle peut travailler, mais pas ouvrir un compte",
+      "Elle doit demander l'accord de la mairie"
+    ],
+    "answer": 0,
+    "explanation": "Depuis la loi du 13 juillet 1965, une femme mariée peut exercer une profession et ouvrir un compte bancaire sans l'autorisation de son mari. Les époux ont les mêmes droits et les mêmes devoirs."
+  },
+  {
+    "id": "dro-s-075",
+    "theme": "droits",
+    "subtheme": "Libertés",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Des habitants veulent manifester dans les rues de leur ville contre la fermeture de la maternité. Que doivent-ils faire ?",
+    "choices": [
+      "Demander l'autorisation du Président de la République",
+      "Renoncer, car manifester est interdit en France",
+      "Déclarer la manifestation à la mairie ou à la préfecture",
+      "Bloquer l'hôpital sans prévenir personne"
+    ],
+    "answer": 2,
+    "explanation": "Manifester est une liberté, mais une manifestation sur la voie publique doit être déclarée à l'avance (3 à 15 jours avant) à la mairie, ou à la préfecture selon les villes (art. L211-1 et L211-2 du Code de la sécurité intérieure). Elle doit rester pacifique."
+  },
+  {
+    "id": "dro-s-076",
+    "theme": "droits",
+    "subtheme": "Défenseur des droits",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Depuis six mois, le dossier de retraite de M. Martin est bloqué sans réponse, malgré ses réclamations. À qui peut-il s'adresser gratuitement ?",
+    "choices": [
+      "Au Conseil constitutionnel",
+      "Au Défenseur des droits",
+      "À la Commission européenne",
+      "Au président de l'Assemblée nationale"
+    ],
+    "answer": 1,
+    "explanation": "Le Défenseur des droits, autorité indépendante inscrite dans la Constitution, aide gratuitement les usagers en difficulté avec un service public. Depuis le 23 juillet 2026, cette fonction est exercée par François-Noël Buffet.",
+    "source": "https://www.defenseurdesdroits.fr/"
+  },
+  {
+    "id": "dro-s-077",
+    "theme": "droits",
+    "subtheme": "Discriminations",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Un médecin refuse de recevoir Aurélie parce qu'elle bénéficie de la Complémentaire santé solidaire. Est-ce permis ?",
+    "choices": [
+      "Oui, un médecin choisit librement ses patients",
+      "Non, c'est un refus de soins discriminatoire",
+      "Oui, si son cabinet est privé",
+      "Oui, si elle peut aller à l'hôpital"
+    ],
+    "answer": 1,
+    "explanation": "Un professionnel de santé ne peut pas refuser de soigner une personne parce qu'elle bénéficie de la Complémentaire santé solidaire ou de l'aide médicale de l'État (art. L1110-3 du Code de la santé publique). Aurélie peut saisir l'Assurance maladie, l'Ordre des médecins ou le Défenseur des droits.",
+    "source": "https://www.defenseurdesdroits.fr/"
+  },
+  {
+    "id": "dro-s-078",
+    "theme": "droits",
+    "subtheme": "Autorité parentale",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Après leur divorce, Nora et son ex-mari partagent l'autorité parentale sur leur fils. Nora veut partir vivre à l'étranger avec l'enfant. Que doit-elle faire ?",
+    "choices": [
+      "Partir librement, puisque l'enfant vit chez elle",
+      "Partir sans prévenir, car le père a perdu ses droits",
+      "Demander l'autorisation au maire de sa commune",
+      "Obtenir l'accord du père ou, à défaut, celui du juge"
+    ],
+    "answer": 3,
+    "explanation": "Après un divorce, l'autorité parentale reste en principe exercée par les deux parents : une décision importante comme un départ à l'étranger se prend à deux. En cas de désaccord, c'est le juge aux affaires familiales qui tranche (art. 373-2 du Code civil)."
+  },
+  {
+    "id": "dro-s-079",
+    "theme": "droits",
+    "subtheme": "Instruction obligatoire",
+    "type": "situation",
+    "origin": "complement",
+    "question": "Les parents de Noé, 3 ans et demi, veulent le garder à la maison sans aucune instruction jusqu'à ses 6 ans. Est-ce conforme à la loi ?",
+    "choices": [
+      "Oui, l'école n'est obligatoire qu'à partir de 6 ans",
+      "Non, l'instruction est obligatoire dès 3 ans",
+      "Oui, si l'un des parents ne travaille pas",
+      "Oui, les parents décident librement jusqu'à 10 ans"
+    ],
+    "answer": 1,
+    "explanation": "Depuis la rentrée 2019, l'instruction est obligatoire de 3 à 16 ans ; l'instruction en famille n'est possible qu'avec une autorisation. Ne pas respecter cette obligation expose les parents à des sanctions pénales.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1898"
+  }
+]

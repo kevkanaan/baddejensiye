@@ -1,0 +1,902 @@
+[
+  {
+    "id": "his-c-001",
+    "theme": "histoire",
+    "subtheme": "Révolution et Empire",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Parmi ces textes, lequel a été adopté sous Napoléon Ier ?",
+    "choices": [
+      "La Déclaration des droits de l'homme",
+      "Le Code civil des Français",
+      "La loi de 1905 sur la laïcité",
+      "La Constitution de 1958"
+    ],
+    "answer": 1,
+    "explanation": "Le Code civil, qui fixe les règles de la vie privée (famille, propriété, contrats), est promulgué le 21 mars 1804 par Napoléon Bonaparte, alors Premier consul et proclamé empereur deux mois plus tard ; il est rebaptisé « Code Napoléon » en 1807. Les autres textes datent de 1789, 1905 et 1958.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-002",
+    "theme": "histoire",
+    "subtheme": "Révolution et Empire",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Parmi ces textes, lequel a été adopté sous Napoléon Ier ?",
+    "choices": [
+      "Le Code civil",
+      "L'édit de Nantes",
+      "La loi Veil sur l'IVG",
+      "Les lois Jules Ferry"
+    ],
+    "answer": 0,
+    "explanation": "Napoléon Ier est à l'origine du Code civil (1804), mais aussi des préfets et de la Banque de France. L'édit de Nantes date d'Henri IV (1598), les lois Ferry de 1881-1882 et la loi Veil de 1975.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-003",
+    "theme": "histoire",
+    "subtheme": "Ve République",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui a été président de la Ve République ?",
+    "choices": [
+      "Vincent Auriol",
+      "Jean Jaurès",
+      "Georges Pompidou",
+      "Jules Ferry"
+    ],
+    "answer": 2,
+    "explanation": "Georges Pompidou a été président de 1969 à 1974, après Charles de Gaulle. Ordre des présidents de la Ve République : de Gaulle, Pompidou, Giscard d'Estaing, Mitterrand, Chirac, Sarkozy, Hollande, Macron (depuis 2017). Vincent Auriol a présidé la IVe République ; Jaurès et Ferry n'ont jamais été présidents.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-004",
+    "theme": "histoire",
+    "subtheme": "Ve République",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui a été président de la Ve République ?",
+    "choices": [
+      "Raymond Poincaré",
+      "Léon Blum",
+      "Jean Moulin",
+      "Valéry Giscard d'Estaing"
+    ],
+    "answer": 3,
+    "explanation": "Valéry Giscard d'Estaing a été président de 1974 à 1981 (c'est sous son mandat que la majorité passe à 18 ans). Poincaré a présidé la IIIe République, Léon Blum a dirigé le gouvernement du Front populaire (1936) et Jean Moulin était un résistant.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-005",
+    "theme": "histoire",
+    "subtheme": "Ve République",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui a été président de la Ve République ?",
+    "choices": [
+      "Jacques Chirac",
+      "Georges Clemenceau",
+      "Pierre Mendès France",
+      "Jean Monnet"
+    ],
+    "answer": 0,
+    "explanation": "Jacques Chirac a été président de 1995 à 2007 (deux mandats). Clemenceau et Mendès France ont dirigé le gouvernement sous les IIIe et IVe Républiques, et Jean Monnet est un « père de l'Europe ». Astuce : la Ve République commence en 1958, avec de Gaulle comme premier président.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-006",
+    "theme": "histoire",
+    "subtheme": "Fêtes et commémorations",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Que signifie la date du 14 juillet pour les Français ?",
+    "choices": [
+      "La fête du Travail",
+      "La fête nationale",
+      "La victoire de 1945",
+      "L'armistice de 1918"
+    ],
+    "answer": 1,
+    "explanation": "Le 14 juillet est la fête nationale depuis 1880. Il rappelle à la fois la prise de la Bastille (14 juillet 1789) et la fête de la Fédération (14 juillet 1790), symbole de l'unité de la Nation ; un défilé militaire a lieu sur les Champs-Élysées.",
+    "source": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/journees-nationales-commemoratives"
+  },
+  {
+    "id": "his-c-007",
+    "theme": "histoire",
+    "subtheme": "Fêtes et commémorations",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Que signifie la date du 14 juillet pour les Français ?",
+    "choices": [
+      "La naissance de la Ve République en 1958",
+      "La libération de Paris et la victoire de 1945",
+      "La prise de la Bastille et la fête de la Fédération",
+      "L'abolition de l'esclavage et le suffrage universel"
+    ],
+    "answer": 2,
+    "explanation": "La fête nationale du 14 juillet commémore la prise de la Bastille (1789), début de la Révolution, et la fête de la Fédération (1790), qui a célébré l'unité des Français. Les autres événements ont leur propre date : 4 octobre 1958, 25 août 1944, 8 mai 1945 et 1848.",
+    "source": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/journees-nationales-commemoratives"
+  },
+  {
+    "id": "his-c-008",
+    "theme": "histoire",
+    "subtheme": "Construction européenne",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Lequel de ces pays est un pays fondateur de l'Union Européenne ?",
+    "choices": [
+      "L'Espagne",
+      "Le Royaume-Uni",
+      "La Pologne",
+      "L'Italie"
+    ],
+    "answer": 3,
+    "explanation": "Les 6 pays fondateurs (CECA en 1951, CEE en 1957) sont la France, l'Allemagne, l'Italie, la Belgique, les Pays-Bas et le Luxembourg. Astuce : « les 3 grands + le Benelux ». L'Espagne est entrée en 1986, la Pologne en 2004, et le Royaume-Uni (entré en 1973) est sorti en 2020.",
+    "source": "https://european-union.europa.eu/principles-countries-history/history-eu_fr"
+  },
+  {
+    "id": "his-c-009",
+    "theme": "histoire",
+    "subtheme": "Construction européenne",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Lequel de ces pays est un pays fondateur de l'Union Européenne ?",
+    "choices": [
+      "Le Portugal",
+      "Le Luxembourg",
+      "L'Autriche",
+      "Le Danemark"
+    ],
+    "answer": 1,
+    "explanation": "Le Luxembourg fait partie des 6 fondateurs avec la France, l'Allemagne, l'Italie, la Belgique et les Pays-Bas. Le Danemark est entré en 1973, le Portugal en 1986 et l'Autriche en 1995.",
+    "source": "https://european-union.europa.eu/principles-countries-history/history-eu_fr"
+  },
+  {
+    "id": "his-c-010",
+    "theme": "histoire",
+    "subtheme": "Construction européenne",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Lequel de ces pays est un pays fondateur de l'Union Européenne ?",
+    "choices": [
+      "Les Pays-Bas",
+      "La Suisse",
+      "La Grèce",
+      "L'Irlande"
+    ],
+    "answer": 0,
+    "explanation": "Les Pays-Bas sont l'un des 6 pays fondateurs : avec la Belgique et le Luxembourg, ils forment le Benelux. L'Irlande est entrée en 1973, la Grèce en 1981, et la Suisse n'est pas membre de l'Union européenne.",
+    "source": "https://european-union.europa.eu/principles-countries-history/history-eu_fr"
+  },
+  {
+    "id": "his-c-011",
+    "theme": "histoire",
+    "subtheme": "Seconde Guerre mondiale",
+    "notion": "geographie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Dans quelle région est située une partie des plages du débarquement ayant permis d'engager la libération de la France ?",
+    "choices": [
+      "La Normandie",
+      "La Bretagne",
+      "Les Hauts-de-France",
+      "La Nouvelle-Aquitaine"
+    ],
+    "answer": 0,
+    "explanation": "Le 6 juin 1944 (le « Jour J »), les Alliés débarquent sur les plages de Normandie (Omaha, Utah, Gold, Juno, Sword), dans le Calvados et la Manche. Un second débarquement a lieu en Provence le 15 août 1944.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-012",
+    "theme": "histoire",
+    "subtheme": "Monarchie",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Dans quelle ville les rois de France étaient-ils couronnés ?",
+    "choices": [
+      "Paris",
+      "Versailles",
+      "Reims",
+      "Lyon"
+    ],
+    "answer": 2,
+    "explanation": "Les rois de France étaient sacrés dans la cathédrale de Reims, ville où Clovis avait été baptisé ; Jeanne d'Arc y a fait sacrer Charles VII en 1429. Pièges : Napoléon s'est fait sacrer empereur à Notre-Dame de Paris (1804), et Versailles était la résidence de Louis XIV.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-013",
+    "theme": "histoire",
+    "subtheme": "Révolution et Empire",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel roi de France a été guillotiné pendant la Révolution française ?",
+    "choices": [
+      "Louis XIV",
+      "Henri IV",
+      "Charles X",
+      "Louis XVI"
+    ],
+    "answer": 3,
+    "explanation": "Louis XVI, renversé le 10 août 1792, est guillotiné le 21 janvier 1793 sur l'actuelle place de la Concorde, à Paris. Henri IV a été assassiné en 1610, Louis XIV est mort en 1715 et Charles X a été renversé en 1830.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-014",
+    "theme": "histoire",
+    "subtheme": "Révolution et Empire",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "En quelle année a débuté la Révolution française ?",
+    "choices": [
+      "1792",
+      "1804",
+      "1848",
+      "1789"
+    ],
+    "answer": 3,
+    "explanation": "La Révolution française commence en 1789 : réunion des États généraux en mai, prise de la Bastille le 14 juillet, Déclaration des droits de l'homme et du citoyen le 26 août. La République est proclamée en 1792 et Napoléon devient empereur en 1804.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-015",
+    "theme": "histoire",
+    "subtheme": "Révolution et Empire",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "En quelle année Napoléon Ier est-il devenu empereur ?",
+    "choices": [
+      "1799",
+      "1804",
+      "1789",
+      "1815"
+    ],
+    "answer": 1,
+    "explanation": "Napoléon Bonaparte, Premier consul depuis son coup d'État de 1799, est proclamé empereur des Français le 18 mai 1804 et sacré à Notre-Dame de Paris le 2 décembre 1804. Le Premier Empire prend fin en 1815, après la défaite de Waterloo.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-016",
+    "theme": "histoire",
+    "subtheme": "Personnages",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Lequel de ces personnages a un lien avec la République française ?",
+    "choices": [
+      "Astérix",
+      "Blanche-Neige",
+      "Marianne",
+      "Le roi Arthur"
+    ],
+    "answer": 2,
+    "explanation": "Marianne, femme coiffée du bonnet phrygien (symbole de liberté), est la figure allégorique de la République française : son buste est présent dans les mairies et son visage figure sur les timbres et les documents officiels. Les autres sont des personnages de fiction ou de légende.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-017",
+    "theme": "histoire",
+    "subtheme": "Personnages",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Lequel de ces personnages a un lien avec la République française ?",
+    "choices": [
+      "Louis XIV",
+      "Marianne",
+      "Charlemagne",
+      "Clovis"
+    ],
+    "answer": 1,
+    "explanation": "Marianne incarne la République française depuis la Révolution. Clovis, Charlemagne et Louis XIV ont régné bien avant la République : ils appartiennent à l'histoire de la monarchie.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-018",
+    "theme": "histoire",
+    "subtheme": "Seconde Guerre mondiale",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "De quand date l'appel à la résistance du général de Gaulle ?",
+    "choices": [
+      "Du 18 juin 1940",
+      "Du 6 juin 1944",
+      "Du 25 août 1944",
+      "Du 1er septembre 1939"
+    ],
+    "answer": 0,
+    "explanation": "Le 18 juin 1940, depuis Londres, le général de Gaulle appelle les Français, à la radio de la BBC, à refuser la défaite et à continuer le combat : c'est l'acte fondateur de la France libre. Le 18 juin est une journée nationale commémorative.",
+    "source": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/journees-nationales-commemoratives"
+  },
+  {
+    "id": "his-c-019",
+    "theme": "histoire",
+    "subtheme": "Seconde Guerre mondiale",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qu'est-ce que la Shoah ?",
+    "choices": [
+      "Une grande bataille de la Première Guerre mondiale",
+      "Le traité de paix signé à la fin de la guerre",
+      "Le génocide des Juifs d'Europe par les nazis",
+      "Une fête religieuse juive célébrée au printemps"
+    ],
+    "answer": 2,
+    "explanation": "La Shoah (« catastrophe » en hébreu) désigne l'extermination d'environ 6 millions de Juifs par l'Allemagne nazie pendant la Seconde Guerre mondiale ; d'autres populations, comme les Tsiganes, ont aussi été persécutées. Le régime de Vichy a participé à la déportation de près de 76 000 Juifs de France ; le 27 janvier (libération d'Auschwitz) est la journée internationale de la mémoire des victimes de la Shoah.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-020",
+    "theme": "histoire",
+    "subtheme": "Colonisation",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel pays a été une colonie française ?",
+    "choices": [
+      "L'Australie",
+      "L'Argentine",
+      "Le Kenya",
+      "L'Algérie"
+    ],
+    "answer": 3,
+    "explanation": "L'Algérie a été une colonie française de 1830 à son indépendance en 1962, après une guerre de 1954 à 1962. L'Australie et le Kenya étaient des colonies britanniques, l'Argentine une colonie espagnole.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-021",
+    "theme": "histoire",
+    "subtheme": "Colonisation",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel pays a été une colonie française ?",
+    "choices": [
+      "Le Nigeria",
+      "Le Sénégal",
+      "Le Japon",
+      "Le Pérou"
+    ],
+    "answer": 1,
+    "explanation": "Le Sénégal faisait partie de l'Afrique-Occidentale française et est devenu indépendant en 1960, comme la plupart des colonies françaises d'Afrique. Le Nigeria était britannique, le Pérou espagnol, et le Japon n'a jamais été colonisé.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-022",
+    "theme": "histoire",
+    "subtheme": "Colonisation",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel pays a été une colonie française ?",
+    "choices": [
+      "Le Ghana",
+      "Le Mozambique",
+      "Madagascar",
+      "La Corée du Sud"
+    ],
+    "answer": 2,
+    "explanation": "Madagascar a été une colonie française de 1896 à son indépendance en 1960. Le Ghana était britannique, le Mozambique portugais, et la Corée a été occupée par le Japon. L'empire colonial français comprenait aussi l'Afrique de l'Ouest et équatoriale, le Maghreb et l'Indochine.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-023",
+    "theme": "histoire",
+    "subtheme": "Ve République",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?",
+    "choices": [
+      "Depuis 1958",
+      "Depuis 1962",
+      "Depuis 1945",
+      "Depuis 2000"
+    ],
+    "answer": 1,
+    "explanation": "Le référendum du 28 octobre 1962, voulu par de Gaulle, instaure l'élection du président au suffrage universel direct ; la première a lieu en 1965 (si 1965 est proposé sans 1962, c'est cette date qu'il faut choisir). En 1958, le président était élu par un collège de grands électeurs, et 2000 est l'année du référendum sur le quinquennat.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "his-c-024",
+    "theme": "histoire",
+    "subtheme": "Construction européenne",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "En quelle année l'Union européenne a-t-elle été fondée?",
+    "choices": [
+      "1992",
+      "1951",
+      "1957",
+      "2002"
+    ],
+    "answer": 0,
+    "explanation": "L'Union européenne est créée par le traité de Maastricht, signé le 7 février 1992 (entré en vigueur le 1er novembre 1993). Elle prolonge la CECA (1951) et la CEE (traité de Rome, 1957) ; 2002 est l'année des pièces et billets en euros.",
+    "source": "https://european-union.europa.eu/principles-countries-history/history-eu_fr"
+  },
+  {
+    "id": "his-c-025",
+    "theme": "histoire",
+    "subtheme": "Seconde Guerre mondiale",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quand a eu lieu la Seconde guerre mondiale ?",
+    "choices": [
+      "De 1914 à 1918",
+      "De 1940 à 1944",
+      "De 1939 à 1945",
+      "De 1936 à 1942"
+    ],
+    "answer": 2,
+    "explanation": "La Seconde Guerre mondiale commence le 1er septembre 1939 (invasion de la Pologne par l'Allemagne) et s'achève en Europe le 8 mai 1945, puis le 2 septembre 1945 avec la capitulation du Japon. Piège : 1940-1944 correspond à l'occupation de la France et au régime de Vichy.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-026",
+    "theme": "histoire",
+    "subtheme": "Première Guerre mondiale",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quand a eu lieu la Première guerre mondiale ?",
+    "choices": [
+      "De 1870 à 1871",
+      "De 1954 à 1962",
+      "De 1939 à 1945",
+      "De 1914 à 1918"
+    ],
+    "answer": 3,
+    "explanation": "La Première Guerre mondiale, surnommée « la Grande Guerre », dure de l'été 1914 à l'armistice du 11 novembre 1918 ; environ 1,4 million de soldats français y sont morts. Pièges : 1870-1871 est la guerre franco-prussienne, 1939-1945 la Seconde Guerre mondiale et 1954-1962 la guerre d'Algérie.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-027",
+    "theme": "histoire",
+    "subtheme": "Ve République",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Sous quel président a été abolie la peine de mort en France ?",
+    "choices": [
+      "Valéry Giscard d'Estaing",
+      "François Mitterrand",
+      "Charles de Gaulle",
+      "Georges Pompidou"
+    ],
+    "answer": 1,
+    "explanation": "La peine de mort est abolie par la loi du 9 octobre 1981, portée par le garde des Sceaux Robert Badinter, sous la présidence de François Mitterrand. L'abolition est inscrite dans la Constitution depuis 2007, et Robert Badinter est entré au Panthéon le 9 octobre 2025.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-028",
+    "theme": "histoire",
+    "subtheme": "Fêtes et commémorations",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Que célèbre-t-on le 8 mai ?",
+    "choices": [
+      "La victoire de 1945 et la fin de la guerre en Europe",
+      "L'armistice de 1918 qui met fin à la Première Guerre mondiale",
+      "La libération de Paris par les Alliés en 1944",
+      "Le débarquement des Alliés en Normandie"
+    ],
+    "answer": 0,
+    "explanation": "Le 8 mai 1945, l'Allemagne nazie capitule sans condition : c'est la victoire des Alliés et la fin de la Seconde Guerre mondiale en Europe (jour férié). Astuce : 8 mai = 1945 (Seconde Guerre), 11 novembre = 1918 (Première Guerre).",
+    "source": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/journees-nationales-commemoratives"
+  },
+  {
+    "id": "his-c-029",
+    "theme": "histoire",
+    "subtheme": "Construction européenne",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quelle est la première étape de la construction européenne en 1951 ?",
+    "choices": [
+      "La Communauté économique européenne",
+      "L'espace Schengen de libre circulation des personnes",
+      "Le traité de Maastricht sur l'Union",
+      "La Communauté européenne du charbon et de l'acier"
+    ],
+    "answer": 3,
+    "explanation": "Le traité de Paris (18 avril 1951) crée la CECA : 6 pays mettent en commun leur charbon et leur acier pour rendre la guerre impossible, à la suite de la déclaration Schuman du 9 mai 1950. Viennent ensuite la CEE (1957), Schengen (1985) et Maastricht (1992).",
+    "source": "https://european-union.europa.eu/principles-countries-history/history-eu_fr"
+  },
+  {
+    "id": "his-c-030",
+    "theme": "histoire",
+    "subtheme": "Seconde Guerre mondiale",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ?",
+    "choices": [
+      "Philippe Pétain",
+      "Jean Moulin",
+      "Louis Pasteur",
+      "Jules Ferry"
+    ],
+    "answer": 1,
+    "explanation": "Jean Moulin, envoyé par le général de Gaulle, unifie les mouvements de Résistance et préside le Conseil national de la Résistance (1943) ; arrêté et torturé, il meurt en 1943 et repose au Panthéon. Pétain a au contraire dirigé le régime de Vichy, qui collaborait avec l'Allemagne.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-031",
+    "theme": "histoire",
+    "subtheme": "Seconde Guerre mondiale",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ?",
+    "choices": [
+      "Marie Curie",
+      "George Sand",
+      "Lucie Aubrac",
+      "Marie-Antoinette"
+    ],
+    "answer": 2,
+    "explanation": "Lucie Aubrac a cofondé le mouvement de résistance Libération-Sud et organisé en 1943 l'évasion de son mari, Raymond Aubrac. Marie Curie est morte en 1934, George Sand au XIXe siècle et Marie-Antoinette en 1793.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-032",
+    "theme": "histoire",
+    "subtheme": "Seconde Guerre mondiale",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ?",
+    "choices": [
+      "Brigitte Bardot",
+      "Dalida",
+      "Sarah Bernhardt",
+      "Joséphine Baker"
+    ],
+    "answer": 3,
+    "explanation": "Joséphine Baker, artiste d'origine américaine devenue française en 1937 par son mariage, a servi la France libre comme agent de renseignement ; elle est entrée au Panthéon en 2021. Sarah Bernhardt est morte en 1923, et Brigitte Bardot et Dalida étaient des enfants pendant la guerre.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-033",
+    "theme": "histoire",
+    "subtheme": "Fêtes et commémorations",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Le 11 novembre est un jour férié. À quoi correspond cette date ?",
+    "choices": [
+      "La victoire de 1945",
+      "L'armistice de 1918",
+      "La prise de la Bastille",
+      "La fête du Travail"
+    ],
+    "answer": 1,
+    "explanation": "Le 11 novembre 1918, l'armistice signé à Rethondes (forêt de Compiègne) met fin aux combats de la Première Guerre mondiale ; depuis 2012, cette journée rend aussi hommage à tous les morts pour la France. Astuce : 11 novembre = 1918, 8 mai = 1945.",
+    "source": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/journees-nationales-commemoratives"
+  },
+  {
+    "id": "his-c-034",
+    "theme": "histoire",
+    "subtheme": "Esclavage",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Depuis quand l'esclavage a-t-il été aboli en France ?",
+    "choices": [
+      "Depuis 1789",
+      "Depuis 1802",
+      "Depuis 1905",
+      "Depuis 1848"
+    ],
+    "answer": 3,
+    "explanation": "L'esclavage est aboli définitivement par le décret du 27 avril 1848, préparé par Victor Schœlcher. Une première abolition, en 1794, avait été annulée par Bonaparte, qui a rétabli l'esclavage en 1802 : si 1794 et 1848 sont proposés, choisir 1848 (abolition définitive).",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-035",
+    "theme": "histoire",
+    "subtheme": "Esclavage",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui a aboli l'esclavage en France ?",
+    "choices": [
+      "Victor Schœlcher",
+      "Napoléon Bonaparte",
+      "Jules Ferry",
+      "Victor Hugo"
+    ],
+    "answer": 0,
+    "explanation": "Victor Schœlcher, sous-secrétaire d'État à la Marine et aux Colonies, fait adopter le décret d'abolition du 27 avril 1848 sous la IIe République ; il repose au Panthéon. Napoléon Bonaparte avait au contraire rétabli l'esclavage en 1802.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-036",
+    "theme": "histoire",
+    "subtheme": "École et IIIe République",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Depuis quelle année l'école publique est-elle gratuite ?",
+    "choices": [
+      "1789",
+      "1881",
+      "1905",
+      "1958"
+    ],
+    "answer": 1,
+    "explanation": "La loi Jules Ferry du 16 juin 1881 rend l'école primaire publique gratuite ; la loi du 28 mars 1882 la rend obligatoire et laïque. Astuce : « 1881 gratuite, 1882 obligatoire et laïque ».",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-037",
+    "theme": "histoire",
+    "subtheme": "Droits des femmes",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "En 1944, qu'est-ce qui a changé pour les femmes ?",
+    "choices": [
+      "Elles ont obtenu le droit à l'IVG",
+      "Elles ont pu ouvrir un compte bancaire seules",
+      "Elles ont obtenu l'égalité de salaire",
+      "Elles ont obtenu le droit de vote"
+    ],
+    "answer": 3,
+    "explanation": "L'ordonnance du 21 avril 1944 donne aux femmes le droit de voter et d'être élues ; elles votent pour la première fois aux municipales d'avril 1945. Le compte bancaire sans l'accord du mari date de 1965, l'égalité de rémunération de 1972 et la loi Veil sur l'IVG de 1975.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-038",
+    "theme": "histoire",
+    "subtheme": "Après-guerre",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quelle organisation a été créée en 1945 après la Seconde Guerre mondiale ?",
+    "choices": [
+      "L'Organisation du traité de l'Atlantique Nord (OTAN)",
+      "L'Organisation des Nations unies (ONU)",
+      "La Société des Nations (SDN)",
+      "L'Union européenne (UE)"
+    ],
+    "answer": 1,
+    "explanation": "L'ONU est créée en 1945 (Charte signée à San Francisco le 26 juin) pour maintenir la paix dans le monde ; la France est l'un des 5 membres permanents de son Conseil de sécurité, avec un droit de veto. La SDN date de 1919, l'OTAN de 1949 et l'Union européenne de 1992.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-039",
+    "theme": "histoire",
+    "subtheme": "Construction européenne",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "En quelle année l'euro est-il devenu la monnaie officielle de la France ?",
+    "choices": [
+      "1957",
+      "1992",
+      "2002",
+      "2010"
+    ],
+    "answer": 2,
+    "explanation": "Les pièces et billets en euros circulent en France depuis le 1er janvier 2002 (le franc disparaît en février 2002) : c'est la date retenue par le livret du citoyen. L'euro existait déjà depuis le 1er janvier 1999, mais seulement pour les banques et les marchés : si 1999 et 2002 sont proposés, choisir 2002. L'euro est aujourd'hui la monnaie de 21 pays de l'UE.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-040",
+    "theme": "histoire",
+    "subtheme": "Seconde Guerre mondiale",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Lors de la seconde guerre mondiale, à quelle date la ville de Paris a-t-elle été libérée ?",
+    "choices": [
+      "Le 6 juin 1944",
+      "Le 8 mai 1945",
+      "Le 25 août 1944",
+      "Le 18 juin 1940"
+    ],
+    "answer": 2,
+    "explanation": "Paris est libéré le 25 août 1944 par la 2e division blindée du général Leclerc, les résistants (FFI) et les Alliés, après une insurrection lancée le 19 août. Le soir même, le général de Gaulle prononce son célèbre discours à l'Hôtel de Ville.",
+    "source": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/journees-nationales-commemoratives"
+  },
+  {
+    "id": "his-c-041",
+    "theme": "histoire",
+    "subtheme": "Esclavage",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel était le principal port français impliqué dans la traite négrière au XVIIIe siècle ?",
+    "choices": [
+      "Marseille",
+      "Brest",
+      "Toulon",
+      "Nantes"
+    ],
+    "answer": 3,
+    "explanation": "Au XVIIIe siècle, Nantes est le premier port négrier français : il organise environ 40 % des expéditions de traite vers l'Afrique et les Antilles. Bordeaux, La Rochelle et Le Havre y ont aussi participé ; Nantes abrite aujourd'hui le Mémorial de l'abolition de l'esclavage.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-042",
+    "theme": "histoire",
+    "subtheme": "Lumières",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel célèbre philosophe des Lumières a dénoncé l'esclavage ?",
+    "choices": [
+      "Montesquieu",
+      "René Descartes",
+      "Blaise Pascal",
+      "Jean-Paul Sartre"
+    ],
+    "answer": 0,
+    "explanation": "Montesquieu, philosophe des Lumières, dénonce l'esclavage avec ironie dans « De l'esprit des lois » (1748). Descartes et Pascal ont vécu au XVIIe siècle, avant les Lumières, et Sartre au XXe siècle.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-043",
+    "theme": "histoire",
+    "subtheme": "Lumières",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel célèbre philosophe des Lumières a dénoncé l'esclavage ?",
+    "choices": [
+      "Michel de Montaigne",
+      "Condorcet",
+      "Auguste Comte",
+      "Jean de La Fontaine"
+    ],
+    "answer": 1,
+    "explanation": "Condorcet, philosophe et mathématicien des Lumières, publie en 1781 les « Réflexions sur l'esclavage des nègres » et milite pour l'abolition au sein de la Société des amis des Noirs. Montaigne (XVIe siècle), La Fontaine (XVIIe) et Auguste Comte (XIXe) n'appartiennent pas aux Lumières.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-044",
+    "theme": "histoire",
+    "subtheme": "Lumières",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel célèbre philosophe des Lumières a dénoncé l'esclavage ?",
+    "choices": [
+      "Rabelais",
+      "Albert Camus",
+      "Voltaire",
+      "Molière"
+    ],
+    "answer": 2,
+    "explanation": "Voltaire dénonce l'esclavage dans « Candide » (1759), avec l'épisode de l'esclave mutilé d'une plantation de sucre du Surinam. Les Lumières (XVIIIe siècle), ce sont aussi Montesquieu, Rousseau, Diderot et Condorcet ; Rabelais, Molière et Camus ont vécu à d'autres époques.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-045",
+    "theme": "histoire",
+    "subtheme": "École et IIIe République",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel est l'objectif des lois scolaires de la IIIe République ?",
+    "choices": [
+      "Rendre l'école primaire gratuite, laïque et obligatoire",
+      "Réserver l'école aux enfants des familles aisées",
+      "Confier tout l'enseignement primaire à l'Église catholique",
+      "Rendre l'université obligatoire pour tous"
+    ],
+    "answer": 0,
+    "explanation": "Les lois Jules Ferry rendent l'école primaire gratuite (1881), puis obligatoire de 6 à 13 ans et laïque (1882), pour les filles comme pour les garçons. Leur objectif : instruire tous les enfants et former des citoyens attachés à la République.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-046",
+    "theme": "histoire",
+    "subtheme": "École et IIIe République",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel est l'objectif des lois scolaires de la IIIe République ?",
+    "choices": [
+      "Former uniquement les futurs prêtres",
+      "Instruire tous les enfants et former des citoyens",
+      "Réserver l'école aux seuls garçons",
+      "Remplacer le français par le latin dans toutes les écoles"
+    ],
+    "answer": 1,
+    "explanation": "Sous la IIIe République, l'école publique gratuite, obligatoire et laïque doit apprendre à tous les enfants, filles et garçons, à lire, écrire et compter en français, et leur transmettre les valeurs républicaines. Depuis 1882, l'instruction religieuse est remplacée à l'école publique par une instruction morale et civique.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-047",
+    "theme": "histoire",
+    "subtheme": "Ve République",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Pourquoi l'année 1958 est importante pour la France ?",
+    "choices": [
+      "C'est la fin de la Seconde Guerre mondiale",
+      "C'est l'abolition de la peine de mort",
+      "C'est la naissance de la Ve République",
+      "C'est la création de l'euro"
+    ],
+    "answer": 2,
+    "explanation": "En 1958, pendant la guerre d'Algérie, le général de Gaulle revient au pouvoir : la Constitution de la Ve République est approuvée par référendum le 28 septembre et promulguée le 4 octobre 1958. De Gaulle en devient le premier président (élu en décembre 1958).",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "his-c-048",
+    "theme": "histoire",
+    "subtheme": "Droits des femmes",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Simone Veil est une figure importante de l'histoire française. Elle a notamment :",
+    "choices": [
+      "Aboli la peine de mort en 1981",
+      "Défendu la loi de 1975 sur l'IVG",
+      "Obtenu le droit de vote des femmes",
+      "Rendu l'école laïque et obligatoire"
+    ],
+    "answer": 1,
+    "explanation": "Ministre de la Santé, Simone Veil fait adopter la loi du 17 janvier 1975 qui dépénalise l'interruption volontaire de grossesse (« loi Veil »). Rescapée d'Auschwitz, elle a aussi été la première présidente du Parlement européen élu (1979) et repose au Panthéon depuis 2018. Les autres réponses renvoient à Badinter (1981), à l'ordonnance de 1944 et à Jules Ferry.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-049",
+    "theme": "histoire",
+    "subtheme": "Droits des femmes",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Simone Veil est une figure importante de l'histoire française. Elle a notamment :",
+    "choices": [
+      "Écrit le livre « Le Deuxième Sexe »",
+      "Été la première femme Première ministre",
+      "Été élue présidente de la République française",
+      "Présidé le premier Parlement européen élu"
+    ],
+    "answer": 3,
+    "explanation": "En 1979, Simone Veil devient la première présidente du Parlement européen élu au suffrage universel direct. « Le Deuxième Sexe » est de Simone de Beauvoir, la première femme Première ministre est Édith Cresson (1991), et aucune femme n'a encore été présidente de la République.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "his-c-050",
+    "theme": "histoire",
+    "subtheme": "École et IIIe République",
+    "notion": "histoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui a rendu l'école gratuite, laïque et obligatoire ?",
+    "choices": [
+      "Napoléon Ier",
+      "Victor Schœlcher",
+      "Jean Jaurès",
+      "Jules Ferry"
+    ],
+    "answer": 3,
+    "explanation": "Jules Ferry, ministre de l'Instruction publique, rend l'école primaire gratuite (1881), puis obligatoire et laïque (1882). Napoléon a créé les lycées, Schœlcher a aboli l'esclavage et Jaurès était un député socialiste.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  }
+]

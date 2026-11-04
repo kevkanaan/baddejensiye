@@ -1,0 +1,1280 @@
+[
+  {
+    "id": "ins-c-001",
+    "theme": "institutions",
+    "subtheme": "Gouvernement",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Comment est désigné le Premier ministre ?",
+    "choices": [
+      "Il est élu directement par les citoyens",
+      "Il est nommé par le président de la République",
+      "Il est élu par les députés et les sénateurs",
+      "Il est désigné par les membres du Conseil constitutionnel"
+    ],
+    "answer": 1,
+    "explanation": "Article 8 de la Constitution : le président de la République nomme le Premier ministre (Sébastien Lecornu au 4 novembre 2026). Le Premier ministre n'est jamais élu à ce poste : « le Président nomme, le Premier ministre dirige ».",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "ins-c-002",
+    "theme": "institutions",
+    "subtheme": "Élections",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui peut se présenter aux élections présidentielles ?",
+    "choices": [
+      "Un Français majeur parrainé par 500 élus",
+      "Tout étranger résidant en France depuis 10 ans",
+      "Uniquement un député ou un sénateur en fonction",
+      "Tout citoyen de l'Union européenne vivant en France"
+    ],
+    "answer": 0,
+    "explanation": "Il faut être de nationalité française, avoir au moins 18 ans, être électeur et recueillir au moins 500 parrainages d'élus. Les citoyens européens ne votent en France qu'aux municipales et aux européennes : ni vote ni candidature à la présidentielle.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1939"
+  },
+  {
+    "id": "ins-c-003",
+    "theme": "institutions",
+    "subtheme": "Élections",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui peut se présenter aux élections présidentielles ?",
+    "choices": [
+      "Uniquement une personne née en France de parents français",
+      "Un Français par naturalisation, s'il est électeur",
+      "Uniquement un ancien ministre ou un ancien maire",
+      "Uniquement une personne âgée d'au moins 40 ans"
+    ],
+    "answer": 1,
+    "explanation": "Tous les Français ont les mêmes droits politiques, qu'ils soient nés français ou naturalisés : un Français naturalisé et électeur peut être candidat s'il obtient 500 parrainages. Il n'y a aucune condition de lieu de naissance ni d'expérience politique, et l'âge minimum est 18 ans.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1939"
+  },
+  {
+    "id": "ins-c-004",
+    "theme": "institutions",
+    "subtheme": "Démocratie",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "À qui appartient la souveraineté nationale ?",
+    "choices": [
+      "Au président de la République",
+      "Au Parlement seulement",
+      "Au peuple",
+      "Aux partis politiques"
+    ],
+    "answer": 2,
+    "explanation": "Article 3 de la Constitution : la souveraineté nationale appartient au peuple, qui l'exerce par ses représentants élus et par la voie du référendum. Aucun individu ni aucun groupe ne peut se l'approprier.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "ins-c-005",
+    "theme": "institutions",
+    "subtheme": "Élections",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui est élu lors des élections municipales ?",
+    "choices": [
+      "Le préfet du département",
+      "Les conseillers régionaux",
+      "Les députés de la circonscription",
+      "Les conseillers municipaux"
+    ],
+    "answer": 3,
+    "explanation": "Aux municipales (dernières : mars 2026, prochaines : 2032), les électeurs élisent les conseillers municipaux pour 6 ans ; ce conseil élit ensuite le maire parmi ses membres. Le préfet, lui, n'est pas élu : il est nommé par l'État.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1939"
+  },
+  {
+    "id": "ins-c-006",
+    "theme": "institutions",
+    "subtheme": "Droit de vote",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "L'inscription sur les listes électorales est :",
+    "choices": [
+      "Payante",
+      "Obligatoire",
+      "Facultative",
+      "Réservée aux propriétaires"
+    ],
+    "answer": 1,
+    "explanation": "Le Code électoral (art. L9) dit que l'inscription sur les listes électorales est obligatoire, même si aucune sanction n'est prévue ; elle est gratuite. Les jeunes recensés sont inscrits d'office à 18 ans, comme les personnes devenues françaises. Retenir : inscription obligatoire, vote libre.",
+    "source": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070239"
+  },
+  {
+    "id": "ins-c-007",
+    "theme": "institutions",
+    "subtheme": "Droit de vote",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quelle condition est nécessaire pour voter aux élections présidentielles ?",
+    "choices": [
+      "Être né en France",
+      "Payer l'impôt sur le revenu",
+      "Avoir la nationalité française",
+      "Être propriétaire de son logement"
+    ],
+    "answer": 2,
+    "explanation": "Pour voter à la présidentielle, il faut être Français, avoir 18 ans, jouir de ses droits civiques et être inscrit sur les listes électorales. Le lieu de naissance, la fortune ou les impôts ne comptent pas : c'est le suffrage universel.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1367"
+  },
+  {
+    "id": "ins-c-008",
+    "theme": "institutions",
+    "subtheme": "Droit de vote",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quelle condition est nécessaire pour voter aux élections présidentielles ?",
+    "choices": [
+      "Résider en France depuis au moins cinq ans",
+      "Avoir un emploi stable",
+      "Avoir au moins 21 ans",
+      "Être inscrit sur les listes électorales"
+    ],
+    "answer": 3,
+    "explanation": "On ne peut voter que si l'on est inscrit sur une liste électorale (en ligne, en mairie ou par courrier, au plus tard le 6e vendredi avant le scrutin : jusqu'au 12 mars 2027 pour la présidentielle d'avril 2027). L'âge minimum est 18 ans, et les Français vivant à l'étranger votent aussi.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1367"
+  },
+  {
+    "id": "ins-c-009",
+    "theme": "institutions",
+    "subtheme": "Élections",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quelle condition faut-il remplir pour être candidat aux élections municipales ?",
+    "choices": [
+      "Être né dans la commune",
+      "Être membre d'un parti politique",
+      "Avoir au moins 30 ans",
+      "Avoir au moins 18 ans"
+    ],
+    "answer": 3,
+    "explanation": "Pour être candidat aux municipales, il faut avoir au moins 18 ans, être Français ou citoyen de l'UE, et avoir une attache avec la commune (y être électeur ou y payer des impôts locaux). Il n'est pas nécessaire d'appartenir à un parti ni d'être né dans la commune.",
+    "source": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070239"
+  },
+  {
+    "id": "ins-c-010",
+    "theme": "institutions",
+    "subtheme": "Élections",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quelle condition faut-il remplir pour être candidat aux élections municipales ?",
+    "choices": [
+      "Être Français ou citoyen de l'UE",
+      "Avoir vécu 10 ans dans la commune",
+      "Posséder un diplôme universitaire",
+      "Avoir déjà été conseiller municipal"
+    ],
+    "answer": 0,
+    "explanation": "Les citoyens de l'UE qui résident en France peuvent voter et être élus conseillers municipaux (art. 88-3 de la Constitution), mais ils ne peuvent devenir ni maire ni adjoint. Aucun diplôme, aucune expérience ni aucune durée de résidence n'est exigé.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "ins-c-011",
+    "theme": "institutions",
+    "subtheme": "Élections",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Parmi ces autorités, laquelle est élue ?",
+    "choices": [
+      "Le préfet",
+      "Le maire",
+      "Le recteur d'académie",
+      "Le procureur de la République"
+    ],
+    "answer": 1,
+    "explanation": "Le maire est élu par le conseil municipal, lui-même élu par les habitants. Le préfet, le recteur et le procureur sont des fonctionnaires ou des magistrats nommés, pas élus.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1939"
+  },
+  {
+    "id": "ins-c-012",
+    "theme": "institutions",
+    "subtheme": "Élections",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Parmi ces autorités, laquelle est élue ?",
+    "choices": [
+      "Le président de la République",
+      "Le chef d'état-major des armées",
+      "Le Premier ministre",
+      "Le Défenseur des droits"
+    ],
+    "answer": 0,
+    "explanation": "Le président de la République est élu au suffrage universel direct pour 5 ans. Le Premier ministre est nommé par le Président, le chef d'état-major des armées est nommé en Conseil des ministres et le Défenseur des droits est nommé par le Président pour 6 ans.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "ins-c-013",
+    "theme": "institutions",
+    "subtheme": "Élections",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Parmi ces autorités, laquelle est élue ?",
+    "choices": [
+      "Un ministre",
+      "Un préfet",
+      "Un député",
+      "Un commissaire de police"
+    ],
+    "answer": 2,
+    "explanation": "Les députés sont élus par les citoyens au suffrage universel direct, pour 5 ans. Les ministres sont nommés par le Président sur proposition du Premier ministre ; préfets et commissaires de police sont des fonctionnaires nommés.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1939"
+  },
+  {
+    "id": "ins-c-014",
+    "theme": "institutions",
+    "subtheme": "Commune",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quelles sont les fonctions du maire ?",
+    "choices": [
+      "Il vote les lois avec les députés",
+      "Il dirige la commune et célèbre les mariages",
+      "Il nomme le préfet du département",
+      "Il juge les délits et les crimes commis dans la commune"
+    ],
+    "answer": 1,
+    "explanation": "Le maire dirige l'administration de la commune (il exécute les décisions du conseil municipal) et agit aussi au nom de l'État : officier d'état civil (mariages, naissances), organisation des élections, pouvoirs de police. Il ne fait pas les lois et ne rend pas la justice.",
+    "source": "https://www.vie-publique.fr/fiches/19617-les-fonctions-les-pouvoirs-dun-maire"
+  },
+  {
+    "id": "ins-c-015",
+    "theme": "institutions",
+    "subtheme": "Commune",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quelles sont les fonctions du maire ?",
+    "choices": [
+      "Il désigne les députés de la commune",
+      "Il commande la gendarmerie nationale",
+      "Il tient l'état civil de la commune",
+      "Il vote le budget de l'État"
+    ],
+    "answer": 2,
+    "explanation": "Le maire est officier d'état civil : il enregistre naissances, reconnaissances et décès, et célèbre les mariages. Il est aussi chef de la police municipale, mais la gendarmerie dépend de l'État, et le budget de l'État est voté par le Parlement.",
+    "source": "https://www.vie-publique.fr/fiches/19617-les-fonctions-les-pouvoirs-dun-maire"
+  },
+  {
+    "id": "ins-c-016",
+    "theme": "institutions",
+    "subtheme": "Élections",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui peut se présenter aux élections présidentielles ?",
+    "choices": [
+      "Seulement un homme âgé de plus de 35 ans",
+      "Tout Français électeur, femme ou homme",
+      "Seulement le chef d'un grand parti",
+      "Tout étranger en situation régulière"
+    ],
+    "answer": 1,
+    "explanation": "Toute personne de nationalité française, femme ou homme, âgée d'au moins 18 ans et électrice, peut être candidate, à condition de réunir 500 parrainages d'élus. Aucune appartenance à un parti n'est exigée, et un étranger ne peut pas se présenter.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1939"
+  },
+  {
+    "id": "ins-c-017",
+    "theme": "institutions",
+    "subtheme": "Élections",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui peut se présenter aux élections présidentielles ?",
+    "choices": [
+      "Un Français de 17 ans très motivé",
+      "Le Président ayant déjà fait 2 mandats de suite",
+      "Un Belge installé en France depuis 20 ans",
+      "Une Française de 30 ans soutenue par 500 élus"
+    ],
+    "answer": 3,
+    "explanation": "La Française de 30 ans remplit les conditions : nationalité, âge (18 ans minimum), qualité d'électrice et 500 parrainages. À 17 ans on n'est pas électeur, nul ne peut faire plus de 2 mandats consécutifs (révision de 2008), et un étranger, même européen, ne peut pas être candidat.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "ins-c-018",
+    "theme": "institutions",
+    "subtheme": "Droit de vote",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Une personne, n'ayant pas d'accès à internet, veut s'inscrire sur les listes électorales pour pouvoir voter aux prochaines élections politiques. Où peut-elle s'inscrire ?",
+    "choices": [
+      "À la préfecture",
+      "Au commissariat de police de son quartier",
+      "Au tribunal judiciaire",
+      "À la mairie de son domicile"
+    ],
+    "answer": 3,
+    "explanation": "Sans internet, on s'inscrit sur place à la mairie (ou en lui envoyant le formulaire cerfa n° 12669 par courrier), avec une pièce d'identité et un justificatif de domicile de moins de 3 mois. Ce n'est ni la préfecture, ni la police, ni le tribunal.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1367"
+  },
+  {
+    "id": "ins-c-019",
+    "theme": "institutions",
+    "subtheme": "Droit de vote",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "À quel âge peut-on devenir électeur ?",
+    "choices": [
+      "21 ans",
+      "16 ans",
+      "18 ans",
+      "25 ans"
+    ],
+    "answer": 2,
+    "explanation": "On devient électeur à 18 ans, l'âge de la majorité, depuis la loi de 1974 (avant : 21 ans). Les jeunes recensés à 16 ans sont inscrits automatiquement sur les listes électorales à 18 ans.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1367"
+  },
+  {
+    "id": "ins-c-020",
+    "theme": "institutions",
+    "subtheme": "Droit de vote",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "En France, est-ce obligatoire de voter ?",
+    "choices": [
+      "Oui, sinon on paie une amende",
+      "Non, mais c'est un devoir civique",
+      "Oui, mais seulement à la présidentielle",
+      "Non, le vote est réservé aux élus"
+    ],
+    "answer": 1,
+    "explanation": "En France, le vote n'est pas obligatoire, contrairement à certains pays : c'est un droit et un devoir civique, et l'abstention n'est pas sanctionnée. Retenir : inscription obligatoire, vote libre.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1367"
+  },
+  {
+    "id": "ins-c-021",
+    "theme": "institutions",
+    "subtheme": "État de droit",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "A-t-on le droit de ne pas respecter une loi ?",
+    "choices": [
+      "Non, la loi s'impose à tous",
+      "Oui, si on la trouve injuste",
+      "Oui, si sa religion l'interdit",
+      "Oui, si on n'a pas voté pour elle"
+    ],
+    "answer": 0,
+    "explanation": "Dans un État de droit, tout le monde doit respecter la loi, même si on la désapprouve, et personne ne peut invoquer ses croyances pour s'en affranchir. On peut la critiquer et chercher à la changer par des moyens légaux : vote, pétition, manifestation déclarée, recours en justice.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789"
+  },
+  {
+    "id": "ins-c-022",
+    "theme": "institutions",
+    "subtheme": "Parlement",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Comment sont désignés les députés ?",
+    "choices": [
+      "Nommés par le président de la République",
+      "Élus par les grands électeurs",
+      "Désignés par les partis politiques",
+      "Élus par les citoyens au suffrage direct"
+    ],
+    "answer": 3,
+    "explanation": "Les 577 députés sont élus directement par les citoyens, pour 5 ans, lors des élections législatives (dernières : juin-juillet 2024). Ce sont les sénateurs qui sont élus au suffrage indirect, par les grands électeurs.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1939"
+  },
+  {
+    "id": "ins-c-023",
+    "theme": "institutions",
+    "subtheme": "Parlement",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui vote les lois ?",
+    "choices": [
+      "Le Premier ministre",
+      "Le Parlement",
+      "Le Conseil constitutionnel",
+      "Le président de la République"
+    ],
+    "answer": 1,
+    "explanation": "Le Parlement, composé de l'Assemblée nationale (577 députés) et du Sénat (348 sénateurs), vote la loi (art. 24 de la Constitution). Le Président la promulgue, et le Conseil constitutionnel peut vérifier qu'elle respecte la Constitution.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "ins-c-024",
+    "theme": "institutions",
+    "subtheme": "Séparation des pouvoirs",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?",
+    "choices": [
+      "Militaire, religieux et civil",
+      "National, régional et communal",
+      "Législatif, exécutif et judiciaire",
+      "Politique, économique et médiatique"
+    ],
+    "answer": 2,
+    "explanation": "Législatif (voter les lois : le Parlement), exécutif (appliquer les lois : le Président et le Gouvernement), judiciaire (rendre la justice : les juges). Cette idée de Montesquieu est reprise par l'article 16 de la Déclaration de 1789 : séparer les pouvoirs évite les abus.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "ins-c-025",
+    "theme": "institutions",
+    "subtheme": "État de droit",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qu'est-ce que l'État de droit ?",
+    "choices": [
+      "Un État où le chef décide seul de toutes les règles du pays",
+      "Un État où chacun peut se faire justice lui-même",
+      "Un État où les juges écrivent et votent les lois",
+      "Un État où la loi s'impose à tous, y compris à l'État"
+    ],
+    "answer": 3,
+    "explanation": "Dans un État de droit, les gouvernants comme les citoyens sont soumis à la loi, et des juges indépendants peuvent sanctionner les abus, même ceux de l'administration. C'est l'inverse de l'arbitraire.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789"
+  },
+  {
+    "id": "ins-c-026",
+    "theme": "institutions",
+    "subtheme": "Mandats",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quelles sont les durées du mandat du conseil municipal et du maire ?",
+    "choices": [
+      "5 ans pour les deux",
+      "6 ans pour les deux",
+      "6 ans pour le conseil, 3 ans pour le maire",
+      "5 ans pour le conseil, 6 ans pour le maire"
+    ],
+    "answer": 1,
+    "explanation": "Conseillers municipaux et maire sont élus pour 6 ans, en même temps : municipales de mars 2026, prochaines en 2032. Retenir : tous les élus locaux (commune, département, région) ont un mandat de 6 ans.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1939"
+  },
+  {
+    "id": "ins-c-027",
+    "theme": "institutions",
+    "subtheme": "Élections",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui est élu lors des élections législatives ?",
+    "choices": [
+      "Les députés",
+      "Les sénateurs",
+      "Les conseillers régionaux",
+      "Les députés européens"
+    ],
+    "answer": 0,
+    "explanation": "Les élections législatives servent à élire les 577 députés de l'Assemblée nationale, pour 5 ans. Les députés européens sont élus aux élections européennes, et les sénateurs aux sénatoriales (suffrage indirect).",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1939"
+  },
+  {
+    "id": "ins-c-028",
+    "theme": "institutions",
+    "subtheme": "Mandats",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quelle est la durée du mandat du Président de la République française ?",
+    "choices": [
+      "7 ans",
+      "4 ans",
+      "5 ans",
+      "6 ans"
+    ],
+    "answer": 2,
+    "explanation": "Le quinquennat (5 ans) a remplacé le septennat (7 ans) après le référendum de 2000, avec une application depuis 2002 ; on ne peut pas faire plus de 2 mandats de suite. Le mandat d'Emmanuel Macron se termine le 14 mai 2027 (élection les 18 avril et 2 mai 2027).",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "ins-c-029",
+    "theme": "institutions",
+    "subtheme": "Mandats",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quelle est la durée du mandat des députés ?",
+    "choices": [
+      "6 ans",
+      "5 ans",
+      "4 ans",
+      "9 ans"
+    ],
+    "answer": 1,
+    "explanation": "Les députés sont élus pour 5 ans, sauf si le Président dissout l'Assemblée nationale (comme en juin 2024). Moyen mnémotechnique : Président et députés 5 ans, sénateurs 6 ans.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1939"
+  },
+  {
+    "id": "ins-c-030",
+    "theme": "institutions",
+    "subtheme": "Mandats",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quelle est la durée du mandat des sénateurs ?",
+    "choices": [
+      "5 ans",
+      "9 ans",
+      "7 ans",
+      "6 ans"
+    ],
+    "answer": 3,
+    "explanation": "Les 348 sénateurs sont élus pour 6 ans au suffrage indirect, par les grands électeurs (surtout des élus locaux). Le Sénat est renouvelé par moitié tous les 3 ans (dernier renouvellement : 27 septembre 2026).",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1939"
+  },
+  {
+    "id": "ins-c-031",
+    "theme": "institutions",
+    "subtheme": "Gouvernement",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui dirige l'action du gouvernement ?",
+    "choices": [
+      "Le Premier ministre",
+      "Le président de la République",
+      "Le président du Sénat",
+      "Le ministre de l'Intérieur"
+    ],
+    "answer": 0,
+    "explanation": "Article 21 de la Constitution : « Le Premier ministre dirige l'action du Gouvernement » (Sébastien Lecornu au 4 novembre 2026). Le président de la République, lui, nomme le Premier ministre et préside le Conseil des ministres.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "ins-c-032",
+    "theme": "institutions",
+    "subtheme": "Pluralisme",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "En France, est-ce possible d'adhérer à un parti politique ?",
+    "choices": [
+      "Non, c'est réservé aux élus",
+      "Non, les partis sont interdits",
+      "Oui, librement, c'est un droit",
+      "Oui, mais seulement au parti au pouvoir"
+    ],
+    "answer": 2,
+    "explanation": "Article 4 de la Constitution : les partis politiques se forment et exercent leur activité librement ; chacun peut adhérer au parti de son choix, ou à aucun. Ce pluralisme est une base de la démocratie.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "ins-c-033",
+    "theme": "institutions",
+    "subtheme": "Justice",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui sanctionne l'auteur d'un vol ?",
+    "choices": [
+      "La victime du vol",
+      "Le maire de la commune",
+      "Le policier qui l'arrête",
+      "Le juge (le tribunal)"
+    ],
+    "answer": 3,
+    "explanation": "Seule la justice peut punir : le vol est un délit jugé par le tribunal correctionnel. La police arrête et enquête mais ne prononce pas la peine, et personne n'a le droit de se faire justice soi-même.",
+    "source": "https://www.justice.fr"
+  },
+  {
+    "id": "ins-c-034",
+    "theme": "institutions",
+    "subtheme": "Collectivités territoriales",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui gère les collèges publics ?",
+    "choices": [
+      "La commune",
+      "Le département",
+      "La région",
+      "L'Union européenne"
+    ],
+    "answer": 1,
+    "explanation": "Le département construit, entretient et équipe les collèges ; les enseignants, eux, sont payés par l'État. Moyen mnémotechnique : école = commune, collège = département, lycée = région.",
+    "source": "https://www.collectivites-locales.gouv.fr"
+  },
+  {
+    "id": "ins-c-035",
+    "theme": "institutions",
+    "subtheme": "Collectivités territoriales",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui gère les écoles primaires et maternelles publiques ?",
+    "choices": [
+      "La commune",
+      "Le département",
+      "La région",
+      "Le préfet"
+    ],
+    "answer": 0,
+    "explanation": "La commune construit et entretient les écoles maternelles et élémentaires et emploie le personnel non enseignant (ATSEM, cantine). Moyen mnémotechnique : école = commune, collège = département, lycée = région.",
+    "source": "https://www.collectivites-locales.gouv.fr"
+  },
+  {
+    "id": "ins-c-036",
+    "theme": "institutions",
+    "subtheme": "Commune",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Comment sont désignés les maires ?",
+    "choices": [
+      "Élus directement par les habitants",
+      "Nommés par le préfet",
+      "Élus par le conseil municipal",
+      "Nommés par le ministre de l'Intérieur"
+    ],
+    "answer": 2,
+    "explanation": "Les habitants élisent les conseillers municipaux ; ceux-ci élisent ensuite le maire parmi eux, lors de la première réunion du conseil. Le maire n'est donc pas élu directement par la population, même si la tête de la liste gagnante devient en général maire.",
+    "source": "https://www.vie-publique.fr/fiches/19617-les-fonctions-les-pouvoirs-dun-maire"
+  },
+  {
+    "id": "ins-c-037",
+    "theme": "institutions",
+    "subtheme": "Collectivités territoriales",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quelle collectivité territoriale est responsable des transports régionaux ?",
+    "choices": [
+      "La commune",
+      "Le département",
+      "La région",
+      "La préfecture"
+    ],
+    "answer": 2,
+    "explanation": "La région organise les transports régionaux (trains TER, cars interurbains et scolaires) ; elle gère aussi les lycées et le développement économique. La préfecture n'est pas une collectivité : c'est un service de l'État.",
+    "source": "https://www.collectivites-locales.gouv.fr"
+  },
+  {
+    "id": "ins-c-038",
+    "theme": "institutions",
+    "subtheme": "Constitution",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quelle est l'une des voies possibles pour modifier la Constitution ?",
+    "choices": [
+      "Un décret du Premier ministre",
+      "Un vote par référendum",
+      "Une décision du Conseil d'État",
+      "Une ordonnance du Président"
+    ],
+    "answer": 1,
+    "explanation": "Article 89 : une révision est votée dans les mêmes termes par l'Assemblée nationale et le Sénat, puis approuvée par référendum ou, pour un projet du Président, par le Parlement réuni en Congrès (majorité des 3/5). Dernière révision : 8 mars 2024 (liberté de recourir à l'IVG).",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "ins-c-039",
+    "theme": "institutions",
+    "subtheme": "Constitution",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quelle est l'une des voies possibles pour modifier la Constitution ?",
+    "choices": [
+      "Une décision du Conseil constitutionnel",
+      "Un décret signé par les ministres",
+      "Un vote du Parlement réuni en Congrès",
+      "Une pétition signée par un million de citoyens"
+    ],
+    "answer": 2,
+    "explanation": "Le Congrès (Assemblée nationale et Sénat réunis à Versailles) peut adopter une révision à la majorité des 3/5 : c'est ainsi que l'IVG a été inscrite dans la Constitution le 4 mars 2024. Une pétition, un décret ou le Conseil constitutionnel ne peuvent pas modifier la Constitution.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "ins-c-040",
+    "theme": "institutions",
+    "subtheme": "Président de la République",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui assure l'intérim du président de la République en cas de décès ?",
+    "choices": [
+      "Le Premier ministre",
+      "Le président de l'Assemblée nationale",
+      "Le président du Sénat",
+      "Le président du Conseil constitutionnel"
+    ],
+    "answer": 2,
+    "explanation": "Article 7 : en cas de décès ou de démission, le président du Sénat (Gérard Larcher, réélu le 1er octobre 2026) exerce provisoirement les fonctions jusqu'à l'élection d'un nouveau président. Piège classique : ce n'est pas le Premier ministre.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "ins-c-041",
+    "theme": "institutions",
+    "subtheme": "Conseil constitutionnel",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel est le rôle du Conseil constitutionnel ?",
+    "choices": [
+      "Voter le budget de l'État",
+      "Vérifier que les lois respectent la Constitution",
+      "Juger les crimes les plus graves commis en France",
+      "Conseiller le Président en politique étrangère"
+    ],
+    "answer": 1,
+    "explanation": "Le Conseil constitutionnel (9 membres nommés pour 9 ans, présidé par Richard Ferrand depuis mars 2025) contrôle la conformité des lois à la Constitution et la régularité des élections nationales. Le budget est voté par le Parlement et les crimes sont jugés par la cour d'assises.",
+    "source": "https://www.conseil-constitutionnel.fr"
+  },
+  {
+    "id": "ins-c-042",
+    "theme": "institutions",
+    "subtheme": "Conseil constitutionnel",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel est le rôle du Conseil constitutionnel ?",
+    "choices": [
+      "Nommer les ministres sur proposition du Premier ministre",
+      "Rédiger les projets de loi présentés au Parlement",
+      "Juger les conflits entre voisins",
+      "Veiller à la régularité de l'élection présidentielle"
+    ],
+    "answer": 3,
+    "explanation": "Le Conseil constitutionnel veille à la régularité de l'élection du président de la République (il reçoit les parrainages et proclame les résultats), des élections législatives et sénatoriales et des référendums. Il vérifie aussi que les lois respectent la Constitution.",
+    "source": "https://www.conseil-constitutionnel.fr"
+  },
+  {
+    "id": "ins-c-043",
+    "theme": "institutions",
+    "subtheme": "Élections",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quelle condition est obligatoire pour se présenter à l'élection présidentielle ?",
+    "choices": [
+      "Être membre d'un parti politique reconnu",
+      "Avoir au moins 40 ans",
+      "Recueillir 500 parrainages d'élus",
+      "Être né en France"
+    ],
+    "answer": 2,
+    "explanation": "Un candidat doit réunir au moins 500 parrainages signés par des élus (maires, parlementaires, conseillers départementaux…) d'au moins 30 départements ou collectivités d'outre-mer. Il doit aussi être Français, avoir 18 ans et être électeur ; être né en France ou appartenir à un parti n'est pas exigé.",
+    "source": "https://www.conseil-constitutionnel.fr"
+  },
+  {
+    "id": "ins-c-044",
+    "theme": "institutions",
+    "subtheme": "Élections",
+    "notion": "democratie",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quelle condition est obligatoire pour se présenter à l'élection présidentielle ?",
+    "choices": [
+      "Avoir la nationalité française",
+      "Avoir déjà été élu maire",
+      "Avoir des parents français",
+      "Être diplômé d'une grande école"
+    ],
+    "answer": 0,
+    "explanation": "Seul un citoyen français peut être candidat à la présidentielle ; peu importe que la nationalité soit acquise à la naissance ou par naturalisation, et l'origine des parents ne compte pas. Aucun diplôme ni mandat antérieur n'est exigé (mais il faut 500 parrainages d'élus).",
+    "source": "https://www.conseil-constitutionnel.fr"
+  },
+  {
+    "id": "ins-c-045",
+    "theme": "institutions",
+    "subtheme": "Collectivités territoriales",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Combien y a-t-il de départements en France ?",
+    "choices": [
+      "96",
+      "18",
+      "110",
+      "101"
+    ],
+    "answer": 3,
+    "explanation": "La France compte 101 départements : 96 en métropole (dont les 2 de Corse) et 5 d'outre-mer (Guadeloupe, Martinique, Guyane, La Réunion et Mayotte, 101e département depuis 2011). Ne pas confondre avec les 18 régions (13 en métropole + 5 en outre-mer).",
+    "source": "https://www.insee.fr/fr/metadonnees/definition/c1696"
+  },
+  {
+    "id": "ins-c-046",
+    "theme": "institutions",
+    "subtheme": "Collectivités territoriales",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Comment est organisé le découpage administratif de la France ?",
+    "choices": [
+      "En provinces, comtés et duchés",
+      "En communes, départements et régions",
+      "En États fédérés, comme les États-Unis",
+      "En Länder, comme l'Allemagne"
+    ],
+    "answer": 1,
+    "explanation": "La France est un État unitaire décentralisé, avec trois niveaux de collectivités : environ 35 000 communes, 101 départements et 18 régions (plus des collectivités à statut particulier, comme la Corse, et d'outre-mer). Dans chaque département et chaque région, l'État est représenté par un préfet.",
+    "source": "https://www.insee.fr/fr/metadonnees/definition/c1696"
+  },
+  {
+    "id": "ins-c-047",
+    "theme": "institutions",
+    "subtheme": "Collectivités territoriales",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui représente l'État dans un département ?",
+    "choices": [
+      "Le préfet",
+      "Le maire du chef-lieu",
+      "Le président du conseil départemental",
+      "Le procureur de la République"
+    ],
+    "answer": 0,
+    "explanation": "Le préfet, nommé en Conseil des ministres, représente l'État et chaque ministre dans le département. Le président du conseil départemental dirige la collectivité « département », mais il ne représente pas l'État.",
+    "source": "https://www.collectivites-locales.gouv.fr"
+  },
+  {
+    "id": "ins-c-048",
+    "theme": "institutions",
+    "subtheme": "Président de la République",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel est le rôle du Président de la République ?",
+    "choices": [
+      "Il vote les lois au Parlement",
+      "Il rend la justice dans les tribunaux du pays",
+      "Il est le chef de l'État et des armées",
+      "Il dirige les conseils municipaux"
+    ],
+    "answer": 2,
+    "explanation": "Le Président est le chef de l'État : il veille au respect de la Constitution, garantit l'indépendance nationale, nomme le Premier ministre, promulgue les lois et est le chef des armées (art. 5 et 15). Les lois sont votées par le Parlement et la justice est rendue par les juges.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "ins-c-049",
+    "theme": "institutions",
+    "subtheme": "Président de la République",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel est le rôle du Président de la République ?",
+    "choices": [
+      "Il nomme le Premier ministre",
+      "Il élit les sénateurs",
+      "Il préside l'Assemblée nationale",
+      "Il vote le budget des communes"
+    ],
+    "answer": 0,
+    "explanation": "Article 8 : le Président nomme le Premier ministre, puis les ministres sur sa proposition ; il préside aussi le Conseil des ministres et peut dissoudre l'Assemblée nationale. L'Assemblée a sa propre présidente (Yaël Braun-Pivet) et les sénateurs sont élus par les grands électeurs.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "ins-c-050",
+    "theme": "institutions",
+    "subtheme": "Gouvernement",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel est le rôle du Premier ministre ?",
+    "choices": [
+      "Il est le chef des armées",
+      "Il préside les séances du Sénat",
+      "Il promulgue les lois votées par le Parlement",
+      "Il dirige l'action du Gouvernement"
+    ],
+    "answer": 3,
+    "explanation": "Article 21 : le Premier ministre dirige l'action du Gouvernement et assure l'exécution des lois ; il est responsable devant l'Assemblée nationale, qui peut le renverser par une motion de censure. Le chef des armées est le Président, qui promulgue aussi les lois.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "ins-c-051",
+    "theme": "institutions",
+    "subtheme": "Défenseur des droits",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel est le rôle du Défenseur des droits ?",
+    "choices": [
+      "Défendre les accusés lors d'un procès",
+      "Vérifier que les lois respectent la Constitution",
+      "Protéger les droits face à l'administration",
+      "Défendre les intérêts de la France à l'étranger"
+    ],
+    "answer": 2,
+    "explanation": "Le Défenseur des droits, autorité indépendante créée en 2011, aide gratuitement les personnes en conflit avec un service public, victimes de discrimination ou dont les droits de l'enfant ne sont pas respectés. Depuis le 23 juillet 2026, c'est François-Noël Buffet (il a succédé à Claire Hédon), nommé pour 6 ans non renouvelables.",
+    "source": "https://www.defenseurdesdroits.fr/decouvrir-le-defenseur-des-droits-197"
+  },
+  {
+    "id": "ins-c-052",
+    "theme": "institutions",
+    "subtheme": "Défenseur des droits",
+    "notion": "organisation",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel est le rôle du Défenseur des droits ?",
+    "choices": [
+      "Juger et condamner les délinquants",
+      "Lutter contre les discriminations",
+      "Diriger la police nationale",
+      "Organiser les élections municipales"
+    ],
+    "answer": 1,
+    "explanation": "Une victime de discrimination (par exemple un refus de logement ou d'emploi lié à l'origine) peut saisir gratuitement le Défenseur des droits, en ligne, par courrier ou auprès d'un délégué local. Il ne juge pas : il enquête, propose une médiation et peut présenter des observations devant les tribunaux.",
+    "source": "https://www.defenseurdesdroits.fr/decouvrir-le-defenseur-des-droits-197"
+  },
+  {
+    "id": "ins-c-053",
+    "theme": "institutions",
+    "subtheme": "Union européenne",
+    "notion": "europe",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "En quelle année la citoyenneté européenne a-t-elle été créée ?",
+    "choices": [
+      "1957",
+      "1979",
+      "1992",
+      "2002"
+    ],
+    "answer": 2,
+    "explanation": "La citoyenneté européenne a été créée par le traité de Maastricht, signé le 7 février 1992 (entré en vigueur le 1er novembre 1993). Elle s'ajoute à la nationalité : tout Français est aussi citoyen européen.",
+    "source": "https://european-union.europa.eu/principles-countries-history/history-eu_fr"
+  },
+  {
+    "id": "ins-c-054",
+    "theme": "institutions",
+    "subtheme": "Union européenne",
+    "notion": "europe",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel est le dernier État à avoir intégré l'Union européenne en 2013 ?",
+    "choices": [
+      "La Roumanie",
+      "La Bulgarie",
+      "La Croatie",
+      "La Serbie"
+    ],
+    "answer": 2,
+    "explanation": "La Croatie est entrée dans l'UE le 1er juillet 2013 (28e membre) : c'est la dernière adhésion à ce jour. La Roumanie et la Bulgarie sont entrées en 2007, et la Serbie n'est que candidate.",
+    "source": "https://european-union.europa.eu/principles-countries-history/eu-countries_fr"
+  },
+  {
+    "id": "ins-c-055",
+    "theme": "institutions",
+    "subtheme": "Union européenne",
+    "notion": "europe",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui a composé l'hymne de l'Union européenne ?",
+    "choices": [
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Claude Joseph Rouget de Lisle",
+      "Jean-Sébastien Bach"
+    ],
+    "answer": 1,
+    "explanation": "L'hymne européen est l'« Ode à la joie », tirée de la 9e symphonie de Ludwig van Beethoven ; il est devenu l'hymne officiel en 1985 et se joue sans paroles. Rouget de Lisle a composé La Marseillaise, l'hymne de la France.",
+    "source": "https://european-union.europa.eu/principles-countries-history/symbols_fr"
+  },
+  {
+    "id": "ins-c-056",
+    "theme": "institutions",
+    "subtheme": "Union européenne",
+    "notion": "europe",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quand est célébrée la journée de l'Europe ?",
+    "choices": [
+      "Le 9 mai",
+      "Le 8 mai",
+      "Le 1er mai",
+      "Le 14 juillet"
+    ],
+    "answer": 0,
+    "explanation": "Le 9 mai rappelle la déclaration de Robert Schuman du 9 mai 1950, point de départ de la construction européenne. Ne pas confondre avec le 8 mai (victoire de 1945), jour férié en France.",
+    "source": "https://european-union.europa.eu/principles-countries-history/history-eu_fr"
+  },
+  {
+    "id": "ins-c-057",
+    "theme": "institutions",
+    "subtheme": "Union européenne",
+    "notion": "europe",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Où est le siège de la Banque centrale européenne ?",
+    "choices": [
+      "Bruxelles",
+      "Strasbourg",
+      "Francfort",
+      "Luxembourg"
+    ],
+    "answer": 2,
+    "explanation": "La BCE, créée en 1998, siège à Francfort-sur-le-Main, en Allemagne ; elle gère l'euro pour les 21 pays de la zone euro (Bulgarie comprise depuis le 1er janvier 2026). Moyen mnémotechnique : F comme Francfort et comme finances.",
+    "source": "https://european-union.europa.eu/institutions-law-budget/leadership/presidents_fr"
+  },
+  {
+    "id": "ins-c-058",
+    "theme": "institutions",
+    "subtheme": "Union européenne",
+    "notion": "europe",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Où est le siège de la Commission européenne ?",
+    "choices": [
+      "Strasbourg",
+      "Bruxelles",
+      "Francfort",
+      "Genève"
+    ],
+    "answer": 1,
+    "explanation": "La Commission européenne siège à Bruxelles, en Belgique ; elle est présidée par Ursula von der Leyen (2e mandat depuis décembre 2024). Moyen mnémotechnique : Commission à Bruxelles, Parlement à Strasbourg, BCE à Francfort.",
+    "source": "https://european-union.europa.eu/institutions-law-budget/leadership/presidents_fr"
+  },
+  {
+    "id": "ins-c-059",
+    "theme": "institutions",
+    "subtheme": "Union européenne",
+    "notion": "europe",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui siège au Parlement européen ?",
+    "choices": [
+      "Les chefs d'État et de gouvernement",
+      "Les ministres des pays membres",
+      "Les commissaires européens",
+      "Les députés européens élus"
+    ],
+    "answer": 3,
+    "explanation": "Le Parlement européen réunit 720 députés européens, élus au suffrage universel direct pour 5 ans dans les 27 pays (81 pour la France). Les chefs d'État ou de gouvernement forment le Conseil européen, et les ministres le Conseil de l'Union européenne.",
+    "source": "https://elections.europa.eu/fr/how-elections-work/1/"
+  },
+  {
+    "id": "ins-c-060",
+    "theme": "institutions",
+    "subtheme": "Union européenne",
+    "notion": "europe",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Les citoyens de l'UE peuvent-ils voter aux élections locales dans un autre État de l'Union ?",
+    "choices": [
+      "Non, jamais en dehors de leur pays",
+      "Oui, mais seulement s'ils y sont nés",
+      "Oui, et aussi à l'élection présidentielle de ce pays",
+      "Oui, aux municipales du pays où ils résident"
+    ],
+    "answer": 3,
+    "explanation": "Depuis le traité de Maastricht, un citoyen de l'UE qui vit dans un autre pays de l'Union peut y voter et s'y présenter aux élections municipales et européennes. En France, il ne peut toutefois devenir ni maire ni adjoint, et il ne vote ni aux législatives ni à la présidentielle.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1367"
+  },
+  {
+    "id": "ins-c-061",
+    "theme": "institutions",
+    "subtheme": "Union européenne",
+    "notion": "europe",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Combien d'États font partie de l'Union européenne au 1er janvier 2025 ?",
+    "choices": [
+      "28",
+      "25",
+      "27",
+      "29"
+    ],
+    "answer": 2,
+    "explanation": "L'UE compte 27 États membres depuis la sortie du Royaume-Uni (31 janvier 2020), et c'est toujours le cas en novembre 2026. Ne pas confondre avec la zone euro (21 pays depuis 2026) ni avec l'espace Schengen (29 pays).",
+    "source": "https://european-union.europa.eu/principles-countries-history/eu-countries_fr"
+  },
+  {
+    "id": "ins-c-062",
+    "theme": "institutions",
+    "subtheme": "Union européenne",
+    "notion": "europe",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-il été signé ?",
+    "choices": [
+      "1957",
+      "1992",
+      "2002",
+      "1986"
+    ],
+    "answer": 1,
+    "explanation": "Signé le 7 février 1992 à Maastricht (Pays-Bas) et entré en vigueur le 1er novembre 1993, ce traité crée l'Union européenne et la citoyenneté européenne, et prévoit l'euro. 1957 est l'année du traité de Rome, qui a créé la CEE.",
+    "source": "https://european-union.europa.eu/principles-countries-history/history-eu_fr"
+  },
+  {
+    "id": "ins-c-063",
+    "theme": "institutions",
+    "subtheme": "Union européenne",
+    "notion": "europe",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel traité concerne la construction de l'Union européenne ?",
+    "choices": [
+      "Le traité de Versailles",
+      "Le traité de Maastricht",
+      "Le traité de Westphalie",
+      "Le traité d'Utrecht"
+    ],
+    "answer": 1,
+    "explanation": "Le traité de Maastricht (1992) crée l'Union européenne ; les autres grands traités européens sont ceux de Rome (1957, CEE) et de Lisbonne (2007). Le traité de Versailles (1919) a mis fin à la Première Guerre mondiale.",
+    "source": "https://european-union.europa.eu/principles-countries-history/history-eu_fr"
+  },
+  {
+    "id": "ins-c-064",
+    "theme": "institutions",
+    "subtheme": "Union européenne",
+    "notion": "europe",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel traité concerne la construction de l'Union européenne ?",
+    "choices": [
+      "Le traité de Versailles",
+      "Le traité d'Utrecht",
+      "Le traité de Tordesillas",
+      "Le traité de Rome"
+    ],
+    "answer": 3,
+    "explanation": "Les traités de Rome, signés le 25 mars 1957 par les 6 pays fondateurs (France, Allemagne, Italie, Belgique, Pays-Bas, Luxembourg), créent la Communauté économique européenne (CEE), ancêtre de l'UE. Versailles (1919), Utrecht (1713) et Tordesillas (1494) n'ont rien à voir avec la construction européenne.",
+    "source": "https://european-union.europa.eu/principles-countries-history/history-eu_fr"
+  },
+  {
+    "id": "ins-c-065",
+    "theme": "institutions",
+    "subtheme": "Union européenne",
+    "notion": "europe",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel traité concerne la construction de l'Union européenne ?",
+    "choices": [
+      "Le traité de Lisbonne",
+      "Le traité de Versailles",
+      "Le traité de Westphalie",
+      "Le traité de Brest-Litovsk"
+    ],
+    "answer": 0,
+    "explanation": "Le traité de Lisbonne (signé en 2007, en vigueur depuis 2009) est le dernier grand traité de l'UE : il organise son fonctionnement actuel. Moyen mnémotechnique des traités européens : Rome 1957, Maastricht 1992, Lisbonne 2007.",
+    "source": "https://european-union.europa.eu/principles-countries-history/history-eu_fr"
+  },
+  {
+    "id": "ins-c-066",
+    "theme": "institutions",
+    "subtheme": "Union européenne",
+    "notion": "europe",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel État a quitté l'Union Européenne en 2020 ?",
+    "choices": [
+      "La Suisse",
+      "La Norvège",
+      "La République tchèque",
+      "Le Royaume-Uni"
+    ],
+    "answer": 3,
+    "explanation": "Après le référendum de juin 2016 (« Brexit »), le Royaume-Uni a quitté l'UE le 31 janvier 2020 : l'UE est passée de 28 à 27 membres. La Suisse et la Norvège n'ont jamais été membres de l'UE.",
+    "source": "https://european-union.europa.eu/principles-countries-history/eu-countries_fr"
+  },
+  {
+    "id": "ins-c-067",
+    "theme": "institutions",
+    "subtheme": "Union européenne",
+    "notion": "europe",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quelle est la devise de l'Union européenne ?",
+    "choices": [
+      "Liberté, Égalité, Fraternité",
+      "Unie dans la diversité",
+      "L'union fait la force",
+      "Paix, travail et prospérité"
+    ],
+    "answer": 1,
+    "explanation": "La devise de l'UE est « Unie dans la diversité », adoptée en 2000 (le livret du citoyen indique 2020 par erreur). « Liberté, Égalité, Fraternité » est la devise de la France et « L'union fait la force » celle de la Belgique.",
+    "source": "https://european-union.europa.eu/principles-countries-history/symbols_fr"
+  },
+  {
+    "id": "ins-c-068",
+    "theme": "institutions",
+    "subtheme": "Union européenne",
+    "notion": "europe",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Quel est l'hymne de l'Union Européenne ?",
+    "choices": [
+      "La Marseillaise",
+      "L'Ode à la joie",
+      "Le Chant des partisans",
+      "Le Boléro de Ravel"
+    ],
+    "answer": 1,
+    "explanation": "L'hymne européen est l'« Ode à la joie », extraite de la 9e symphonie de Beethoven, adoptée en 1985 et jouée sans paroles. La Marseillaise est l'hymne national de la France.",
+    "source": "https://european-union.europa.eu/principles-countries-history/symbols_fr"
+  },
+  {
+    "id": "ins-c-069",
+    "theme": "institutions",
+    "subtheme": "Union européenne",
+    "notion": "europe",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "De quoi est composé le drapeau européen ?",
+    "choices": [
+      "D'un cercle de 12 étoiles jaunes sur fond bleu",
+      "De 27 étoiles jaunes, une par pays, sur fond bleu",
+      "De 12 étoiles blanches sur fond rouge",
+      "De trois bandes verticales bleu, blanc, rouge"
+    ],
+    "answer": 0,
+    "explanation": "Le drapeau européen est un cercle de 12 étoiles dorées sur fond bleu, symbole d'unité, de solidarité et d'harmonie entre les peuples d'Europe. Le nombre 12 est fixe : il ne correspond pas au nombre de pays (27).",
+    "source": "https://european-union.europa.eu/principles-countries-history/symbols_fr"
+  },
+  {
+    "id": "ins-c-070",
+    "theme": "institutions",
+    "subtheme": "Union européenne",
+    "notion": "europe",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Qui élit les députés européens ?",
+    "choices": [
+      "Les députés nationaux de chaque pays",
+      "Les chefs d'État européens",
+      "Les citoyens des pays de l'UE",
+      "La Commission européenne"
+    ],
+    "answer": 2,
+    "explanation": "Les députés européens sont élus au suffrage universel direct, tous les 5 ans, par les citoyens de l'UE (dernière élection : 9 juin 2024 ; prochaine : 2029). Un citoyen européen qui réside en France peut y voter pour les listes françaises.",
+    "source": "https://elections.europa.eu/fr/how-elections-work/1/"
+  },
+  {
+    "id": "ins-c-071",
+    "theme": "institutions",
+    "subtheme": "Union européenne",
+    "notion": "europe",
+    "type": "connaissance",
+    "origin": "officielle",
+    "question": "Où est le siège du Parlement européen ?",
+    "choices": [
+      "Bruxelles",
+      "Strasbourg",
+      "Francfort",
+      "La Haye"
+    ],
+    "answer": 1,
+    "explanation": "Le siège officiel du Parlement européen est à Strasbourg, où se tiennent ses 12 sessions plénières mensuelles ; il travaille aussi à Bruxelles (commissions) et à Luxembourg (secrétariat). Moyen mnémotechnique : Parlement à Strasbourg, Commission à Bruxelles.",
+    "source": "https://european-union.europa.eu/principles-countries-history/symbols_fr"
+  }
+]

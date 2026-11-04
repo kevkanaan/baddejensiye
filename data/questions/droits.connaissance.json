@@ -1,0 +1,956 @@
+[
+  {
+    "id": "dro-c-001",
+    "theme": "droits",
+    "subtheme": "Droits sociaux",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "À quoi sert le droit de grève ?",
+    "choices": [
+      "À cesser le travail collectivement pour défendre des revendications",
+      "À obtenir des jours de congés payés en plus de ceux prévus par la loi",
+      "À permettre à l'employeur de fermer l'entreprise quand il veut",
+      "À s'absenter seul de son travail pour des raisons personnelles"
+    ],
+    "answer": 0,
+    "explanation": "La grève est un arrêt collectif et concerté du travail pour appuyer des revendications professionnelles (salaires, conditions de travail). C'est un droit constitutionnel : selon le préambule de 1946, il « s'exerce dans le cadre des lois qui le réglementent ». Les jours de grève ne sont pas payés.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/preambule-de-la-constitution-du-27-octobre-1946"
+  },
+  {
+    "id": "dro-c-002",
+    "theme": "droits",
+    "subtheme": "Limites des libertés",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Au nom de quoi l'État justifie-t-il la restriction des droits ?",
+    "choices": [
+      "Des convictions religieuses personnelles du chef de l'État",
+      "De l'ordre public et de la protection des droits d'autrui",
+      "Des intérêts financiers des grandes entreprises",
+      "De la volonté personnelle du préfet ou du maire"
+    ],
+    "answer": 1,
+    "explanation": "Les libertés ne sont pas absolues : la loi peut les limiter pour préserver l'ordre public (sécurité, tranquillité, salubrité, dignité) et les droits des autres (art. 4 et 5 de la DDHC). Ces restrictions doivent être nécessaires et proportionnées, sous le contrôle du juge.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789"
+  },
+  {
+    "id": "dro-c-003",
+    "theme": "droits",
+    "subtheme": "Textes fondamentaux",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'Homme et du Citoyen de 1789 ?",
+    "choices": [
+      "« La France est une République indivisible, laïque, démocratique et sociale. »",
+      "« Liberté, Égalité, Fraternité. »",
+      "« Les hommes naissent et demeurent libres et égaux en droits. »",
+      "« Unie dans la diversité. »"
+    ],
+    "answer": 2,
+    "explanation": "C'est l'article 1er de la DDHC du 26 août 1789. La devise « Liberté, Égalité, Fraternité » figure à l'article 2 de la Constitution de 1958, la « République indivisible, laïque… » à son article 1er, et « Unie dans la diversité » est la devise de l'Union européenne.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789"
+  },
+  {
+    "id": "dro-c-004",
+    "theme": "droits",
+    "subtheme": "Textes fondamentaux",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'Homme et du Citoyen de 1789 ?",
+    "choices": [
+      "« La loi garantit à la femme, dans tous les domaines, des droits égaux à ceux de l'homme. »",
+      "« Le principe de la République est : gouvernement du peuple, par le peuple et pour le peuple. »",
+      "« Chacun a le droit de vivre dans un environnement équilibré et respectueux de la santé. »",
+      "« La libre communication des pensées et des opinions est un des droits les plus précieux de l'homme. »"
+    ],
+    "answer": 3,
+    "explanation": "C'est l'article 11 de la DDHC, fondement de la liberté d'expression et de la presse. Les autres citations viennent du préambule de 1946 (égalité femmes-hommes), de la Charte de l'environnement de 2004 (art. 1er) et de l'article 2 de la Constitution de 1958.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789"
+  },
+  {
+    "id": "dro-c-005",
+    "theme": "droits",
+    "subtheme": "Textes fondamentaux",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'Homme et du Citoyen de 1789 ?",
+    "choices": [
+      "« La loi est l'expression de la volonté générale. »",
+      "« Paris vaut bien une messe. »",
+      "« L'État, c'est moi. »",
+      "« La langue de la République est le français. »"
+    ],
+    "answer": 0,
+    "explanation": "C'est l'article 6 de la DDHC : la loi est faite par les citoyens ou leurs représentants et doit être la même pour tous. « La langue de la République est le français » vient de l'article 2 de la Constitution de 1958 ; « Paris vaut bien une messe » et « L'État, c'est moi » sont des formules attribuées à Henri IV et à Louis XIV, des rois d'avant 1789.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789"
+  },
+  {
+    "id": "dro-c-006",
+    "theme": "droits",
+    "subtheme": "Libertés",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "L'article 4 de la Déclaration des droits de l'homme et du citoyen affirme que \"la liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui\". Qu'est-ce que cela signifie ?",
+    "choices": [
+      "On peut faire tout ce que l'on veut, sans aucune limite",
+      "On est libre tant qu'on ne nuit pas aux autres",
+      "On ne peut faire que ce que la loi autorise expressément",
+      "Seuls les citoyens français ont le droit d'être libres"
+    ],
+    "answer": 1,
+    "explanation": "« Ma liberté s'arrête là où commence celle des autres » : chacun peut agir librement tant qu'il ne nuit pas à autrui, et seule la loi peut fixer ces bornes. L'article 5 ajoute que « tout ce qui n'est pas défendu par la loi ne peut être empêché » : on peut donc faire tout ce que la loi n'interdit pas.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789"
+  },
+  {
+    "id": "dro-c-007",
+    "theme": "droits",
+    "subtheme": "Constitution",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Que dit l'article 1er de la Constitution française ?",
+    "choices": [
+      "La France est une monarchie constitutionnelle, héréditaire et parlementaire",
+      "La France est une République fédérale, chrétienne et libérale",
+      "La France est une République indivisible, laïque, démocratique et sociale",
+      "La France est un État dirigé par le Parlement européen"
+    ],
+    "answer": 2,
+    "explanation": "Article 1er de la Constitution du 4 octobre 1958 : « La France est une République indivisible, laïque, démocratique et sociale. » Il ajoute qu'elle assure l'égalité devant la loi de tous les citoyens et respecte toutes les croyances. Moyen mnémotechnique : « ILDS » (Indivisible, Laïque, Démocratique, Sociale).",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "dro-c-008",
+    "theme": "droits",
+    "subtheme": "Constitution",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Que dit l'article 1er de la Constitution française ?",
+    "choices": [
+      "Que la langue de la République est le français",
+      "Que la souveraineté nationale appartient au peuple",
+      "Que l'emblème national est le drapeau tricolore",
+      "Que la France respecte toutes les croyances"
+    ],
+    "answer": 3,
+    "explanation": "L'article 1er affirme que la République laïque « respecte toutes les croyances » et assure l'égalité devant la loi sans distinction d'origine, de race ou de religion. La langue, le drapeau, l'hymne et la devise sont à l'article 2 ; la souveraineté du peuple est à l'article 3.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
+  },
+  {
+    "id": "dro-c-009",
+    "theme": "droits",
+    "subtheme": "Libertés",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Que garantit la liberté de la presse ?",
+    "choices": [
+      "Le droit de publier des informations et des opinions sans censure",
+      "Le droit de publier des rumeurs diffamatoires sans être poursuivi",
+      "L'obligation pour les journaux de soutenir l'action du gouvernement",
+      "La distribution gratuite des journaux à tous les citoyens"
+    ],
+    "answer": 0,
+    "explanation": "Protégée par l'article 11 de la DDHC et la loi du 29 juillet 1881, la liberté de la presse permet aux journalistes d'informer et de critiquer librement, sans autorisation ni censure de l'État. Elle a des limites : la diffamation, l'injure et l'incitation à la haine restent punies.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-010",
+    "theme": "droits",
+    "subtheme": "Libertés",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Que permet la liberté de circulation ?",
+    "choices": [
+      "Entrer dans un domicile privé sans l'accord de son occupant",
+      "Se déplacer librement en France, en sortir et y revenir",
+      "Conduire un véhicule sans avoir de permis de conduire",
+      "S'installer dans n'importe quel pays du monde sans visa"
+    ],
+    "answer": 1,
+    "explanation": "La liberté d'aller et venir permet à chacun de se déplacer librement sur le territoire et d'en sortir. La loi peut la limiter : détention, état d'urgence, visa ou titre de séjour pour les étrangers, autorisation de sortie du territoire pour un mineur qui voyage sans ses parents.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-011",
+    "theme": "droits",
+    "subtheme": "Citoyenneté",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Que signifie être citoyen d'un État ?",
+    "choices": [
+      "Habiter dans cet État depuis au moins cinq ans",
+      "Y travailler et y payer ses impôts, sans en avoir la nationalité",
+      "Avoir la nationalité de cet État, avec ses droits et ses devoirs",
+      "Être né sur son territoire, quelle que soit sa nationalité"
+    ],
+    "answer": 2,
+    "explanation": "Le citoyen est celui qui a la nationalité de l'État : il bénéficie de droits (voter, être élu) et assume des devoirs (respecter les lois, défense, jury d'assises). Un étranger résidant en France a des droits et des devoirs, mais pas la citoyenneté ; naître en France ne rend pas automatiquement français.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-012",
+    "theme": "droits",
+    "subtheme": "Droits fondamentaux",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Que sont les droits fondamentaux ?",
+    "choices": [
+      "Des avantages réservés aux seuls fonctionnaires de l'État",
+      "Des droits que l'on peut vendre ou céder à quelqu'un d'autre",
+      "Des règles de politesse qui n'ont aucune valeur juridique",
+      "Des droits essentiels garantis à toute personne"
+    ],
+    "answer": 3,
+    "explanation": "Ce sont les droits et libertés essentiels reconnus à toute personne : liberté d'expression et de conscience, égalité, dignité, sûreté, procès équitable… Ils sont garantis par la Constitution de 1958, qui renvoie à la DDHC de 1789, au préambule de 1946 et à la Charte de l'environnement de 2004, ainsi que par la Convention européenne des droits de l'homme.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-013",
+    "theme": "droits",
+    "subtheme": "Sûreté et justice",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Quel droit protège une personne contre une arrestation arbitraire ?",
+    "choices": [
+      "Le droit à la sûreté",
+      "Le droit de propriété",
+      "Le droit de grève",
+      "Le droit d'association"
+    ],
+    "answer": 0,
+    "explanation": "La sûreté est un droit « naturel et imprescriptible » (art. 2 de la DDHC) : nul ne peut être arrêté ni détenu hors des cas prévus par la loi (art. 7), et l'autorité judiciaire est la gardienne de la liberté individuelle (art. 66 de la Constitution). Retenir : sûreté = protection contre l'arbitraire.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789"
+  },
+  {
+    "id": "dro-c-014",
+    "theme": "droits",
+    "subtheme": "Textes fondamentaux",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Quel est le texte fondateur établissant les droits et les devoirs de chaque citoyen ?",
+    "choices": [
+      "L'édit de Nantes signé par Henri IV en 1598",
+      "La Déclaration des droits de l'homme et du citoyen de 1789",
+      "Le Concordat signé par Napoléon Bonaparte en 1801",
+      "Le traité de Rome créant la Communauté européenne en 1957"
+    ],
+    "answer": 1,
+    "explanation": "Adoptée le 26 août 1789, pendant la Révolution, la DDHC rappelle dans son préambule à tous les membres de la société « leurs droits et leurs devoirs » ; elle fait toujours partie de la Constitution. Ne pas la confondre avec la « Charte des droits et devoirs du citoyen français », plus récente, que l'on signe lors de la naturalisation.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789"
+  },
+  {
+    "id": "dro-c-015",
+    "theme": "droits",
+    "subtheme": "Textes fondamentaux",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Quel texte affirme que tous les hommes naissent libres et égaux en droits ?",
+    "choices": [
+      "Le Code civil promulgué par Napoléon en 1804",
+      "La Charte de l'environnement adossée à la Constitution en 2004",
+      "La Déclaration des droits de l'homme et du citoyen de 1789",
+      "La loi de séparation des Églises et de l'État de 1905"
+    ],
+    "answer": 2,
+    "explanation": "Article 1er de la DDHC : « Les hommes naissent et demeurent libres et égaux en droits. » La Déclaration universelle des droits de l'homme de l'ONU (1948) reprend cette idée, mais la réponse attendue à l'examen est la DDHC de 1789.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789"
+  },
+  {
+    "id": "dro-c-016",
+    "theme": "droits",
+    "subtheme": "Dignité",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Quelle situation est une atteinte à la dignité humaine ?",
+    "choices": [
+      "Demander à un salarié d'arriver à l'heure",
+      "Payer une amende pour stationnement interdit",
+      "Refuser de prêter sa voiture à un voisin",
+      "Faire travailler une personne sans la payer"
+    ],
+    "answer": 3,
+    "explanation": "Respecter la dignité humaine, c'est ne jamais traiter une personne comme un objet ou un simple moyen. Le livret du citoyen cite l'exemple d'une personne qui travaille pour une entreprise sans être payée : c'est une forme d'exploitation, punie par la loi.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-017",
+    "theme": "droits",
+    "subtheme": "Dignité",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Quelle situation est une atteinte à la dignité humaine ?",
+    "choices": [
+      "Infliger à une personne des traitements humiliants",
+      "Fermer un commerce le dimanche après-midi",
+      "Contrôler les billets des voyageurs dans un train",
+      "Refuser un permis de construire non conforme au plan local"
+    ],
+    "answer": 0,
+    "explanation": "La torture, l'esclavage et les traitements inhumains ou dégradants portent atteinte à la dignité, principe à valeur constitutionnelle. Les trois autres situations sont des règles ou des contrôles légaux qui ne rabaissent pas la personne.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-018",
+    "theme": "droits",
+    "subtheme": "Dignité",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Quelle situation est une atteinte à la dignité humaine ?",
+    "choices": [
+      "Augmenter un loyer une fois par an en respectant l'indice légal",
+      "Louer un logement insalubre à une famille en difficulté",
+      "Faire un état des lieux à l'arrivée du locataire",
+      "Demander un dépôt de garantie à la signature du bail"
+    ],
+    "answer": 1,
+    "explanation": "Loger une personne vulnérable dans des conditions incompatibles avec la dignité humaine est un délit (« marchands de sommeil », art. 225-14 du Code pénal). Les trois autres pratiques sont des droits normaux du propriétaire.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-019",
+    "theme": "droits",
+    "subtheme": "Libertés",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Qu'est-ce que la liberté d'expression ?",
+    "choices": [
+      "Le droit de dire n'importe quoi, y compris des insultes",
+      "L'obligation de donner son avis lors de chaque élection",
+      "Le droit d'exprimer ses opinions dans le respect de la loi",
+      "Le droit de s'exprimer uniquement en langue française"
+    ],
+    "answer": 2,
+    "explanation": "Chacun peut exprimer ses idées et opinions, par la parole, l'écrit ou l'image (art. 10 et 11 de la DDHC). Cette liberté a des limites fixées par la loi : injure, diffamation, menaces, appel à la violence ou à la haine sont punis.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789"
+  },
+  {
+    "id": "dro-c-020",
+    "theme": "droits",
+    "subtheme": "Sûreté et justice",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Suite à une interpellation par la police, il est possible de :",
+    "choices": [
+      "Refuser de suivre les policiers",
+      "Choisir le policier qui interroge",
+      "Partir dès que l'on le souhaite",
+      "Demander l'assistance d'un avocat"
+    ],
+    "answer": 3,
+    "explanation": "Une personne interpellée puis placée en garde à vue a des droits : être assistée par un avocat (commis d'office et gratuit si elle n'en connaît pas), garder le silence, voir un médecin, faire prévenir un proche et avoir un interprète. En revanche, résister ou s'enfuir est une infraction.",
+    "source": "https://justice.gouv.fr/sites/default/files/2024-07/F1_gav_majeur_droit_commun.pdf"
+  },
+  {
+    "id": "dro-c-021",
+    "theme": "droits",
+    "subtheme": "Sûreté et justice",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Suite à une interpellation par la police, il est possible de :",
+    "choices": [
+      "Garder le silence lors des auditions",
+      "Résister physiquement à l'arrestation",
+      "Insulter les policiers sans être puni",
+      "Exiger d'être libéré immédiatement"
+    ],
+    "answer": 0,
+    "explanation": "Le droit de se taire fait partie des droits notifiés à toute personne placée en garde à vue, avec l'avocat, le médecin, l'information d'un proche et l'interprète. Se taire n'est pas une preuve de culpabilité ; en revanche, l'outrage et la rébellion sont des délits.",
+    "source": "https://justice.gouv.fr/sites/default/files/2024-07/F1_gav_majeur_droit_commun.pdf"
+  },
+  {
+    "id": "dro-c-022",
+    "theme": "droits",
+    "subtheme": "Sûreté et justice",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Suite à une interpellation par la police, il est possible de :",
+    "choices": [
+      "Détruire les preuves saisies",
+      "Être examiné par un médecin",
+      "Fixer l'heure de sa libération",
+      "Garder son téléphone sur soi"
+    ],
+    "answer": 1,
+    "explanation": "En garde à vue, la personne peut demander à être examinée par un médecin, en plus de l'avocat, du droit au silence, de l'information d'un proche et de l'interprète. Ses effets personnels, dont le téléphone, lui sont retirés pendant la mesure ; ce sont en principe les enquêteurs qui préviennent le proche désigné.",
+    "source": "https://justice.gouv.fr/sites/default/files/2024-07/F1_gav_majeur_droit_commun.pdf"
+  },
+  {
+    "id": "dro-c-023",
+    "theme": "droits",
+    "subtheme": "Liberté de conscience",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Tous les citoyens français ont-ils une religion ?",
+    "choices": [
+      "Oui, la religion catholique est obligatoire",
+      "Oui, chacun doit déclarer sa religion à la mairie de sa commune",
+      "Non, chacun est libre de croire ou de ne pas croire",
+      "Non, toute pratique religieuse est interdite"
+    ],
+    "answer": 2,
+    "explanation": "La liberté de conscience permet d'avoir une religion, d'en changer ou de n'en avoir aucune (art. 10 de la DDHC, loi de 1905). La République laïque ne reconnaît aucun culte et ne demande à personne sa religion.",
+    "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789"
+  },
+  {
+    "id": "dro-c-024",
+    "theme": "droits",
+    "subtheme": "Numérique",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "À quel âge est la majorité numérique en France ?",
+    "choices": [
+      "13 ans",
+      "15 ans",
+      "16 ans",
+      "18 ans"
+    ],
+    "answer": 1,
+    "explanation": "La loi du 7 juillet 2023 fixe la majorité numérique à 15 ans : avant cet âge, l'inscription sur un réseau social nécessite l'accord d'un parent. En août 2026, le Conseil constitutionnel a censuré l'interdiction totale des réseaux sociaux avant 15 ans, mais la réponse attendue reste 15 ans.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-025",
+    "theme": "droits",
+    "subtheme": "Santé publique",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Dans lequel de ces endroits est-on autorisé à fumer ?",
+    "choices": [
+      "Dans un bar",
+      "Sous un abribus",
+      "Dans une aire de jeux pour enfants",
+      "À son domicile"
+    ],
+    "answer": 3,
+    "explanation": "Il est interdit de fumer dans tous les lieux publics fermés (bars, restaurants, gares, bureaux) et, depuis le 1er juillet 2025, dans les parcs et jardins publics, sur les plages en saison de baignade, sous les abribus et aux abords des écoles (amende de 135 €). Chez soi, c'est autorisé (mais interdit en voiture en présence d'un mineur).",
+    "source": "https://www.info.gouv.fr/actualite/interdiction-de-fumer-de-nouveaux-lieux-concernes-cet-ete"
+  },
+  {
+    "id": "dro-c-026",
+    "theme": "droits",
+    "subtheme": "Santé publique",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Dans lequel de ces endroits est-on autorisé à fumer ?",
+    "choices": [
+      "Dans son jardin privé",
+      "Devant l'entrée d'une école",
+      "Dans un bureau partagé au travail",
+      "Dans un jardin public"
+    ],
+    "answer": 0,
+    "explanation": "Depuis le 1er juillet 2025, fumer est aussi interdit dans les parcs et jardins publics, aux abords des écoles, sous les abribus et sur les plages en saison ; c'était déjà interdit dans les lieux de travail fermés. Dans un espace privé comme son jardin, c'est autorisé ; les terrasses de café et la cigarette électronique ne sont pas visées par les nouvelles interdictions.",
+    "source": "https://www.info.gouv.fr/actualite/interdiction-de-fumer-de-nouveaux-lieux-concernes-cet-ete"
+  },
+  {
+    "id": "dro-c-027",
+    "theme": "droits",
+    "subtheme": "Code de la route",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "En France, la conduite sans permis d'une moto est :",
+    "choices": [
+      "Une simple contravention sans gravité",
+      "Un délit puni d'amende et de prison",
+      "Autorisée si l'on a une assurance",
+      "Autorisée en dehors des villes"
+    ],
+    "answer": 1,
+    "explanation": "Conduire sans permis (moto ou voiture) est un délit : jusqu'à 1 an de prison et 15 000 € d'amende, ou une amende forfaitaire délictuelle de 800 €, et le véhicule peut être confisqué. Rouler sans assurance est aussi un délit.",
+    "source": "https://www.justice.fr/fiche/controle-routier-sanctions-cas-conduite-permis"
+  },
+  {
+    "id": "dro-c-028",
+    "theme": "droits",
+    "subtheme": "Solidarité",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "En quoi consiste le devoir de solidarité ?",
+    "choices": [
+      "À ne s'occuper que de sa propre famille",
+      "À donner chaque mois de l'argent à une organisation religieuse",
+      "À s'entraider et à aider les personnes en difficulté",
+      "À voter comme la majorité de ses voisins"
+    ],
+    "answer": 2,
+    "explanation": "La solidarité découle de la fraternité : elle consiste à s'entraider et à soutenir les plus fragiles. Elle passe par des gestes personnels (porter assistance, bénévolat) et par la solidarité nationale financée par les impôts et les cotisations (Sécurité sociale, aides sociales).",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-029",
+    "theme": "droits",
+    "subtheme": "Solidarité",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "En quoi consiste le devoir de solidarité ?",
+    "choices": [
+      "À ne payer que les services que l'on utilise soi-même",
+      "À laisser chacun se débrouiller seul face aux difficultés de la vie",
+      "À réserver son aide aux membres de sa communauté",
+      "À financer par ses impôts et cotisations la protection de tous"
+    ],
+    "answer": 3,
+    "explanation": "La solidarité nationale repose sur l'idée que chacun contribue selon ses moyens et reçoit selon ses besoins : impôts et cotisations financent l'assurance maladie, les retraites, les allocations et l'aide aux plus démunis. C'est le principe de la Sécurité sociale, créée en 1945.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-030",
+    "theme": "droits",
+    "subtheme": "Mariage",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Est-ce légal d'être marié à plusieurs personnes en même temps ?",
+    "choices": [
+      "Non, la polygamie est interdite en France",
+      "Oui, si les mariages ont eu lieu à l'étranger",
+      "Oui, si toutes les épouses sont d'accord",
+      "Oui, mais seulement pour les hommes"
+    ],
+    "answer": 0,
+    "explanation": "On ne peut pas se remarier avant la dissolution du premier mariage (art. 147 du Code civil) ; la bigamie est un délit puni d'un an de prison et de 45 000 € d'amende. Pour un étranger, la polygamie empêche d'obtenir une carte de résident et fait obstacle à la nationalité française.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-031",
+    "theme": "droits",
+    "subtheme": "Impôts",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Est-ce obligatoire de déclarer ses impôts chaque année en France ?",
+    "choices": [
+      "Non, seulement l'année de son arrivée en France",
+      "Oui, tous les ans, même si l'on n'est pas imposable",
+      "Non, seulement si l'on est propriétaire d'un logement",
+      "Non, une déclaration tous les cinq ans suffit"
+    ],
+    "answer": 1,
+    "explanation": "Chaque foyer fiscal résidant en France doit déclarer chaque année l'intégralité de ses revenus, même faibles ou non imposables : c'est la « contribution commune » de l'article 13 de la DDHC. L'avis de non-imposition sert de justificatif pour de nombreuses aides, et une fausse déclaration est sanctionnée.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F358"
+  },
+  {
+    "id": "dro-c-032",
+    "theme": "droits",
+    "subtheme": "Entraide",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Est-il obligatoire de porter secours à une personne en danger ?",
+    "choices": [
+      "Non, c'est seulement conseillé par la morale",
+      "Non, cette obligation ne concerne que les médecins",
+      "Oui, si on peut le faire sans danger pour soi ou pour autrui",
+      "Oui, même si l'on doit pour cela mettre sa propre vie en danger"
+    ],
+    "answer": 2,
+    "explanation": "La non-assistance à personne en danger est un délit puni de 5 ans de prison et de 75 000 € d'amende (art. 223-6 du Code pénal). On doit agir sans se mettre en péril : au minimum, alerter les secours (15, 17, 18 ou 112).",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-033",
+    "theme": "droits",
+    "subtheme": "Jury d'assises",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Être juré d'assises est :",
+    "choices": [
+      "Une fonction réservée aux élus",
+      "Une activité bénévole facultative",
+      "Un métier réservé aux avocats",
+      "Un devoir civique obligatoire"
+    ],
+    "answer": 3,
+    "explanation": "Le juré est un citoyen tiré au sort sur les listes électorales pour juger des crimes aux côtés de magistrats professionnels. Répondre à la convocation est obligatoire : une absence sans motif légitime peut être punie d'une amende de 3 750 €.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1044"
+  },
+  {
+    "id": "dro-c-034",
+    "theme": "droits",
+    "subtheme": "Santé publique",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "La vente d'alcool en France est interdite aux personnes de moins de :",
+    "choices": [
+      "14 ans",
+      "16 ans",
+      "18 ans",
+      "21 ans"
+    ],
+    "answer": 2,
+    "explanation": "Depuis la loi du 21 juillet 2009, il est interdit de vendre de l'alcool aux mineurs, c'est-à-dire aux moins de 18 ans ; le vendeur peut demander une pièce d'identité. La même interdiction vaut pour le tabac et les produits du vapotage.",
+    "source": "https://www.drogues.gouv.fr/sites/default/files/2025-03/lessentiel_interdictions_vente_aux_mineurs.pdf"
+  },
+  {
+    "id": "dro-c-035",
+    "theme": "droits",
+    "subtheme": "Code de la route",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Le non-respect du code de la route est :",
+    "choices": [
+      "Une infraction sanctionnée par la loi",
+      "Sans conséquence si personne n'est blessé",
+      "Toléré la nuit, quand les routes sont vides",
+      "Puni seulement pour les conducteurs étrangers"
+    ],
+    "answer": 0,
+    "explanation": "Les règles du code de la route s'imposent à tous. Selon la gravité, l'infraction est une contravention (amende, retrait de points : petit excès de vitesse, téléphone au volant) ou un délit avec prison possible (conduite sans permis, alcool au-delà de 0,8 g/l, très grand excès de vitesse).",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-036",
+    "theme": "droits",
+    "subtheme": "Droits civiques",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Lequel de ces crimes ou délits peut entrainer la privation des droits civils et politiques par un juge ?",
+    "choices": [
+      "Participer à une manifestation déclarée",
+      "Frauder lors d'une élection",
+      "Critiquer publiquement le gouvernement",
+      "Faire grève pour son salaire"
+    ],
+    "answer": 1,
+    "explanation": "La fraude électorale (vote multiple, achat de voix, falsification du scrutin) est un délit pour lequel le juge peut retirer le droit de vote et l'éligibilité (Code électoral, art. L117 ; Code pénal, art. 131-26). Manifester, critiquer le pouvoir ou faire grève sont des libertés, pas des infractions.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-037",
+    "theme": "droits",
+    "subtheme": "Droits civiques",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Lequel de ces crimes ou délits peut entrainer la privation des droits civils et politiques par un juge ?",
+    "choices": [
+      "Un stationnement gênant",
+      "Le tapage nocturne",
+      "La fraude fiscale",
+      "Un excès de vitesse de 10 km/h"
+    ],
+    "answer": 2,
+    "explanation": "La fraude fiscale est un délit : le juge peut y ajouter la privation des droits civiques, civils et de famille (Code général des impôts, art. 1741). Cette peine est réservée aux crimes et délits ; les trois autres faits sont de simples contraventions, punies d'une amende.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-038",
+    "theme": "droits",
+    "subtheme": "Citoyenneté",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Pour obtenir une carte d'identité, il faut :",
+    "choices": [
+      "Avoir au moins 18 ans",
+      "Être inscrit sur les listes électorales",
+      "Avoir un emploi en France",
+      "Être de nationalité française"
+    ],
+    "answer": 3,
+    "explanation": "La carte nationale d'identité est délivrée uniquement aux Français, majeurs comme mineurs ; elle est gratuite (timbre de 25 € en cas de perte ou de vol). Un étranger justifie de son identité et de son séjour avec son passeport et son titre de séjour.",
+    "source": "https://www.justice.fr/fiche/carte-identite-majeur-premiere-demande"
+  },
+  {
+    "id": "dro-c-039",
+    "theme": "droits",
+    "subtheme": "Citoyenneté",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Pour obtenir une carte d'identité, il faut :",
+    "choices": [
+      "Déposer sa demande dans une mairie équipée",
+      "Écrire directement au préfet de région",
+      "S'adresser au commissariat de police",
+      "Passer par le consulat de son pays d'origine"
+    ],
+    "answer": 0,
+    "explanation": "Après une éventuelle pré-demande en ligne (ANTS), on se présente en personne dans une mairie équipée d'un dispositif de recueil des empreintes, pas forcément celle de son domicile. La carte, réservée aux Français, est ensuite retirée en mairie.",
+    "source": "https://www.justice.fr/fiche/carte-identite-majeur-premiere-demande"
+  },
+  {
+    "id": "dro-c-040",
+    "theme": "droits",
+    "subtheme": "Limites des libertés",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Pour quel motif peut-on limiter la liberté d'expression ?",
+    "choices": [
+      "Pour interdire toute critique du gouvernement",
+      "Pour empêcher l'incitation à la haine ou à la violence",
+      "Pour protéger une religion contre le blasphème et la moquerie",
+      "Pour empêcher les journalistes d'enquêter"
+    ],
+    "answer": 1,
+    "explanation": "La loi peut limiter la liberté d'expression pour protéger l'ordre public et les droits d'autrui : appels à la haine ou à la violence, injures, diffamation, menaces, apologie du terrorisme ou négationnisme sont punis. En revanche, critiquer le pouvoir ou une religion est permis : le blasphème n'est pas un délit en France.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-041",
+    "theme": "droits",
+    "subtheme": "Limites des libertés",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Pour quel motif peut-on limiter la liberté d'expression ?",
+    "choices": [
+      "Pour interdire les caricatures religieuses",
+      "Pour imposer les opinions du gouvernement",
+      "Pour sanctionner la diffamation et l'injure",
+      "Pour interdire de parler une langue étrangère"
+    ],
+    "answer": 2,
+    "explanation": "Imputer à quelqu'un un fait qui porte atteinte à son honneur (diffamation) ou l'insulter (injure) est puni par la loi du 29 juillet 1881 sur la liberté de la presse. Les caricatures, y compris des religions, sont protégées par la liberté d'expression.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-042",
+    "theme": "droits",
+    "subtheme": "Jury d'assises",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Que doit faire un citoyen s'il est appelé à être juré dans un procès d'assises ?",
+    "choices": [
+      "Envoyer un membre de sa famille à sa place",
+      "Payer une taxe pour en être dispensé",
+      "Ignorer la convocation s'il a trop de travail",
+      "Se présenter, car c'est une obligation légale"
+    ],
+    "answer": 3,
+    "explanation": "Le juré tiré au sort doit se rendre à la cour d'assises ; seul un motif grave reconnu (santé, plus de 70 ans…) permet d'être dispensé. L'employeur doit le laisser partir, et une absence sans motif légitime peut coûter jusqu'à 3 750 € d'amende.",
+    "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1044"
+  },
+  {
+    "id": "dro-c-043",
+    "theme": "droits",
+    "subtheme": "Âges légaux",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "droits-fondamentaux",
+    "question": "Quel est l'âge de la majorité civile en France ?",
+    "choices": [
+      "16 ans",
+      "18 ans",
+      "20 ans",
+      "21 ans"
+    ],
+    "answer": 1,
+    "explanation": "Depuis la loi du 5 juillet 1974, la majorité est fixée à 18 ans (art. 414 du Code civil) : on peut alors voter, se marier et signer seul un contrat. Ne pas confondre avec le permis B, possible dès 17 ans, ni avec la majorité numérique, fixée à 15 ans.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-044",
+    "theme": "droits",
+    "subtheme": "Devoirs du citoyen",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Quel est l'un des devoirs principaux d'un citoyen français ?",
+    "choices": [
+      "Respecter les lois",
+      "Adhérer à un parti politique",
+      "Pratiquer une religion",
+      "Posséder un logement"
+    ],
+    "answer": 0,
+    "explanation": "Respecter les lois est le premier devoir du citoyen, et de toute personne vivant en France. Autres devoirs : payer ses impôts, participer à la défense (recensement à 16 ans, JDC), répondre à une convocation de juré, scolariser ses enfants ; voter est un devoir civique, mais pas une obligation.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-045",
+    "theme": "droits",
+    "subtheme": "Devoirs du citoyen",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Quel est l'un des devoirs principaux d'un citoyen français ?",
+    "choices": [
+      "S'abonner à un journal national",
+      "Participer à la défense du pays",
+      "Être membre d'un syndicat",
+      "Vivre dans sa ville de naissance"
+    ],
+    "answer": 1,
+    "explanation": "Défendre la patrie est un devoir du citoyen : les jeunes Français doivent se faire recenser à 16 ans et participer à la JDC, rebaptisée « journée de mobilisation » en 2026. Le service militaire n'est plus obligatoire depuis 1997, mais il existe un service militaire volontaire et des réserves.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-046",
+    "theme": "droits",
+    "subtheme": "Infractions",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Quelle est l'infraction la plus grave ?",
+    "choices": [
+      "La contravention",
+      "Le délit",
+      "Le crime",
+      "L'incivilité"
+    ],
+    "answer": 2,
+    "explanation": "Il existe trois catégories d'infractions, de la moins grave à la plus grave : la contravention (tribunal de police, amende), le délit (tribunal correctionnel, jusqu'à 10 ans de prison) et le crime (cour d'assises ou cour criminelle, jusqu'à la perpétuité). Moyen mnémotechnique : « C-D-C », Contravention, Délit, Crime, par gravité croissante.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-047",
+    "theme": "droits",
+    "subtheme": "Infractions",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Quelle est l'infraction la plus grave ?",
+    "choices": [
+      "Un vol à l'étalage",
+      "Un excès de vitesse",
+      "Un tapage nocturne",
+      "Un meurtre"
+    ],
+    "answer": 3,
+    "explanation": "Le meurtre (homicide volontaire) est un crime, la catégorie d'infraction la plus grave : il est jugé par la cour d'assises et puni de 30 ans de réclusion (perpétuité en cas d'assassinat). Le vol est un délit ; l'excès de vitesse et le tapage nocturne sont en général des contraventions.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-048",
+    "theme": "droits",
+    "subtheme": "Numérique",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Qu'est-ce que la citoyenneté numérique ?",
+    "choices": [
+      "Utiliser Internet de façon responsable, sûre et respectueuse",
+      "Voter aux élections uniquement par Internet",
+      "Obtenir la nationalité française en ligne",
+      "Publier tout ce que l'on veut sous un pseudonyme, sans aucune limite"
+    ],
+    "answer": 0,
+    "explanation": "C'est utiliser le numérique (Internet, réseaux sociaux) de manière responsable : protéger ses données, vérifier l'information, respecter les autres et la loi. Les règles s'appliquent aussi en ligne : le cyberharcèlement et les contenus haineux sont punis (numéro d'aide : 3018).",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-049",
+    "theme": "droits",
+    "subtheme": "Mémoire",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Qu'est-ce que le devoir de mémoire ?",
+    "choices": [
+      "Apprendre par cœur le texte de la Constitution",
+      "Se souvenir des drames du passé et honorer leurs victimes",
+      "Conserver tous ses papiers administratifs à vie",
+      "Oublier les guerres du passé pour pouvoir mieux se réconcilier"
+    ],
+    "answer": 1,
+    "explanation": "Le devoir de mémoire consiste à transmettre le souvenir des événements tragiques (guerres mondiales, Shoah, esclavage…) et à honorer leurs victimes et leurs héros, pour que cela ne se reproduise pas. Il se manifeste par les commémorations (8 mai, 11 novembre, 27 janvier…) et par l'enseignement de l'histoire.",
+    "source": "https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/journees-nationales-commemoratives"
+  },
+  {
+    "id": "dro-c-050",
+    "theme": "droits",
+    "subtheme": "Droits civiques",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Une personne est privée de ses droits civils et politiques pendant 5 ans suite à une condamnation. Parmi ces propositions laquelle est correcte ? Pendant 5 ans,...",
+    "choices": [
+      "elle perd la nationalité française",
+      "elle n'a plus le droit de se marier",
+      "elle ne peut pas voter",
+      "elle est dispensée de payer ses impôts"
+    ],
+    "answer": 2,
+    "explanation": "La privation des droits civiques, civils et de famille (art. 131-26 du Code pénal) retire notamment le droit de vote, l'éligibilité et le droit d'être juré ou tuteur, pour 5 ans au plus en cas de délit (10 ans pour un crime). La personne reste française, peut se marier et doit continuer à respecter la loi et à payer ses impôts.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-051",
+    "theme": "droits",
+    "subtheme": "Droits civiques",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Une personne est privée de ses droits civils et politiques pendant 5 ans suite à une condamnation. Parmi ces propositions laquelle est correcte ? Pendant 5 ans,...",
+    "choices": [
+      "elle doit quitter le territoire français",
+      "elle ne peut plus ouvrir de compte bancaire à son nom",
+      "elle perd ses droits à l'Assurance maladie",
+      "elle ne peut pas être candidate à une élection"
+    ],
+    "answer": 3,
+    "explanation": "Pendant la durée de la privation, la personne est inéligible : elle ne peut pas se présenter à une élection, ni voter, ni être jurée d'assises. Elle garde ses autres droits (nationalité, compte bancaire, protection sociale) et retrouve ses droits civiques à la fin de la période.",
+    "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
+  },
+  {
+    "id": "dro-c-052",
+    "theme": "droits",
+    "subtheme": "Jury d'assises",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Qui peut être appelé à faire partie d'un jury d'assises en France ?",
+    "choices": [
+      "Un citoyen français d'au moins 23 ans, tiré au sort",
+      "Uniquement un magistrat professionnel",
+      "Tout étranger résidant en France depuis 5 ans",
+      "Un volontaire de plus de 16 ans inscrit à la mairie de sa commune"
+    ],
+    "answer": 0,
+    "explanation": "Les jurés sont des citoyens français d'au moins 23 ans, sachant lire et écrire le français, tirés au sort à partir des listes électorales (art. 255 du Code de procédure pénale). Ils jugent les crimes avec trois magistrats professionnels ; les étrangers, même résidents, ne peuvent pas être jurés.",
+    "source": "https://www.justice.fr/fiche/jure-assises"
+  },
+  {
+    "id": "dro-c-053",
+    "theme": "droits",
+    "subtheme": "Jury d'assises",
+    "type": "connaissance",
+    "origin": "officielle",
+    "notion": "obligations",
+    "question": "Qui peut être appelé à faire partie d'un jury d'assises en France ?",
+    "choices": [
+      "Un avocat désigné par le tribunal",
+      "Un électeur français tiré au sort",
+      "Un conseiller municipal choisi par le maire",
+      "Un policier en service dans la ville"
+    ],
+    "answer": 1,
+    "explanation": "Le jury populaire est composé de citoyens tirés au sort à partir des listes électorales : il faut être Français, avoir au moins 23 ans et savoir lire et écrire le français. Personne n'est « choisi » ni « désigné », c'est le hasard qui décide ; certaines professions, comme les policiers et les magistrats, ne peuvent pas être jurés.",
+    "source": "https://www.justice.fr/fiche/jure-assises"
+  }
+]
