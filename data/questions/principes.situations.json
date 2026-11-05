@@ -9,11 +9,11 @@
     "choices": [
       "Lui demander d'enlever son foulard avant de la recevoir",
       "La recevoir normalement, comme tout autre usager",
-      "Lui demander de revenir sans signe religieux",
+      "La recevoir en lui rappelant que la neutralité s'impose aussi aux usagers",
       "La faire passer après les autres usagers"
     ],
     "answer": 1,
-    "explanation": "La neutralité religieuse s'impose aux agents du service public, pas aux usagers : Leïla peut garder son foulard. Seule exception ponctuelle : découvrir son visage le temps d'une vérification d'identité. Retenir : l'agent est neutre, l'usager est libre.",
+    "explanation": "La neutralité religieuse s'impose aux agents du service public, pas aux usagers : Leïla peut garder son foulard au guichet. Seules limites ponctuelles : garder le visage découvert et se prêter, si besoin, à une vérification d'identité. Retenir : l'agent est neutre, l'usager est libre.",
     "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/la-laicite-dans-les-services-publics/"
   },
   {
@@ -247,7 +247,7 @@
     "choices": [
       "Elle doit accepter si cette religion est majoritaire",
       "Elle doit financer tous les cultes de la même façon",
-      "Elle peut accepter si le maire partage cette religion",
+      "Elle peut accepter si le conseil municipal vote pour",
       "Elle ne peut pas financer cette construction"
     ],
     "answer": 3,
@@ -319,7 +319,7 @@
       "Oui, et les passants sont obligés de les écouter"
     ],
     "answer": 2,
-    "explanation": "Faire connaître sa religion dans la rue est permis, sans contrainte et sans trouble à l'ordre public (livret du citoyen). Le prosélytisme est en revanche interdit dans les services publics. Et la République ne « reconnaît » aucun culte (loi de 1905).",
+    "explanation": "Manifester sa religion dans la rue, par exemple en distribuant des tracts, est permis, sans contrainte et sans trouble à l'ordre public (DDHC, art. 10). Le prosélytisme est en revanche interdit dans les services publics. Et la République ne « reconnaît » aucun culte (loi de 1905).",
     "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/laicite/le-proselytisme/"
   },
   {
@@ -552,7 +552,7 @@
     "question": "Le mari d'Ana lui a confisqué son passeport et son titre de séjour, contrôle tout son argent et l'empêche de voir ses amies. Ana a peur. Que peut-elle faire ?",
     "choices": [
       "Attendre, car c'est une affaire de couple",
-      "Demander l'avis de la famille de son mari",
+      "Porter plainte seulement si elle reçoit des coups",
       "Accepter, car le mari est le chef de famille",
       "Appeler le 3919 et porter plainte"
     ],
@@ -571,7 +571,7 @@
       "Ne rien faire, car c'est leur vie privée",
       "Appeler immédiatement le 17 (police)",
       "Attendre le lendemain pour en parler au couple",
-      "Monter frapper le compagnon"
+      "Appeler le 3919 (Violences Femmes Info)"
     ],
     "answer": 1,
     "explanation": "Face à des violences en cours, il faut appeler le 17 ou le 112 (ou envoyer un SMS au 114). Ne pas agir alors qu'on peut le faire sans danger peut être puni comme non-assistance à personne en danger. Le 3919 est un numéro d'écoute, pas un numéro d'urgence.",
@@ -600,15 +600,15 @@
     "subtheme": "Polygamie",
     "type": "situation",
     "origin": "complement",
-    "question": "Alain, déjà marié en France, veut épouser une deuxième femme lors d'un voyage à l'étranger, puis vivre en France avec ses deux épouses. Que dit la loi française ?",
+    "question": "Alain, Français déjà marié en France, veut épouser une deuxième femme lors d'un voyage à l'étranger, puis vivre en France avec ses deux épouses. Que dit la loi française ?",
     "choices": [
-      "C'est interdit : la polygamie est un délit",
+      "C'est interdit : la loi française interdit la polygamie",
       "C'est permis si la loi du pays l'autorise",
       "C'est permis si sa première épouse est d'accord",
       "C'est permis si le second mariage est religieux"
     ],
     "answer": 0,
-    "explanation": "On ne peut pas se marier une seconde fois avant la dissolution du premier mariage (Code civil, art. 147) ; la bigamie est punie d'un an de prison et de 45 000 € d'amende (Code pénal, art. 433-20). La polygamie fait aussi obstacle à l'acquisition de la nationalité française.",
+    "explanation": "Un Français ne peut pas contracter un second mariage avant la dissolution du premier, même à l'étranger (Code civil, art. 147) : ce second mariage n'aurait aucune valeur en France. La bigamie est un délit puni d'un an de prison et de 45 000 € d'amende (Code pénal, art. 433-20), et la polygamie fait obstacle à l'acquisition de la nationalité française.",
     "source": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
   },
   {
@@ -626,7 +626,7 @@
     ],
     "answer": 3,
     "explanation": "Selon le Code civil (art. 735), les enfants héritent de leurs parents « sans distinction de sexe, ni de primogéniture » : filles et garçons reçoivent la même part. Une coutume ne peut pas l'emporter sur la loi.",
-    "source": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430956"
+    "source": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721"
   },
   {
     "id": "pri-s-038",
@@ -655,7 +655,7 @@
     "choices": [
       "Alerter les autorités, par exemple au 119",
       "Se taire, car cela se passe à l'étranger",
-      "En parler seulement après les vacances",
+      "En parler seulement aux parents, sans alerter personne",
       "Laisser faire, car c'est une tradition"
     ],
     "answer": 0,
@@ -676,7 +676,7 @@
       "Une simple question d'organisation interne"
     ],
     "answer": 2,
-    "explanation": "Les femmes et les hommes ont les mêmes droits, y compris pour diriger (Constitution, art. 1er). Refuser l'autorité d'une supérieure en raison de son sexe est un agissement sexiste interdit par le Code du travail (art. L1142-2-1), que l'employeur peut sanctionner.",
+    "explanation": "La loi garantit à la femme, dans tous les domaines, des droits égaux à ceux de l'homme (Préambule de 1946), y compris pour diriger. Refuser l'autorité d'une supérieure en raison de son sexe est un comportement sexiste : il peut constituer un agissement sexiste interdit par le Code du travail (art. L1142-2-1) et une faute que l'employeur peut sanctionner.",
     "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/devise-et-symboles-de-la-republique/egalite-3/"
   },
   {
@@ -727,7 +727,7 @@
       "Rien, ce refus est légal pour les mineurs"
     ],
     "answer": 0,
-    "explanation": "Refuser une activité à une personne en raison de son sexe est une discrimination interdite par la loi (Code pénal, art. 225-1 et 225-2). Les parents peuvent contester auprès du club et saisir le Défenseur des droits (3928).",
+    "explanation": "Refuser une activité à une enfant au seul motif qu'elle est une fille est une discrimination fondée sur le sexe : l'égal accès des femmes et des hommes aux activités sportives est d'intérêt général (Code du sport, art. L100-1). Les parents peuvent contester auprès du club et saisir le Défenseur des droits (3928).",
     "source": "https://www.defenseurdesdroits.fr"
   },
   {
@@ -738,7 +738,7 @@
     "origin": "complement",
     "question": "Dans le bus, un homme fait des remarques sexuelles à une jeune femme et la suit malgré ses refus. Quelle réaction est correcte pour un témoin ?",
     "choices": [
-      "Rire avec lui pour éviter les ennuis",
+      "Filmer la scène et la publier sur les réseaux sociaux",
       "Ne rien faire, la victime n'a qu'à changer de place",
       "Soutenir la victime et appeler le 3117 ou le 17",
       "Frapper l'homme pour le faire partir"
@@ -892,12 +892,12 @@
     "question": "Au travail, un collègue de Nathan fait régulièrement des « blagues » racistes et antisémites devant toute l'équipe. Nathan est choqué. Que doit-il faire ?",
     "choices": [
       "Rire avec les autres pour rester bien vu",
-      "Ne rien dire, car c'est de l'humour",
+      "Ne rien dire, car il n'est pas lui-même visé",
       "Répondre par des insultes du même genre",
       "Alerter sa hiérarchie, qui doit agir"
     ],
     "answer": 3,
-    "explanation": "Les propos racistes ou antisémites ne sont pas un humour protégé : ils peuvent constituer une injure ou une provocation à la haine punies par la loi du 29 juillet 1881. Nathan alerte sa hiérarchie ou les représentants du personnel ; l'employeur doit agir, et les victimes peuvent porter plainte.",
+    "explanation": "Les propos racistes ou antisémites ne sont pas un humour protégé : ce sont des injures punies par la loi, même lorsqu'elles ne sont pas publiques (Code pénal ; loi du 29 juillet 1881). Nathan alerte sa hiérarchie ou les représentants du personnel ; l'employeur doit agir, et les victimes peuvent porter plainte.",
     "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/devise-et-symboles-de-la-republique/egalite-3/"
   },
   {
@@ -910,7 +910,7 @@
     "choices": [
       "Ignorer, car ce n'est qu'un dessin",
       "Prévenir la police ou la gendarmerie",
-      "Partager une photo du tag pour s'amuser",
+      "Effacer elle-même le tag sans prévenir personne",
       "Taguer une insulte en réponse"
     ],
     "answer": 1,
@@ -982,7 +982,7 @@
       "Un simple avertissement aux autres habitants"
     ],
     "answer": 0,
-    "explanation": "Accuser quelqu'un d'un fait précis qui porte atteinte à son honneur, comme un vol, est une diffamation punie par la loi du 29 juillet 1881. Le voisin peut demander le retrait du message et porter plainte.",
+    "explanation": "Accuser quelqu'un d'un fait précis qui porte atteinte à son honneur, comme un vol, est une diffamation (loi du 29 juillet 1881). Elle est punie même dans un groupe privé (diffamation non publique, moins lourdement sanctionnée). Le voisin peut demander le retrait du message et porter plainte.",
     "source": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070722"
   },
   {
@@ -1033,7 +1033,7 @@
       "C'est puni : on ne peut pas outrager le drapeau"
     ],
     "answer": 3,
-    "explanation": "Détruire ou dégrader publiquement le drapeau tricolore pour l'outrager est puni d'une amende (Code pénal, art. R645-15), même si le drapeau vous appartient. On peut exprimer son désaccord autrement : manifester pacifiquement, écrire, voter.",
+    "explanation": "Détruire, dégrader ou utiliser de manière dégradante le drapeau tricolore dans un lieu public, pour l'outrager et dans des conditions de nature à troubler l'ordre public, est puni d'une amende pouvant aller jusqu'à 1 500 € (Code pénal, art. R645-15), même si le drapeau vous appartient. On peut exprimer son désaccord autrement : manifester pacifiquement, écrire, voter.",
     "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/les-symboles-de-la-republique/le-drapeau-fran%C3%A7ais/"
   },
   {
@@ -1084,7 +1084,7 @@
       "Il faut au moins dix membres français"
     ],
     "answer": 1,
-    "explanation": "La liberté d'association est garantie par la loi du 1er juillet 1901 : deux personnes suffisent, sans autorisation ni condition de nationalité. Une simple déclaration en préfecture donne à l'association une existence juridique (compte bancaire, subventions).",
+    "explanation": "La liberté d'association est garantie par la loi du 1er juillet 1901 : deux personnes suffisent, sans autorisation ni condition de nationalité. Une déclaration en préfecture, puis sa publication au Journal officiel, donne à l'association la personnalité juridique (compte bancaire, subventions).",
     "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/principes-et-valeurs-de-la-republique/devise-et-symboles-de-la-republique/fraternite-2/"
   },
   {

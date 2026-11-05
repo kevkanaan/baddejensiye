@@ -32,7 +32,7 @@
       "Les lois Jules Ferry"
     ],
     "answer": 0,
-    "explanation": "Napoléon Ier est à l'origine du Code civil (1804), mais aussi des préfets et de la Banque de France. L'édit de Nantes date d'Henri IV (1598), les lois Ferry de 1881-1882 et la loi Veil de 1975.",
+    "explanation": "Le Code civil (dit « Code Napoléon ») est promulgué en mars 1804 par Bonaparte, qui devient l'empereur Napoléon Ier en mai 1804. Préfets et Banque de France datent aussi de son époque (1800, sous le Consulat). L'édit de Nantes date d'Henri IV (1598), les lois Ferry de 1881-1882 et la loi Veil de 1975.",
     "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
   },
   {
@@ -134,13 +134,13 @@
     "origin": "officielle",
     "question": "Lequel de ces pays est un pays fondateur de l'Union Européenne ?",
     "choices": [
-      "L'Espagne",
-      "Le Royaume-Uni",
+      "La Suède",
+      "La Norvège",
       "La Pologne",
       "L'Italie"
     ],
     "answer": 3,
-    "explanation": "Les 6 pays fondateurs (CECA en 1951, CEE en 1957) sont la France, l'Allemagne, l'Italie, la Belgique, les Pays-Bas et le Luxembourg. Astuce : « les 3 grands + le Benelux ». L'Espagne est entrée en 1986, la Pologne en 2004, et le Royaume-Uni (entré en 1973) est sorti en 2020.",
+    "explanation": "Les 6 pays fondateurs (CECA en 1951, CEE en 1957) sont la France, l'Allemagne, l'Italie, la Belgique, les Pays-Bas et le Luxembourg. Astuce : « les 3 grands + le Benelux ». On parle de « pays fondateurs » pour ces 6 pays, même si le traité de Maastricht (1992), qui crée l'Union européenne, a été signé par les 12 membres de l'époque. La Suède est entrée en 1995, la Pologne en 2004, et la Norvège n'est pas membre de l'Union européenne (refus par référendum en 1972 et 1994).",
     "source": "https://european-union.europa.eu/principles-countries-history/history-eu_fr"
   },
   {
@@ -152,13 +152,13 @@
     "origin": "officielle",
     "question": "Lequel de ces pays est un pays fondateur de l'Union Européenne ?",
     "choices": [
-      "Le Portugal",
+      "La Finlande",
       "Le Luxembourg",
       "L'Autriche",
-      "Le Danemark"
+      "La Croatie"
     ],
     "answer": 1,
-    "explanation": "Le Luxembourg fait partie des 6 fondateurs avec la France, l'Allemagne, l'Italie, la Belgique et les Pays-Bas. Le Danemark est entré en 1973, le Portugal en 1986 et l'Autriche en 1995.",
+    "explanation": "Le Luxembourg fait partie des 6 fondateurs avec la France, l'Allemagne, l'Italie, la Belgique et les Pays-Bas. La Finlande et l'Autriche sont entrées en 1995, la Croatie en 2013.",
     "source": "https://european-union.europa.eu/principles-countries-history/history-eu_fr"
   },
   {
@@ -172,11 +172,11 @@
     "choices": [
       "Les Pays-Bas",
       "La Suisse",
-      "La Grèce",
-      "L'Irlande"
+      "La Roumanie",
+      "La Hongrie"
     ],
     "answer": 0,
-    "explanation": "Les Pays-Bas sont l'un des 6 pays fondateurs : avec la Belgique et le Luxembourg, ils forment le Benelux. L'Irlande est entrée en 1973, la Grèce en 1981, et la Suisse n'est pas membre de l'Union européenne.",
+    "explanation": "Les Pays-Bas sont l'un des 6 pays fondateurs : avec la Belgique et le Luxembourg, ils forment le Benelux. La Hongrie est entrée en 2004, la Roumanie en 2007, et la Suisse n'est pas membre de l'Union européenne.",
     "source": "https://european-union.europa.eu/principles-countries-history/history-eu_fr"
   },
   {
@@ -392,7 +392,7 @@
       "La Corée du Sud"
     ],
     "answer": 2,
-    "explanation": "Madagascar a été une colonie française de 1896 à son indépendance en 1960. Le Ghana était britannique, le Mozambique portugais, et la Corée a été occupée par le Japon. L'empire colonial français comprenait aussi l'Afrique de l'Ouest et équatoriale, le Maghreb et l'Indochine.",
+    "explanation": "Madagascar a été une colonie française de 1896 à son indépendance en 1960. Le Ghana était britannique, le Mozambique portugais, et la Corée a été annexée par le Japon (1910-1945). L'empire colonial français comprenait aussi l'Afrique de l'Ouest et équatoriale, le Maghreb et l'Indochine.",
     "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
   },
   {
@@ -428,7 +428,7 @@
       "2002"
     ],
     "answer": 0,
-    "explanation": "L'Union européenne est créée par le traité de Maastricht, signé le 7 février 1992 (entré en vigueur le 1er novembre 1993). Elle prolonge la CECA (1951) et la CEE (traité de Rome, 1957) ; 2002 est l'année des pièces et billets en euros.",
+    "explanation": "L'Union européenne est créée par le traité de Maastricht, signé le 7 février 1992 et entré en vigueur le 1er novembre 1993 (si 1993 est proposé sans 1992, c'est cette date qu'il faut choisir). Elle prolonge la CECA (1951) et la CEE (traité de Rome, 1957) ; 2002 est l'année des pièces et billets en euros.",
     "source": "https://european-union.europa.eu/principles-countries-history/history-eu_fr"
   },
   {
@@ -698,7 +698,7 @@
       "2010"
     ],
     "answer": 2,
-    "explanation": "Les pièces et billets en euros circulent en France depuis le 1er janvier 2002 (le franc disparaît en février 2002) : c'est la date retenue par le livret du citoyen. L'euro existait déjà depuis le 1er janvier 1999, mais seulement pour les banques et les marchés : si 1999 et 2002 sont proposés, choisir 2002. L'euro est aujourd'hui la monnaie de 21 pays de l'UE.",
+    "explanation": "Les pièces et billets en euros circulent en France depuis le 1er janvier 2002 (le franc disparaît en février 2002) : c'est la date à retenir. L'euro existait déjà depuis le 1er janvier 1999, mais seulement pour les banques et les marchés : si 1999 et 2002 sont proposés, choisir 2002. L'euro est aujourd'hui la monnaie de 21 pays de l'UE.",
     "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
   },
   {

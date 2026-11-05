@@ -166,7 +166,7 @@
       "Elle doit accepter pour garder son emploi"
     ],
     "answer": 1,
-    "explanation": "Les propos sexuels répétés et toute pression pour obtenir un acte sexuel constituent un harcèlement sexuel, délit puni de 2 ans de prison et 30 000 € d'amende (art. 222-33 du Code pénal). L'employeur doit protéger la salariée ; elle peut alerter l'inspection du travail, le Défenseur des droits et porter plainte.",
+    "explanation": "Les propos sexuels répétés, ainsi que toute pression grave, même unique, pour obtenir un acte sexuel, constituent un harcèlement sexuel (art. 222-33 du Code pénal) : 2 ans de prison et 30 000 € d'amende, portés à 3 ans et 45 000 € quand l'auteur abuse de l'autorité de ses fonctions, comme un supérieur. L'employeur doit protéger la salariée ; elle peut alerter l'inspection du travail, le Défenseur des droits et porter plainte.",
     "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1043"
   },
   {
@@ -200,7 +200,7 @@
       "Fermer ses comptes et ne plus en parler à personne"
     ],
     "answer": 1,
-    "explanation": "Diffuser sans accord une image à caractère sexuel est un délit, même si la personne avait accepté la photo (art. 226-2-1 du Code pénal : 2 ans de prison et 60 000 € d'amende). La victime peut porter plainte et signaler le contenu sur PHAROS (internet-signalement.gouv.fr) pour obtenir son retrait.",
+    "explanation": "Diffuser sans accord une image à caractère sexuel est un délit, même si la personne avait accepté la photo (art. 226-2-1 du Code pénal : 2 ans de prison et 60 000 € d'amende). La victime peut porter plainte, signaler le contenu à la plateforme et sur PHAROS (internet-signalement.gouv.fr), et appeler le 3018, qui aide à le faire retirer.",
     "source": "https://www.internet-signalement.gouv.fr/"
   },
   {
@@ -214,7 +214,7 @@
       "Rien, car la liberté d'expression permet de tout dire",
       "Signaler ces messages sur la plateforme PHAROS",
       "Retrouver l'adresse de l'auteur et la publier",
-      "Lui répondre par des menaces de mort"
+      "Rien, seules les personnes visées peuvent agir"
     ],
     "answer": 1,
     "explanation": "La liberté d'expression a des limites : provoquer à la haine ou à la violence en raison de l'origine ou de la religion est un délit (loi du 29 juillet 1881). Tout internaute peut signaler ces contenus sur PHAROS (internet-signalement.gouv.fr) ; les victimes peuvent porter plainte.",
@@ -268,7 +268,7 @@
       "Refuser par courrier en expliquant qu'il est occupé"
     ],
     "answer": 2,
-    "explanation": "Un citoyen tiré au sort comme juré doit siéger : seul un motif grave (par exemple de santé) permet une dispense, et il est impossible de se faire remplacer par un proche. Ne pas se présenter est puni d'une amende pouvant aller jusqu'à 3 750 €.",
+    "explanation": "Un citoyen tiré au sort comme juré doit siéger : seules certaines situations (plus de 70 ans, résidence hors du département) ou un motif grave reconnu, comme un problème de santé, permettent une dispense, et il est impossible de se faire remplacer par un proche. Ne pas se présenter sans motif légitime est puni d'une amende pouvant aller jusqu'à 3 750 € (art. 288 du Code de procédure pénale).",
     "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1044"
   },
   {
@@ -285,7 +285,7 @@
       "Non, mais elle doit d'abord trouver une remplaçante"
     ],
     "answer": 2,
-    "explanation": "L'employeur doit libérer le salarié convoqué comme juré ; s'y opposer peut constituer une entrave à la justice. Le salarié ne peut être ni sanctionné ni licencié pour cette absence, et l'État peut l'indemniser s'il perd son salaire.",
+    "explanation": "L'employeur est tenu de laisser partir le salarié convoqué comme juré. Le Code du travail interdit de le sanctionner ou de le licencier pour ce motif (art. L1132-3-1) ; le juré reçoit une indemnité de session et peut être indemnisé de sa perte de salaire.",
     "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1044"
   },
   {
@@ -432,7 +432,7 @@
     "choices": [
       "Rien, car un policier ne peut jamais être sanctionné",
       "Saisir le Défenseur des droits ou l'inspection de la police",
-      "Publier l'adresse personnelle du policier sur internet",
+      "Saisir le Conseil constitutionnel",
       "Refuser désormais tout contrôle de police"
     ],
     "answer": 1,
@@ -445,7 +445,7 @@
     "subtheme": "Police et gendarmerie",
     "type": "situation",
     "origin": "complement",
-    "question": "Le frère de Malik vient d'être placé en garde à vue. Malik se demande quels sont ses droits. Quelle affirmation est exacte ?",
+    "question": "Le frère de Malik vient d'être placé en garde à vue. Malik se demande quels droits a son frère. Quelle affirmation est exacte ?",
     "choices": [
       "Il n'a aucun droit pendant la garde à vue",
       "Il ne pourra voir un avocat qu'au procès",
@@ -467,10 +467,10 @@
       "Porter plainte au commissariat ou à la gendarmerie",
       "Aller récupérer son téléphone par la force",
       "Publier la photo du jeune sur les réseaux sociaux",
-      "Demander à des amis d'aller le menacer"
+      "Attendre d'avoir des preuves avant de prévenir la police"
     ],
     "answer": 0,
-    "explanation": "En France, il est interdit de se faire justice soi-même : seule la justice peut juger et sanctionner l'auteur d'un vol. Nicolas porte plainte et transmet aux enquêteurs les informations dont il dispose.",
+    "explanation": "En France, il est interdit de se faire justice soi-même : seule la justice peut juger et sanctionner l'auteur d'un vol. Nicolas porte plainte sans attendre, même sans preuve, et transmet aux enquêteurs les informations dont il dispose.",
     "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1435"
   },
   {
@@ -571,7 +571,7 @@
       "C'est légal si elle travaille depuis moins d'un an"
     ],
     "answer": 1,
-    "explanation": "Il est interdit de licencier une salariée en raison de sa grossesse, et elle est protégée pendant son congé maternité (art. L1225-4 du Code du travail). C'est aussi une discrimination : le licenciement peut être annulé par le conseil de prud'hommes.",
+    "explanation": "Il est interdit de licencier une salariée en raison de sa grossesse : c'est une discrimination. Elle est protégée dès que sa grossesse est médicalement constatée, pendant son congé maternité et les 10 semaines qui suivent (art. L1225-4 du Code du travail). Le conseil de prud'hommes peut annuler le licenciement.",
     "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2873"
   },
   {
@@ -588,7 +588,7 @@
       "Casser du matériel de l'entreprise"
     ],
     "answer": 2,
-    "explanation": "Un licenciement suit une procédure : convocation à un entretien préalable, puis lettre de licenciement qui indique le motif. Un licenciement seulement oral est irrégulier ; le salarié peut le contester devant le conseil de prud'hommes (en principe dans les 12 mois).",
+    "explanation": "Un licenciement suit une procédure : convocation à un entretien préalable, puis lettre de licenciement qui indique le motif. Un licenciement seulement oral n'est pas valable : il est jugé sans cause réelle et sérieuse, et le salarié peut le contester devant le conseil de prud'hommes (en principe dans les 12 mois).",
     "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2360"
   },
   {
@@ -656,8 +656,8 @@
       "Elle doit répondre si l'entreprise est petite"
     ],
     "answer": 1,
-    "explanation": "Une candidate n'est pas tenue de révéler qu'elle est enceinte (art. L1225-1 du Code du travail) : les questions du recruteur doivent avoir un lien direct avec le poste. Écarter une candidate à cause de sa grossesse est une discrimination punie par la loi.",
-    "source": "https://code.travail.gouv.fr/code-du-travail/l1225-1"
+    "explanation": "Une candidate n'est pas tenue de révéler qu'elle est enceinte (art. L1225-2 du Code du travail) : les questions du recruteur doivent avoir un lien direct avec le poste. Écarter une candidate à cause de sa grossesse est une discrimination interdite (art. L1225-1).",
+    "source": "https://code.travail.gouv.fr/code-du-travail/l1225-2"
   },
   {
     "id": "dro-s-040",
@@ -839,11 +839,11 @@
     "choices": [
       "Lui parler calmement pour trouver une solution",
       "Mettre sa propre musique encore plus fort",
-      "Couper l'électricité de son appartement",
+      "Saisir directement le tribunal judiciaire",
       "Déposer des menaces dans sa boîte aux lettres"
     ],
     "answer": 0,
-    "explanation": "La liberté de chacun s'arrête là où commence celle des autres. On commence par le dialogue, puis un courrier, puis le conciliateur de justice (gratuit) ; en cas de tapage nocturne, la police peut aussi intervenir (amende forfaitaire de 68 €).",
+    "explanation": "La liberté de chacun s'arrête là où commence celle des autres. On commence par le dialogue, puis un courrier, puis le conciliateur de justice (gratuit) : avant de saisir le juge pour un trouble de voisinage, une tentative de règlement amiable est en principe obligatoire. En cas de tapage nocturne, la police peut aussi intervenir (amende forfaitaire de 68 €).",
     "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F612"
   },
   {
@@ -1004,7 +1004,7 @@
       "À la mairie de sa commune",
       "Uniquement à la préfecture",
       "Au bureau de vote, le jour du scrutin",
-      "Au tribunal judiciaire"
+      "Au commissariat de police"
     ],
     "answer": 0,
     "explanation": "On s'inscrit à la mairie, par courrier ou en ligne, avec une pièce d'identité et un justificatif de domicile, au plus tard le 6e vendredi avant le scrutin (12 mars 2027 pour le 1er tour du 18 avril 2027). Une personne naturalisée est en principe inscrite automatiquement, mais il est prudent de le vérifier.",
@@ -1111,7 +1111,7 @@
   },
   {
     "id": "dro-s-067",
-    "theme": "environnement",
+    "theme": "droits",
     "subtheme": "Environnement",
     "type": "situation",
     "origin": "complement",

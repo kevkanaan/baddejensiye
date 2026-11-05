@@ -590,7 +590,7 @@
       "Le juge (le tribunal)"
     ],
     "answer": 3,
-    "explanation": "Seule la justice peut punir : le vol est un délit jugé par le tribunal correctionnel. La police arrête et enquête mais ne prononce pas la peine, et personne n'a le droit de se faire justice soi-même.",
+    "explanation": "Seule la justice peut punir : un vol simple est un délit, jugé par le tribunal correctionnel (un vol à main armée est un crime). La police arrête et enquête mais ne prononce pas la peine, et personne n'a le droit de se faire justice soi-même.",
     "source": "https://www.justice.fr"
   },
   {
@@ -698,7 +698,7 @@
       "Une pétition signée par un million de citoyens"
     ],
     "answer": 2,
-    "explanation": "Le Congrès (Assemblée nationale et Sénat réunis à Versailles) peut adopter une révision à la majorité des 3/5 : c'est ainsi que l'IVG a été inscrite dans la Constitution le 4 mars 2024. Une pétition, un décret ou le Conseil constitutionnel ne peuvent pas modifier la Constitution.",
+    "explanation": "Le Congrès (Assemblée nationale et Sénat réunis à Versailles) peut adopter une révision à la majorité des 3/5 des suffrages exprimés : c'est ainsi que la liberté de recourir à l'IVG a été inscrite dans la Constitution (vote du Congrès le 4 mars 2024, loi constitutionnelle du 8 mars 2024). Une pétition, un décret ou le Conseil constitutionnel ne peuvent pas modifier la Constitution.",
     "source": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur"
   },
   {
@@ -734,7 +734,7 @@
       "Conseiller le Président en politique étrangère"
     ],
     "answer": 1,
-    "explanation": "Le Conseil constitutionnel (9 membres nommés pour 9 ans, présidé par Richard Ferrand depuis mars 2025) contrôle la conformité des lois à la Constitution et la régularité des élections nationales. Le budget est voté par le Parlement et les crimes sont jugés par la cour d'assises.",
+    "explanation": "Le Conseil constitutionnel (9 membres nommés pour 9 ans, présidé par Richard Ferrand depuis mars 2025) contrôle la conformité des lois à la Constitution et la régularité des élections nationales. Le budget est voté par le Parlement, et les crimes sont jugés par la cour d'assises ou la cour criminelle départementale.",
     "source": "https://www.conseil-constitutionnel.fr"
   },
   {
@@ -1275,6 +1275,6 @@
     ],
     "answer": 1,
     "explanation": "Le siège officiel du Parlement européen est à Strasbourg, où se tiennent ses 12 sessions plénières mensuelles ; il travaille aussi à Bruxelles (commissions) et à Luxembourg (secrétariat). Moyen mnémotechnique : Parlement à Strasbourg, Commission à Bruxelles.",
-    "source": "https://european-union.europa.eu/principles-countries-history/symbols_fr"
+    "source": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies/european-parliament_fr"
   }
 ]

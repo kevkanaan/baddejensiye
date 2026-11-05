@@ -35,7 +35,11 @@ export default async function Page({ params }: { params: Promise<{ theme: string
           <span className={`h-7 w-1.5 rounded-full ${meta.bar}`} />
           {fiche.title}
         </h1>
-        {fiche.intro && <p className="mt-2 text-slate-600 dark:text-slate-400">{fiche.intro}</p>}
+        {fiche.intro && (
+          <p className="mt-2 text-slate-600 dark:text-slate-400">
+            <RichText text={fiche.intro} />
+          </p>
+        )}
       </div>
 
       <nav className="card p-4">

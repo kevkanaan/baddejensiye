@@ -244,8 +244,8 @@
     "choices": [
       "L'édit de Nantes signé par Henri IV en 1598",
       "La Déclaration des droits de l'homme et du citoyen de 1789",
-      "Le Concordat signé par Napoléon Bonaparte en 1801",
-      "Le traité de Rome créant la Communauté européenne en 1957"
+      "Le Concordat conclu entre Bonaparte et le pape en 1801",
+      "Le traité de Rome créant la Communauté économique européenne en 1957"
     ],
     "answer": 1,
     "explanation": "Adoptée le 26 août 1789, pendant la Révolution, la DDHC rappelle dans son préambule à tous les membres de la société « leurs droits et leurs devoirs » ; elle fait toujours partie de la Constitution. Ne pas la confondre avec la « Charte des droits et devoirs du citoyen français », plus récente, que l'on signe lors de la naturalisation.",
@@ -261,7 +261,7 @@
     "question": "Quel texte affirme que tous les hommes naissent libres et égaux en droits ?",
     "choices": [
       "Le Code civil promulgué par Napoléon en 1804",
-      "La Charte de l'environnement adossée à la Constitution en 2004",
+      "La Charte de l'environnement intégrée à la Constitution en 2005",
       "La Déclaration des droits de l'homme et du citoyen de 1789",
       "La loi de séparation des Églises et de l'État de 1905"
     ],
@@ -284,7 +284,7 @@
       "Faire travailler une personne sans la payer"
     ],
     "answer": 3,
-    "explanation": "Respecter la dignité humaine, c'est ne jamais traiter une personne comme un objet ou un simple moyen. Le livret du citoyen cite l'exemple d'une personne qui travaille pour une entreprise sans être payée : c'est une forme d'exploitation, punie par la loi.",
+    "explanation": "Respecter la dignité humaine, c'est ne jamais traiter une personne comme un objet ou un simple moyen. Obtenir d'une personne vulnérable ou dépendante un travail non payé (ou payé de façon dérisoire) est une forme d'exploitation punie par le Code pénal (art. 225-13), au titre des atteintes à la dignité de la personne.",
     "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
   },
   {
@@ -554,7 +554,7 @@
       "Non, une déclaration tous les cinq ans suffit"
     ],
     "answer": 1,
-    "explanation": "Chaque foyer fiscal résidant en France doit déclarer chaque année l'intégralité de ses revenus, même faibles ou non imposables : c'est la « contribution commune » de l'article 13 de la DDHC. L'avis de non-imposition sert de justificatif pour de nombreuses aides, et une fausse déclaration est sanctionnée.",
+    "explanation": "Chaque foyer fiscal résidant en France doit déclarer chaque année l'intégralité de ses revenus, même faibles ou non imposables. L'avis de non-imposition sert de justificatif pour de nombreuses aides, et une fausse déclaration est sanctionnée. L'impôt est la « contribution commune » prévue par l'article 13 de la DDHC.",
     "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F358"
   },
   {
@@ -788,7 +788,7 @@
       "Posséder un logement"
     ],
     "answer": 0,
-    "explanation": "Respecter les lois est le premier devoir du citoyen, et de toute personne vivant en France. Autres devoirs : payer ses impôts, participer à la défense (recensement à 16 ans, JDC), répondre à une convocation de juré, scolariser ses enfants ; voter est un devoir civique, mais pas une obligation.",
+    "explanation": "Respecter les lois est le premier devoir du citoyen, et de toute personne vivant en France. Autres devoirs : payer ses impôts, participer à la défense (recensement à 16 ans, journée de mobilisation, ex-JDC), répondre à une convocation de juré, assurer l'instruction de ses enfants de 3 à 16 ans ; voter est un devoir civique, mais pas une obligation.",
     "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
   },
   {
@@ -806,7 +806,7 @@
       "Vivre dans sa ville de naissance"
     ],
     "answer": 1,
-    "explanation": "Défendre la patrie est un devoir du citoyen : les jeunes Français doivent se faire recenser à 16 ans et participer à la JDC, rebaptisée « journée de mobilisation » en 2026. Le service militaire n'est plus obligatoire depuis 1997, mais il existe un service militaire volontaire et des réserves.",
+    "explanation": "Défendre la patrie est un devoir du citoyen : les jeunes Français doivent se faire recenser à 16 ans et participer à la JDC, rebaptisée « journée de mobilisation » en 2026. Le service militaire obligatoire est suspendu depuis la loi du 28 octobre 1997, mais on peut s'engager comme volontaire (service national militaire volontaire, réserves).",
     "source": "https://www.immigration.interieur.gouv.fr/sites/dgef/files/medias/documents/2026-07/LIVRET-DU-CITOYEN-2026.pdf"
   },
   {

@@ -23,9 +23,15 @@ La progression est stockée dans le navigateur (localStorage) : aucun compte, au
 
 - `research/` : notes de recherche sourcées (format de l'examen, sources officielles, sites existants, mises en situation,
   faits à jour au 4 novembre 2026) et texte de la liste officielle des questions de connaissance (12/12/2025).
-- `data/questions/*.json` : banque de questions (format décrit dans `data/SCHEMA.md`).
-- `data/fiches/*.json` : fiches de révision.
-- `npm run validate` vérifie les données ; elles sont fusionnées dans `generated/` avant `dev` et `build`.
+- `data/questions/*.json` : banque de **518 questions** (format décrit dans `data/SCHEMA.md`) :
+  - **373 questions de la liste officielle** : les **259 intitulés** du PDF du ministère (dont 15 insérés comme images
+    dans le PDF, absents du texte extrait) et des variantes quand les choix du jour J peuvent changer ;
+  - **145 mises en situation** (66 « principes et valeurs », 79 « droits et devoirs ») ;
+  - chaque question de connaissance porte sa **notion officielle**, pour tirer des examens blancs conformes à l'arrêté.
+- `data/fiches/*.json` : 5 fiches de révision (14 sections chacune).
+- Chaque fichier a été relu par un vérificateur adversarial (faits au 5 novembre 2026, réponse attendue, ambiguïtés).
+- `npm run validate` vérifie le format des données ; `npm run coverage` vérifie que chaque intitulé officiel a sa question ;
+  les données sont fusionnées dans `generated/` avant `dev` et `build`.
 
 ## Lancer en local
 

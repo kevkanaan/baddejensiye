@@ -1,0 +1,173 @@
+{
+  "theme": "societe",
+  "title": "Vivre dans la société française",
+  "intro": "L'examen pose 4 questions de connaissance sur ce thème (sur 40) : s'installer (état civil, logement, démarches), se soigner, travailler, et la vie de famille et l'école. Ce sont des règles concrètes du quotidien : retenez surtout les chiffres (5 jours, 35 h, 3-16 ans, 25 + 3 jours) et les bons interlocuteurs (mairie, CPAM, France Travail, prud'hommes).",
+  "sections": [
+    {
+      "title": "État civil : naissance, mariage, divorce",
+      "points": [
+        "**Naissance** : à déclarer au service d'état civil de la **mairie du lieu de naissance**, dans les **5 jours** (le jour de la naissance n'est pas compté) ; certaines maternités le font sur place",
+        "**Toute naissance en France** doit être déclarée, que les parents soient **mariés ou non**, **français ou étrangers** ; la mairie établit l'**acte de naissance**",
+        "Mnémo : **naissance, mariage, décès = toujours la mairie** ; **5 jours = les 5 doigts de la main**",
+        "Seul le **mariage civil**, célébré **à la mairie** par le maire ou un adjoint, a une **valeur légale** ; la cérémonie religieuse ne peut avoir lieu **qu'après** (mnémo : **d'abord la mairie**)",
+        "**Mariage pour tous** depuis la loi du **17 mai 2013** : deux hommes ou **deux femmes** peuvent se marier en mairie ; âge minimum : **18 ans** pour tous",
+        "Aucune valeur légale : mariage **seulement religieux**, mariage **forcé** (sans consentement), **polygamie** (second mariage sans divorce)",
+        "**Divorce** : demandé par **l'un ou l'autre des époux** (mari ou femme), seul ou d'un commun accord ; prononcé par le **juge** ou, en cas d'accord, par une **convention signée avec l'avocat de chaque époux**, déposée chez un **notaire** ; la **répudiation** n'est pas reconnue"
+      ]
+    },
+    {
+      "title": "Logement et vie quotidienne",
+      "points": [
+        "Le **locataire** peut faire seul des travaux de **décoration** : **repeindre** les murs, poser du **papier peint**",
+        "Il faut l'**accord écrit du propriétaire** pour **transformer** le logement (abattre une cloison, démolir un mur, transformer le garage, construire une véranda) et pour **sous-louer** (même une pièce, même à des touristes)",
+        "Mnémo : **décorer oui, transformer non**",
+        "Le locataire doit avoir une **assurance habitation** (incendie, dégât des eaux) : ne pas confondre avec la **mutuelle**, qui concerne la santé",
+        "**Place handicapée** : réservée aux titulaires de la **carte mobilité inclusion (CMI) « stationnement »** ; sans carte, **interdit en toutes circonstances** (même 1 minute, même avec les feux de détresse, même le dimanche) : **amende de 135 €** et **fourrière** possible",
+        "**Tabac** : interdit dans tous les **lieux publics fermés** et, depuis le **1er juillet 2025**, dans les **parcs**, sur les **plages**, sous les **abribus** et aux **abords des écoles** (amende de **135 €**) ; encore autorisé en **terrasse** de café",
+        "Vente d'**alcool** et de **tabac** **interdite aux mineurs** (moins de 18 ans)"
+      ]
+    },
+    {
+      "title": "Déchets et consommation : la machine à laver cassée",
+      "points": [
+        "Gros appareil hors d'usage (machine à laver, frigo) = **encombrant** → **déchèterie** (mnémo : **encombrant = déchèterie**)",
+        "Ou **reprise gratuite par le vendeur** quand on achète un appareil neuf du même type (principe du **« un pour un »**)",
+        "Appareil acheté neuf : **garantie légale de conformité de 2 ans** auprès du **vendeur** (réparation ou remplacement gratuits)",
+        "Interdit : le laisser sur le **trottoir**, au pied de l'immeuble ou dans un **bois** (= **dépôt sauvage**, puni d'une **amende**), le **brûler**, le jeter avec les **ordures ménagères** ou dans le **bac jaune** (réservé aux emballages)",
+        "Ni la **mairie** ni la **préfecture** ne remboursent ou ne réparent un appareil"
+      ]
+    },
+    {
+      "title": "Justice et impôts",
+      "points": [
+        "**Aide juridictionnelle** : l'**État** paie tout ou partie des frais de justice et de l'**avocat** des personnes aux **ressources modestes** (mnémo : **juridiction = tribunal**)",
+        "À ne pas confondre : **RSA** (revenu minimum), **APL** (aide au logement, versée par la **CAF**), **prime d'activité** (complément pour les travailleurs modestes)",
+        "**Impôt sur le revenu** : chaque foyer **déclare ses revenus chaque année** (au printemps, en ligne sur **impots.gouv.fr**) ; depuis le **1er janvier 2019**, l'impôt est **prélevé à la source** (directement sur le salaire)",
+        "Payer l'impôt est un **devoir** : chacun contribue **selon ses moyens** (**DDHC de 1789**, art. 13)",
+        "Désaccord sur l'impôt : d'abord avec l'**administration fiscale**, puis devant le **tribunal administratif**"
+      ]
+    },
+    {
+      "title": "Numéros d'urgence",
+      "points": [
+        "**15** = **SAMU** : urgence médicale (malaise, détresse vitale)",
+        "**17** = **police secours** (police ou gendarmerie) : agression, vol, violence",
+        "**18** = **pompiers** : incendie, accident",
+        "**112** = **numéro d'urgence européen**, valable dans **toute l'Union européenne**",
+        "**114** = urgences pour les personnes **sourdes ou malentendantes** (SMS, visio, tchat)",
+        "**115** = **SAMU social** (hébergement d'urgence des sans-abri) ; **119** = **enfance en danger** ; **3919** = **violences faites aux femmes** (écoute ; en danger immédiat, appeler le 17)",
+        "Mnémo : dans l'ordre **15-17-18 = Santé, Police, Pompiers** ; le **115** est le 15 « **social** » (un toit), pas médical"
+      ]
+    },
+    {
+      "title": "Se soigner : l'Assurance maladie",
+      "points": [
+        "L'inscription à l'**Assurance maladie** est **obligatoire** pour toute personne qui **travaille ou réside** en France de façon **stable et régulière** (**PUMa** : protection universelle maladie)",
+        "Elle n'est réservée ni aux **Français** ni aux **salariés** : droit ouvert après **3 mois de résidence** régulière, même **sans emploi**",
+        "Remboursement des frais de santé : l'**Assurance maladie**, via la **CPAM** de son domicile (pas la **CAF**, qui verse les prestations familiales et l'APL)",
+        "**Carte Vitale** : sert à **être remboursé** de ses frais de santé (elle transmet la feuille de soins) ; ce n'est **ni une pièce d'identité, ni une carte bancaire, ni une carte d'électeur**",
+        "**Tiers payant** = **dispense d'avance des frais** : le médecin ou le pharmacien est payé directement par l'organisme (mnémo : le **tiers** est celui qui **paie à votre place**)",
+        "**Mutuelle** (complémentaire santé) : **complète** les remboursements de l'Assurance maladie, **ne la remplace pas** ; l'employeur privé doit en proposer une et en payer **au moins la moitié**"
+      ]
+    },
+    {
+      "title": "Droits du patient et santé des femmes",
+      "points": [
+        "**Principe de confidentialité** = **secret médical** : les soignants ne révèlent **rien** de votre santé sans votre accord, ni à l'**employeur**, ni à la **famille**, ni à l'administration ; violation punie d'**1 an de prison et 15 000 €**",
+        "En **arrêt maladie**, l'employeur ne connaît **pas le diagnostic**",
+        "**Contraception** : un **droit pour toutes et tous**, légal depuis la **loi Neuwirth (1967)** ; **aucune autorisation** du conjoint ou des parents ; accessible aux **mineurs**, de façon **confidentielle**",
+        "Contraceptifs remboursables **gratuits pour les moins de 26 ans** ; contraception d'urgence **gratuite en pharmacie, sans ordonnance**",
+        "**IVG** (avortement) : légale depuis la **loi Veil (1975)**, possible jusqu'à la **fin de la 14e semaine** de grossesse ; sans accord du conjoint ; une mineure n'a pas besoin de l'accord de ses parents (elle se fait accompagner d'un **adulte de son choix**)",
+        "Depuis le **8 mars 2024**, la **liberté de recourir à l'IVG** est **garantie par la Constitution** (art. 34) : la France est le **premier pays au monde** à l'y inscrire (mnémo : **8 mars = journée des droits des femmes**)",
+        "**Fin de vie** : depuis la loi du **18 août 2026**, une **aide à mourir** strictement encadrée est légale (personne majeure atteinte d'une maladie grave et incurable en phase avancée ou terminale)"
+      ]
+    },
+    {
+      "title": "Travailler : temps de travail et salaire",
+      "points": [
+        "Les règles du travail sont fixées par le **code du travail** et les **conventions collectives** de chaque branche (+ contrat de travail, règlement intérieur dès **50 salariés**)",
+        "**Durée légale du travail** : **35 heures par semaine** ; au-delà = **heures supplémentaires**, payées avec une majoration",
+        "Maximums : **10 h par jour** et **48 h sur une semaine** (48 h n'est pas la durée légale)",
+        "**SMIC** = **salaire minimum interprofessionnel de croissance** : le **salaire horaire minimum** fixé par la loi, que l'employeur doit verser à tout salarié majeur",
+        "SMIC depuis le **1er juin 2026** : **12,31 € brut de l'heure**, soit **1 867,02 € brut par mois** pour 35 h (mnémo : **12/31, comme le 31 décembre**)",
+        "Revalorisé chaque **1er janvier**, et en cours d'année si les prix augmentent d'au moins **2 %** ; il n'existe **pas de salaire maximum** légal",
+        "**Congés payés** : **2,5 jours ouvrables par mois** travaillé = **5 semaines par an**",
+        "**Retraite** : âge légal **gelé à 62 ans et 9 mois** jusqu'au 1er janvier 2028 (réforme de 2023 suspendue)"
+      ]
+    },
+    {
+      "title": "Emploi et droits des salariés",
+      "points": [
+        "Chercher un emploi : **1re démarche = s'inscrire à France Travail**, qui a remplacé **Pôle emploi** le **1er janvier 2024** (offres, conseils, formations, indemnisation) ; jeunes de **16 à 25 ans** : aussi la **mission locale**",
+        "**Travail non déclaré** (« au noir ») = **travail dissimulé** : **interdit** dans tous les cas (même si le salarié est d'accord, même court, même saisonnier, même sous le SMIC) ; l'employeur risque **3 ans de prison et 45 000 €** ; le travailleur n'a **ni protection sociale, ni chômage, ni retraite**",
+        "**Syndicats** : **tout salarié** peut adhérer librement au syndicat de son choix, **homme ou femme**, **quelle que soit sa nationalité**, en CDI, CDD ou intérim, **sans autorisation de l'employeur** (droit garanti par le **Préambule de 1946**)",
+        "**Conseil de prud'hommes** : juge les **litiges entre salariés et employeurs** (**licenciement contesté**, salaire impayé, heures sup., discrimination) ; composé à **parts égales** de représentants des salariés et des employeurs (mnémo : **prud'hommes = travail**)",
+        "Ce n'est pas les prud'hommes : divorce (**juge aux affaires familiales**), crimes (**cour d'assises**), litige de voisinage (**tribunal judiciaire**), conflit avec l'administration (**tribunal administratif**)",
+        "**Licencier une femme à cause de sa grossesse** est **interdit** (discrimination) ; **aucun licenciement** pendant le **congé maternité** ; un licenciement illégal est **annulé** par les prud'hommes",
+        "**Créer son entreprise** : une **femme** le fait **librement, comme un homme**, sans l'accord de personne (depuis **1965**, une femme mariée peut travailler et ouvrir un compte bancaire sans l'accord de son mari)",
+        "Un **étranger en situation régulière** peut créer son entreprise **comme un Français**, si son **titre de séjour** le permet (pas besoin d'être naturalisé ni d'avoir un associé français)"
+      ]
+    },
+    {
+      "title": "Congés familiaux",
+      "points": [
+        "**Congé paternité** depuis le **1er juillet 2021** : **25 jours** (32 pour des naissances multiples) **+ 3 jours de congé de naissance = 28 jours** au total ; avant : 11 + 3 = 14 jours",
+        "Mnémo : **25 + 3 = 28 jours = 4 semaines**, dont **7 jours obligatoires** juste après la naissance",
+        "**Congé maternité** : **16 semaines** pour un 1er ou un 2e enfant (ne pas le confondre avec le congé paternité)",
+        "**Congé parental d'éducation** : ouvert au **père comme à la mère** (tout salarié parent, sans condition de nationalité, en général après **1 an d'ancienneté**) ; les deux parents peuvent le prendre **en même temps** ; l'employeur **ne peut pas le refuser**",
+        "**Nouveau** : depuis le **1er juillet 2026**, **congé supplémentaire de naissance** de **1 ou 2 mois par parent**, **en plus** des congés maternité et paternité (enfants nés ou adoptés depuis le 1er janvier 2026)"
+      ]
+    },
+    {
+      "title": "Autorité parentale",
+      "points": [
+        "**Définition** (art. 371-1 du Code civil) : un ensemble de **droits et de devoirs** ayant pour but l'**intérêt de l'enfant** : le **protéger** (sécurité, santé, moralité), l'**éduquer**, permettre son **développement**",
+        "Elle appartient aux **deux parents**, jusqu'à la **majorité (18 ans)** ou l'émancipation de l'enfant",
+        "**Divorce** ou séparation : **les deux parents** continuent d'exercer l'autorité parentale et décident ensemble ; seul le **juge** peut la confier à un seul parent, dans l'intérêt de l'enfant",
+        "**Punir physiquement** son enfant est **interdit** : depuis la loi du **10 juillet 2019**, l'autorité parentale s'exerce **sans violences physiques ou psychologiques** (ni fessée, ni gifle, ni humiliation)",
+        "Enfant en danger : **119** ; harcèlement scolaire : **3018**"
+      ]
+    },
+    {
+      "title": "L'école : obligation et scolarité",
+      "points": [
+        "**Instruction obligatoire de 3 à 16 ans** pour **tous** les enfants (français ou étrangers, filles ou garçons), depuis la **rentrée 2019** (avant : dès 6 ans)",
+        "De **16 à 18 ans** : **obligation de formation** (études, apprentissage, emploi ou service civique) : ce n'est pas l'école obligatoire",
+        "Mnémo : **de 3 à 16** : on entre à la **maternelle** à 3 ans, on peut quitter l'école à **16 ans**, l'âge du **recensement**",
+        "Inscription à l'école **publique** (maternelle, élémentaire) : d'abord à la **mairie** (certificat d'inscription), puis admission à l'école",
+        "Parcours : **maternelle** → **élémentaire** (CP au CM2) → **collège** (6e à 3e, **brevet**) → **lycée** (**baccalauréat**) → enseignement supérieur",
+        "Absences acceptées (**motifs légitimes**) : **maladie de l'enfant**, maladie contagieuse d'un proche, **réunion solennelle de famille** (mariage, obsèques), difficulté accidentelle de transport, absence temporaire des parents que l'enfant accompagne",
+        "Refusées : **partir en vacances** avant la date, voyage touristique, garder un frère, aider ses parents au travail, fatigue ; dès **4 demi-journées** d'absence injustifiée dans le mois, l'école doit alerter",
+        "Ne pas inscrire son enfant malgré une **mise en demeure** = **délit** : **6 mois de prison et 7 500 € d'amende** ; si l'éducation de l'enfant est gravement compromise : jusqu'à **2 ans et 30 000 €** (mnémo : **prison + amende**)",
+        "**Téléphone portable interdit** à l'école, au collège et, depuis la **rentrée 2026**, au **lycée**"
+      ]
+    },
+    {
+      "title": "Parents d'élèves, élèves allophones ou handicapés",
+      "points": [
+        "Les parents peuvent : **rencontrer les enseignants** (et le directeur), **voter** et se présenter aux **élections des représentants de parents** (chaque année), **adhérer à une association de parents d'élèves**",
+        "Ils ne peuvent pas : choisir les enseignants ou les camarades, modifier le **programme**, fixer les **vacances** (ministère), imposer des menus, assister aux cours, **dispenser** l'enfant d'un cours obligatoire (sport, piscine, sciences)",
+        "Enfant qui **ne parle pas français** (allophone) : scolarisé **dès son arrivée**, en **classe ordinaire** de son âge, avec un **soutien en français** (**UPE2A**) ; ses parents peuvent apprendre le français avec **OEPRE**",
+        "Enfant **handicapé** : **droit d'être scolarisé** à l'école de son secteur, de préférence en classe ordinaire (loi du **11 février 2005**) ; l'école publique **ne peut pas refuser** de l'inscrire",
+        "Aménagements possibles : **emploi du temps aménagé**, matériel adapté, temps supplémentaire aux examens, **accompagnant (AESH)** payé par l'Éducation nationale ; démarches auprès de la **MDPH**",
+        "Il reste soumis à l'**instruction obligatoire** dès 3 ans, dans le public comme dans le privé, et passe les examens"
+      ]
+    },
+    {
+      "title": "Pièges fréquents",
+      "points": [
+        "**SMIC** : **12,31 €/h brut** (1 867,02 €/mois) depuis le **1er juin 2026** : plus 12,02 € (janvier-mai 2026) ni 11,88 € (2025) ; la **durée légale** reste **35 h** (39 h, c'était avant 2000 ; 48 h = maximum hebdomadaire)",
+        "**Congé paternité** : **25 jours + 3 = 28 jours** (pas 11 + 3, ancienne règle ; pas 16 semaines, c'est la maternité) ; le **congé supplémentaire de naissance** (1 ou 2 mois, 2026) vient **en plus**",
+        "**Instruction obligatoire** : dès **3 ans** (« 6 ans » est périmé depuis 2019), jusqu'à **16 ans** (18 ans = obligation de formation)",
+        "**IVG** : **14 semaines** (12 semaines avant 2022) ; inscrite dans la **Constitution** le **8 mars 2024**, qui reste la **dernière révision** constitutionnelle",
+        "**Pôle emploi** n'existe plus : c'est **France Travail** depuis le **1er janvier 2024**",
+        "**CPAM ≠ CAF** : la CPAM rembourse les **soins**, la CAF verse les **allocations familiales** et l'**APL** ; la **mutuelle complète** l'Assurance maladie, elle ne la remplace pas",
+        "**15 ≠ 115** : le 15 = SAMU médical, le 115 = SAMU social (hébergement) ; **17** = police, **18** = pompiers, **112** = Europe, **119** = enfance",
+        "**Mariage** : seul le **civil** compte, et il passe **avant** le religieux ; **divorce** : l'un **ou** l'autre époux le demande, et il **ne retire pas** l'autorité parentale",
+        "**Aucune tolérance** : place handicapée (même 1 minute), travail au noir (même si le salarié est d'accord), fessée (même « simple »), machine à laver sur le trottoir",
+        "**Nouveau en 2025-2026** : plus de cigarette dans les **parcs, plages, abribus** (mais toujours en terrasse) ; **portable interdit au lycée** ; **aide à mourir** légale (loi du **18 août 2026**)",
+        "Une même question peut avoir des variantes : « Si une machine à laver est cassée » → **déchèterie**, **reprise par le vendeur** ou **garantie légale de 2 ans** ; « Quel mariage est reconnu ? » → **mariage civil**, y compris **entre deux femmes** : choisissez toujours la réponse **légale et respectueuse de l'égalité**"
+      ]
+    }
+  ]
+}
